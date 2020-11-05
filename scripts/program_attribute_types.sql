@@ -1,0 +1,3 @@
+-- add program attribute types if they don't exist
+insert into program_attribute_type(name, description, datatype,creator, date_created, uuid, datatype_config) values ("Belongs to external cohort","Cohort","org.bahmni.module.bahmnicore.customdatatype.datatype.CodedConceptDatatype", 1, NOW(), "4d2da371-8ec8-11e9-8241-000d3a7a65c9", (select concept_id from concept where uuid = '4d2c51b9-8ec8-11e9-8241-000d3a7a65c9'));
+insert into program_attribute_type(name, description, datatype,creator, date_created, uuid, datatype_config) values ("Regimen type","Regimen type","org.bahmni.module.bahmnicore.customdatatype.datatype.CodedConceptDatatype", 1, NOW(), "ca17fc4f-41fc-11ea-be59-000d3a7a65c9", (select concept_id from concept where uuid = 'ca12c837-41fc-11ea-be59-000d3a7a65c9'));
