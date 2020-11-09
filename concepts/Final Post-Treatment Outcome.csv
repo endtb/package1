@@ -6,8 +6,8 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 "
 4abefef8-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB",Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB,,,Misc,N/A,,
 4abeffc0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration ",One positive culture with clinical signs or symptoms or radiographic deterioration ,,,Misc,N/A,,
-4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"All Oral STR, If recurrence",If recurrence,,,Misc,N/A,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration 
-",
+4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"All Oral STR, If recurrence",If recurrence,,,Misc,N/A,,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration 
+"
 4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"All Oral STR, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,No change in outcome since end of treatment; Died post treatment; Relapse or recurrence; LTFU post treatment; Not Evaluated
 4abf01f0-22c2-11eb-adc1-0242ac120002,,,"All Oral STR, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"Date of post-treatment outcome decision; Final Post-Treatment Outcome; All Oral STR, If no recurrence; All Oral STR, If no recurrence; All Oral STR, If recurrence; 6m PTO, LTFU; 6m PTO, Not evaluated;
 ",
