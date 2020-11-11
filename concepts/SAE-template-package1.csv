@@ -1,6 +1,6 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
 985355ae-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:spnsr,"All Oral Str, Sponsor",Sponsor,,,Misc,Text,,
-98535716-234b-11eb-adc1-0242ac1e0002,,EndTB-Export:prot_id,"All Oral Str, Protocol/Program number",Protocol/ number,,,Misc,Text,,
+98535716-234b-11eb-adc1-0242ac1e0002,,EndTB-Export:prot_id,"All Oral Str, Protocol/Program number",Protocol/Program number,,,Misc,Text,,
 985357e8-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:site_id,"All, Site number (for studies) or country",Site number,,,Misc,Text,,
 9853596e-234b-11eb-adc1-0242ac100002,,EndTB-Export:type_rep,"All Oral Str, Type of Report",Type of Report,,,Misc,Text,,
 98535a40-234b-11eb-adc1-0242ac120002,,EndTB-Export:rel_med_hist,"All Oral Str, Indicate relevant medical history, including prior diagnoses past laboratory investigations, X-ray, ECG prior to treatment, previous procedures and relevant past drugs",Relevant Medical History,,,Misc,Text,,

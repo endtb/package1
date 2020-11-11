@@ -1,0 +1,30 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
+"ef69d778-bc5c-45ca-aa21-b234d51f5dec
+",,EndTB-Export:7,"All Oral STR, Withdrawal",Withdrawal,,,Misc,N/A,,
+"ef69d778-bc5c-45ca-aa21-b234d51e6dec
+",,,"EOT, Outcome;",Outcome,,,Misc,N/A,"Cured;
+Completed;
+Died;
+Failed;
+LTFU; All Oral STR, Withdrawal;
+Not Evaluated;
+Treatment adapted;
+EOT, Transferred to endTB clinical trial",
+068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Shortened regimen was changed due to baseline drug resistance
+",Shortened regimen was changed due to baseline drug resistance,,,Misc,N/A,,
+068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, Participant chose to end study participation",Participant chose to end study participation,,,Misc,N/A,,
+068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"All Oral STR, If withdrawal reason for withdrawal",Reason for Withdrawal ,,,Misc,Coded,,"All Oral STR, Shortened regimen was changed due to baseline drug resistance;
+All Oral STR, Participant chose to end study participation;
+Other"
+068d47ec-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr_oth,"All Oral STR, If withdrawal other",Other reason for withdrawal ,,,Misc,Text,,
+068d48b4-2472-11eb-adc1-0242ac120002,,,"All Oral STR, withdrawn",Withdrawn,,,Misc,N/A,"All Oral STR, If withdrawal reason for withdrawal; All Oral STR, If withdrawal other",
+"bb80d45d-e4c5-4ce0-bb7c-0a34d2635ea5
+",,,"Outcome End of Treatment Template
+",Outcome - End of Treatment,,,Misc,N/A,"Tuberculosis treatment end date;
+EOT, End of Treatment Outcome date;
+EOT, Outcome;
+EOT, Comments to treatment outcome;
+EOT, Died;
+EOT, Failed;
+EOT, LTFU; All Oral STR, withdrawn;
+EOT, Not evaluated;",
