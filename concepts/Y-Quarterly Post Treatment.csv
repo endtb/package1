@@ -1,5 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow decimals,Units,Normal low,Normal high
-,,EndTB-Export:d_postend_cont,"All Oral STR, Date of contact",Date of contact,,,Question,Data type,,,,,,
+,,EndTB-Export:d_postend_cont,"All Oral STR, Date of contact",Date of contact,,,Question,Date,,,,,,
 d23ebc46-510b-498e-adbc-575f26930cca,,EndTB-Export:5,"All Oral STR, Physical meeting elsewhere",Physical meeting elsewhere,,,Misc,N/A,,,,,,
 ebc013ef-64ec-4ee5-86fa-d245db6a3b3d,,EndTB-Export:4,"All Oral STR, Physical meeting in health facility",Physical meeting in health facility ,,,Misc,N/A,,,,,,
 99410341-ae00-41b8-b7b8-9621a1c722ad,,EndTB-Export:3,"All Oral STR, Email",Email,,,Misc,N/A,,,,,,
@@ -64,4 +64,16 @@ Failed;
 LTFU;
 Not Evaluated;
 Treatment adapted",,,,,
-ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"All Oral STR, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"All Oral STR EOT, Outcome; DATE OF DEATH; EOT, End of Treatment Outcome date; All Oral STR, EOT Visit Date; All Oral STR, Date of contact; All Oral STR, Type of contact; All Oral STR, Person from whom the information is provided/assessment made; All Oral STR, Indirect information if patient not seen in person; All Oral STR, Clinical questions to patient only; All Oral STR, Post treatment BPNS; All Oral STR, Medical Visits and Medications; All Oral STR,  Post treatment Household Contacts; All Oral STR, Action at end of assessment",,,,
+ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"All Oral STR, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"All Oral STR EOT, Outcome;
+DATE OF DEATH;
+EOT, End of Treatment Outcome date;
+All Oral STR, EOT Visit Date;
+All Oral STR, Date of contact;
+All Oral STR, Type of contact;
+All Oral STR, Person from whom the information is provided/assessment made;
+All Oral STR, Indirect information if patient not seen in person;
+All Oral STR, Clinical questions to patient only;
+All Oral STR, Post treatment BPNS;
+All Oral STR, Medical Visits and Medications;
+All Oral STR,  Post treatment Household Contacts;
+All Oral STR, Action at end of assessment",,,,
