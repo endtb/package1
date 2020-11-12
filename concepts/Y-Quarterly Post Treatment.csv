@@ -54,9 +54,9 @@ f4fe9b32-9fbb-453d-b7d9-3b3cbebc4df4,,EndTB-Export:postendtxoutcome_compl,"All O
 694fcead-be3f-4039-a5f4-8d0aa7fb795f,,EndTB-Export:ptnt_bpns_lft,"All Oral STR, BPNS Subjective score Left",BPNS score left,,,Misc,Numeric,,,No,,0,10
 694cfecd-be3f-4039-a5f4-8d0aa7fb796d,,EndTB-Export:ptnt_bpns_rt,"All Oral STR, BPNS Subjective score Right
 ",BPNS score right,,,Misc,Numeric,,,No,,0,10
-694cfecd-be3f-4129-a5f4-8d0aa7fb795f,,,"All Oral STR, Post treatment BPNS",BPNS Score,,,Misc,N/A,"All Oral STR, BPNS Subjective score Left;
+694cfecd-be3f-4129-a5f4-8d0aa7fb795f,,,"All Oral STR, Post treatment BPNS",BPNS Score,,,Misc,N/A,,"All Oral STR, BPNS Subjective score Left;
 All Oral STR, BPNS Subjective score Right
-",,,,,
+",,,,
 694cfecd-be3f-4039-a5f4-8d0aa7fb786f,,EndTB-Export:outcome,"All Oral STR EOT, Outcome",Outcome,,,Misc,Coded,"Cured;
 Completed;
 Died;
