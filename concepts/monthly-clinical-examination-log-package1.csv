@@ -1,8 +1,8 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-,,EndTB-Export:hosp,"All Oral STR, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False
-,,EndTB-Export:hosp_std,"All Oral STR, If hospitalized, start date",Hospitalization Start Date,,,Question,Data type,,
-,,EndTB-Export:hosp_endd,"All Oral STR, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,
-,,,"All Oral STR, Hospitalization Details",Hospitalization Detail,,,Misc,N/A,"All Oral STR, Was the patient hospitalized in the last month; All Oral STR, If hospitalized, start date; All Oral STR, If hospitalized, end date",
+7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"All Oral STR, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False
+7a634ba4-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_std,"All Oral STR, If hospitalized, start date",Hospitalization Start Date,,,Question,Date,,
+7a634c94-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_endd,"All Oral STR, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,
+7a634d8e-252a-11eb-adc1-0242ac120002,,,"All Oral STR, Hospitalization Details",Hospitalization Detail,,,Misc,N/A,"All Oral STR, Was the patient hospitalized in the last month; All Oral STR, If hospitalized, start date; All Oral STR, If hospitalized, end date",
 eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"All Oral STR, Other clinical Exam",Other,,,Misc,Text,,
 "73766466-d0e3-427c-a38b-2a01f49dd3fe
 ",,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
