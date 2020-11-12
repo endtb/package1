@@ -15,5 +15,5 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 EOT, Suspected primary cause of death;
 EOT, Type of surgery related to death;
 EOT, Non TB cause of death;",
-4abf01f0-22c2-11eb-adc1-0242ac120002,,,"All Oral STR, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"Date of post-treatment outcome decision; Final Post-Treatment Outcome; All Oral STR, If no recurrence; All Oral STR, If recurrence; DATE OF DEATH (915) EOT, Is the date of death estimated? (2831) EOT, Is the day of the date of death estimated (2778) EOT, Is the month of the date of death estimated (2779) EOT, Is the year of the date of death estimated (2780) EOT, Suspected primary cause of death (921) EOT, Type of surgery related to death (922) EOT, Non TB cause of death; 6m PTO, LTFU; 6m PTO, Not evaluated;
+4abf01f0-22c2-11eb-adc1-0242ac120002,,,"All Oral STR, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"Date of post-treatment outcome decision; Final Post-Treatment Outcome; All Oral STR, If no recurrence; All Oral STR, If recurrence; EOT, Died; 6m PTO, LTFU; 6m PTO, Not evaluated;
 ",
