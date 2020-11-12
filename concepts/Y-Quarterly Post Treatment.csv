@@ -1,53 +1,67 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members
-d23ebc46-510b-498e-adbc-575f26930cca,,EndTB-Export:5,"All Oral STR, Physical meeting elsewhere",Physical meeting elsewhere,,,Misc,N/A,,
-ebc013ef-64ec-4ee5-86fa-d245db6a3b3d,,EndTB-Export:4,"All Oral STR, Physical meeting in health facility",Physical meeting in health facility ,,,Misc,N/A,,
-99410341-ae00-41b8-b7b8-9621a1c722ad,,EndTB-Export:3,"All Oral STR, Email",Email,,,Misc,N/A,,
-844726d3-2609-46ad-bde2-120f202b3840,,EndTB-Export:2,"All Oral STR, Telephone text message",Telephone text message ,,,Misc,N/A,,
-495eec07-7c90-4b06-9859-efc84310b226,,EndTB-Export:1,"All Oral STR, Telephone call",Telephone call,,,Misc,N/A,,
-c31fa9c3-93a0-4c2c-a569-81b796dc7661,,EndTB-Export:postend_typeas,"All Oral STR, Type of Assessment",Assessment type,,,Misc,Coded,"All Oral STR, Physical meeting elsewhere; All Oral STR, Physical meeting in health facility; All Oral STR, Email; All Oral STR, Telephone text message; All Oral STR, Telephone call",
-d61a3c94-f3e6-4a58-a6d7-643cce6aa244,,EndTB-Export:1,"All Oral STR, Patient himself (see question 10)",Patient himself (see question 10),,,Misc,N/A,,
-337ab39b-822e-4dc6-aa7c-67caee1771b7,,EndTB-Export:2,"All Oral STR, Patient family member Patient friend or acquaintance",Patient family member Patient friend or acquaintance,,,Misc,N/A,,
-7e77999e-8638-454c-b506-3c48b32e3fae,,EndTB-Export:3,"All Oral STR,  NTP personal ",NTP personal ,,,Misc,N/A,,
-f4d7d5e8-dcb3-4bad-9ac3-8d623a16b8bc,,EndTB-Export:4,"All Oral STR, Other health professional ",Other health professional ,,,Misc,N/A,,
-a5805f80-33ec-4ce1-9e26-a01f2aff2e24,,EndTB-Export:5,"All Oral STR, Other",Other,,,Misc,N/A,,
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow decimals,Units,Normal low,Normal high
+,,EndTB-Export:d_postend_cont,"All Oral STR, Date of contact",Date of contact,,,Question,Data type,,,,,,
+d23ebc46-510b-498e-adbc-575f26930cca,,EndTB-Export:5,"All Oral STR, Physical meeting elsewhere",Physical meeting elsewhere,,,Misc,N/A,,,,,,
+ebc013ef-64ec-4ee5-86fa-d245db6a3b3d,,EndTB-Export:4,"All Oral STR, Physical meeting in health facility",Physical meeting in health facility ,,,Misc,N/A,,,,,,
+99410341-ae00-41b8-b7b8-9621a1c722ad,,EndTB-Export:3,"All Oral STR, Email",Email,,,Misc,N/A,,,,,,
+844726d3-2609-46ad-bde2-120f202b3840,,EndTB-Export:2,"All Oral STR, Telephone text message",Telephone text message ,,,Misc,N/A,,,,,,
+495eec07-7c90-4b06-9859-efc84310b226,,EndTB-Export:1,"All Oral STR, Telephone call",Telephone call,,,Misc,N/A,,,,,,
+c31fa9c3-93a0-4c2c-af69-81b796dc7661,,postend_typecont,"All Oral STR, Type of contact",Contact type,,,Misc,Coded,"All Oral STR, Physical meeting elsewhere; All Oral STR, Physical meeting in health facility; All Oral STR, Email; All Oral STR, Telephone text message; All Oral STR, Telephone call",,,,,
+d61a3c94-f3e6-4a58-a6d7-643cce6aa244,,EndTB-Export:1,"All Oral STR, Patient himself (see question 10)",Patient himself (see question 10),,,Misc,N/A,,,,,,
+337ab39b-822e-4dc6-aa7c-67caee1771b7,,EndTB-Export:2,"All Oral STR, Patient family member Patient friend or acquaintance",Patient family member Patient friend or acquaintance,,,Misc,N/A,,,,,,
+7e77999e-8638-454c-b506-3c48b32e3fae,,EndTB-Export:3,"All Oral STR,  NTP personal ",NTP personal ,,,Misc,N/A,,,,,,
+f4d7d5e8-dcb3-4bad-9ac3-8d623a16b8bc,,EndTB-Export:4,"All Oral STR, Other health professional ",Other health professional ,,,Misc,N/A,,,,,,
+a5805f80-33ec-4ce1-9e26-a01f2aff2e24,,EndTB-Export:5,"All Oral STR, Other",Other,,,Misc,N/A,,,,,,
 b57c1ecf-08f7-4d12-b39e-b7e55ffdf5ad,,EndTB-Export:postend_pers,"All Oral STR, Person from whom the information is provided/assessment made",Person providing information,,,Misc,Coded,"All Oral STR, Patient himself (see question 10); All Oral STR, Patient family member Patient friend or acquaintance; All Oral STR,  NTP personal; All Oral STR, Other health professional; All Oral STR, Other
-",
-bf693558-0ac9-4df1-a9db-512ede148ff4,,EndTB-Export:1,"All Oral STR, patient well",Patient well,,,Misc,N/A,,
-7824cca0-6861-4d67-a735-73cd2ba3d3c8,,EndTB-Export:2,"All Oral STR, patient has left and no contact",Patient has left and no contact,,,Misc,N/A,,
-d1c003fb-a298-4602-b1f0-548b58015163,,EndTB-Export:3,"All Oral STR, patient died",Patient died,,,Misc,N/A,,
-854cbc6e-e182-48f2-b4da-83de847d1d58,,EndTB-Export:4,"All Oral STR, patient has symptoms",Patient has symptoms,,,Misc,N/A,,
-ea964cd4-d81e-4790-a03b-63e5b6f6807d,,EndTB-Export:5,"All Oral STR, patient has been diagnosed with TB and re-enrolled in TB treatment",Patient has been diagnosed with TB and re-enrolled in TB treatment,,,Misc,N/A,,
-ea964cd4-d81e-499c-a03b-63e5b5d6807d,,EndTB-Export:postend_indinfo,"All Oral STR, Indirect information if patient not seen in person",Indirect information,,,Misc,N/A,"All Oral STR, patient well; All Oral STR, patient has left and no contact; All Oral STR, patient died; All Oral STR, patient has symptoms; All Oral STR, patient has been diagnosed with TB and re-enrolled in TB treatment
-",
-52398068-f91a-4ea2-a79e-20341db852f1,,,"All Oral STR, Month post end-of-treatment",Month post end-of-treatment,,,Misc,N/A,,
-e8cc45cc-f1b0-4c8f-bc0e-b8a25f775d3a,,EndTB-Export:d_postend_vst,"All Oral STR, EOT Visit Date",Visit date,,,Question,Date,,
-05166047-1b13-4b6d-8f8d-85e57d70bf35,,EndTB-Export:ptnt_cough,"All Oral STR, Have you had cough for > 2 weeks",Cough for >2 weeks,,,Misc,Coded,True; False; Unknown,
-d55d464b-e327-42a7-8d8d-59ec199e7735,,EndTB-Export:ptnt_coughprod,"All Oral STR, If yes Is your cough productive",Cough productive,,,Misc,Coded,True; False; Unknown,
-b6513547-101c-4227-9c34-9a092566b538,,EndTB-Export:ptnt_bldsptm,"All Oral STR, If yes Is there blood in your sputum",Blood in sputum,,,Misc,Coded,True; False; Unknown,
-f7b24b39-fa4d-489b-94f9-892541a54b29,,EndTB-Export:ptnt_fever,"All Oral STR, Do you have fever",Fever,,,Misc,Coded,True; False; Unknown,
-2739fdae-6be3-49ca-a259-3ca88617102e,,EndTB-Export:ptnt_fever_l,"All Oral STR, If yes fever or how long(in days)",Length of fever,,,Misc,Coded,True; False; Unknown,
-d4985a11-43dd-4226-ac0a-a3929d96467c,,EndTB-Export:ptnt_ntswt,"All Oral STR, Do you have night sweats",Night sweats,,,Misc,Coded,True; False; Unknown,
-8cf1e5a8-bfef-4f57-9857-4dbd9e09bd15,,EndTB-Export:ptnt_wtls,"All Oral STR, Have you had unexplained weight loss",Unexaplained weight loss,,,Misc,Coded,True; False; Unknown,
+",,,,,
+bf693558-0ac9-4df1-a9db-512ede148ff4,,EndTB-Export:1,"All Oral STR, patient well",Patient well,,,Misc,N/A,,,,,,
+7824cca0-6861-4d67-a735-73cd2ba3d3c8,,EndTB-Export:2,"All Oral STR, patient has left and no contact",Patient has left and no contact,,,Misc,N/A,,,,,,
+d1c003fb-a298-4602-b1f0-548b58015163,,EndTB-Export:3,"All Oral STR, patient died",Patient died,,,Misc,N/A,,,,,,
+854cbc6e-e182-48f2-b4da-83de847d1d58,,EndTB-Export:4,"All Oral STR, patient has symptoms",Patient has symptoms,,,Misc,N/A,,,,,,
+ea964cd4-d81e-4790-a03b-63e5b6f6807d,,EndTB-Export:5,"All Oral STR, patient has been diagnosed with TB and re-enrolled in TB treatment",Patient has been diagnosed with TB and re-enrolled in TB treatment,,,Misc,N/A,,,,,,
+ea964cd4-d81e-499c-a03b-63e5b5d6807d,,EndTB-Export:postend_indinfo,"All Oral STR, Indirect information if patient not seen in person",Indirect information,,,Misc,Coded,"All Oral STR, patient well; All Oral STR, patient has left and no contact; All Oral STR, patient died; All Oral STR, patient has symptoms; All Oral STR, patient has been diagnosed with TB and re-enrolled in TB treatment
+",,,,,
+52398068-f91a-4ea2-a79e-20341db852f1,,,"All Oral STR, Month post end-of-treatment",Month post end-of-treatment,,,Misc,N/A,,,,,,
+e8cc45cc-f1b0-4c8f-bc0e-b8a25f775d3a,,EndTB-Export:d_postend_vst,"All Oral STR, EOT Visit Date",Visit date,,,Question,Date,,,,,,
+05166047-1b13-4b6d-8f8d-85e57d70bf35,,EndTB-Export:ptnt_cough,"All Oral STR, Have you had cough for > 2 weeks",Cough for >2 weeks,,,Misc,Coded,True; False; Unknown,,,,,
+d55d464b-e327-42a7-8d8d-59ec199e7735,,EndTB-Export:ptnt_coughprod,"All Oral STR, If yes Is your cough productive",Cough productive,,,Misc,Coded,True; False; Unknown,,,,,
+b6513547-101c-4227-9c34-9a092566b538,,EndTB-Export:ptnt_bldsptm,"All Oral STR, If yes Is there blood in your sputum",Blood in sputum,,,Misc,Coded,True; False; Unknown,,,,,
+f7b24b39-fa4d-489b-94f9-892541a54b29,,EndTB-Export:ptnt_fever,"All Oral STR, Do you have fever",Fever,,,Misc,Coded,True; False; Unknown,,,,,
+2739fdae-6be3-49ca-a259-3ca88617102e,,EndTB-Export:ptnt_fever_l,"All Oral STR, If yes fever or how long(in days)",Length of fever,,,Misc,Coded,True; False; Unknown,,,,,
+d4985a11-43dd-4226-ac0a-a3929d96467c,,EndTB-Export:ptnt_ntswt,"All Oral STR, Do you have night sweats",Night sweats,,,Misc,Coded,True; False; Unknown,,,,,
+8cf1e5a8-bfef-4f57-9857-4dbd9e09bd15,,EndTB-Export:ptnt_wtls,"All Oral STR, Have you had unexplained weight loss",Unexaplained weight loss,,,Misc,Coded,True; False; Unknown,,,,,
 9837d303-97e2-4337-b2a7-430d8d90c1f7,,,"All Oral STR, Clinical questions to patient only",Clinical questions to patient only,,,Misc,N/A,,"All Oral STR, Have you had cough for > 2 weeks; All Oral STR, If yes Is your cough productive; All Oral STR, If yes Is there blood in your sputum; All Oral STR, Do you have fever; All Oral STR, If yes fever or how long(in days); All Oral STR, Do you have night sweats; All Oral STR, Have you had unexplained weight loss
-"
-f256a648-cdc8-4503-aae2-a768ffc2a1fa,,EndTB-Export:ptnt_crntmed,"All Oral STR, Any current medications being taken",Current medications,,,Misc,Coded,True; False; Unknown,
-92855c0e-be7a-4184-8bb8-35512f763274,,EndTB-Export:ptnt_crntmed_list,"All Oral STR, If yes please list","If yes, please list",,,Misc,Text,,
-299d635f-d27f-48d9-a89a-f97f9be855a9,,EndTB-Export:ptnt_contdoc,"All Oral STR, Any contact with a medical practitioner since completing TB treatment",Contact with medical practioner since completion of TB treatment,,,Misc,Coded,True; False; Unknown,
-c0f9d5ef-2301-47a5-bdbe-9f66540be565,,EndTB-Export:ptnt_vtpurp,"All Oral STR, If yes what was the purpose of visit",Purpose of visit ,,,Misc,Text,,
-bf690e43-5161-45ca-9c50-97ff530a3ade,,EndTB-Export:ptnt_vtoutcome,"All Oral STR, What was the outcome of the visit",Outcome of visit,,,Misc,Text,,
-f53db077-1873-4055-9823-cec5e9a0b3ab,,,"All Oral STR, Medical Visits and Medications",Medical Visits and Medications,,,Misc,N/A,,"All Oral STR, Any current medications being taken; All Oral STR, If yes please list; All Oral STR, Any contact with a medical practitioner since completing TB treatment; All Oral STR, If yes what was the purpose of visit; All Oral STR, What was the outcome of the visit"
-8cb0c965-d3a3-4b62-b42b-60ab61275e2e,,EndTB-Export:hhc_tbtx,Any household contact being treated for TB,Household contact treated for TB,,,Misc,Coded,True; False; Unknown,
-205a3f3a-5d02-4b15-b877-86710f444040,,EndTB-Export:hhc_tbsym,Any household contact symptomatic for TB (symptoms list as above),Household contact symptomatic for TB,,,Misc,Coded,True; False; Unknown,
-e8698b25-c392-4fbb-ba4e-d59c7d53575f,,,"All Oral STR,  Post treatment Household Contacts",Household Contacts,,,Misc,N/A,,Any household contact being treated for TB; Any household contact symptomatic for TB (symptoms list as above)
-fbe03007-19ba-4975-90ff-9cf7554cdbea,,EndTB-Export:ptnt_tbrlps,"All Oral STR, Is patient a possible TB relapse",Patient TB relapse,,,Misc,Coded,True; False; Unknown,
-8a05ca81-9a9f-4b81-8e14-f62eb05e07e9,,EndTB-Export:ptnt_culture,"All Oral STR, Was a culture ordered",Culture ordered,,,Misc,Coded,True; False,
-3d65dcaf-bde0-4df9-b01e-0c727d5bc630,,EndTB-Export:ptnt_culture_sbmt,"All Oral STR, If yes when should the patient submit the culture",When should the patient submit the culture,,,Question ,Date,,
-ae720a0b-6c1a-49ec-9ce3-e5a6eed59b03,,EndTB-Export:ptnt_diagtests,"All Oral STR, List all diagnostic tests ordered",Diagnostic tests,,,Misc,Text,,
-0dace0de-f6f8-47b0-975e-900d1d9b4c50,,EndTB-Export:ptnt_appoint,"All Oral STR, Date of next appointment",Date of next appointment ,,,Misc,Coded,True; False,
-facc6f36-681b-46b4-b709-bac4c5710ed2,,EndTB-Export:ptnt_appoint_wh,"All Oral STR, If yes where",Where is the next appointment,,,Misc,Text,,
-2880f4dc-adff-40a2-8f64-0cfa44dcad7c,,EndTB-Export:d_ptnt_appoint,"All Oral STR, If yes what date",What date is the next appointment,,,Question,Date,,
-ba2b10c9-5398-46c8-b167-5be91de28126,,EndTB-Export:ptnt_notes,"All Oral STR, Notes",Notes,,,Misc,Text,,
-f4fe9b32-9fbb-453d-b7d9-3b3cbebc4df4,,EndTB-Export:postendtxoutcome_compl,"All Oral STR, If 1 year post end-of-treatment post end of treatment outcome form filled in",Post end-of-treatment outcome completed,,,Misc,Coded,True; False,
+",,,,
+f256a648-cdc8-4503-aae2-a768ffc2a1fa,,EndTB-Export:ptnt_crntmed,"All Oral STR, Any current medications being taken",Current medications,,,Misc,Coded,True; False; Unknown,,,,,
+92855c0e-be7a-4184-8bb8-35512f763274,,EndTB-Export:ptnt_crntmed_list,"All Oral STR, If yes please list","If yes, please list",,,Misc,Text,,,,,,
+299d635f-d27f-48d9-a89a-f97f9be855a9,,EndTB-Export:ptnt_contdoc,"All Oral STR, Any contact with a medical practitioner since completing TB treatment",Contact with medical practioner since completion of TB treatment,,,Misc,Coded,True; False; Unknown,,,,,
+c0f9d5ef-2301-47a5-bdbe-9f66540be565,,EndTB-Export:ptnt_vtpurp,"All Oral STR, If yes what was the purpose of visit",Purpose of visit ,,,Misc,Text,,,,,,
+bf690e43-5161-45ca-9c50-97ff530a3ade,,EndTB-Export:ptnt_vtoutcome,"All Oral STR, What was the outcome of the visit",Outcome of visit,,,Misc,Text,,,,,,
+f53db077-1873-4055-9823-cec5e9a0b3ab,,,"All Oral STR, Medical Visits and Medications",Medical Visits and Medications,,,Misc,N/A,,"All Oral STR, Any current medications being taken; All Oral STR, If yes please list; All Oral STR, Any contact with a medical practitioner since completing TB treatment; All Oral STR, If yes what was the purpose of visit; All Oral STR, What was the outcome of the visit",,,,
+8cb0c965-d3a3-4b62-b42b-60ab61275e2e,,EndTB-Export:hhc_tbtx,Any household contact being treated for TB,Household contact treated for TB,,,Misc,Coded,True; False; Unknown,,,,,
+205a3f3a-5d02-4b15-b877-86710f444040,,EndTB-Export:hhc_tbsym,Any household contact symptomatic for TB (symptoms list as above),Household contact symptomatic for TB,,,Misc,Coded,True; False; Unknown,,,,,
+e8698b25-c392-4fbb-ba4e-d59c7d53575f,,,"All Oral STR,  Post treatment Household Contacts",Household Contacts,,,Misc,N/A,,Any household contact being treated for TB; Any household contact symptomatic for TB (symptoms list as above),,,,
+fbe03007-19ba-4975-90ff-9cf7554cdbea,,EndTB-Export:ptnt_tbrlps,"All Oral STR, Is patient a possible TB relapse",Patient TB relapse,,,Misc,Coded,True; False; Unknown,,,,,
+8a05ca81-9a9f-4b81-8e14-f62eb05e07e9,,EndTB-Export:ptnt_culture,"All Oral STR, Was a culture ordered",Culture ordered,,,Misc,Coded,True; False,,,,,
+3d65dcaf-bde0-4df9-b01e-0c727d5bc630,,EndTB-Export:ptnt_culture_sbmt,"All Oral STR, If yes when should the patient submit the culture",When should the patient submit the culture,,,Question ,Date,,,,,,
+ae720a0b-6c1a-49ec-9ce3-e5a6eed59b03,,EndTB-Export:ptnt_diagtests,"All Oral STR, List all diagnostic tests ordered",Diagnostic tests,,,Misc,Text,,,,,,
+0dace0de-f6f8-47b0-975e-900d1d9b4c50,,EndTB-Export:ptnt_appoint,"All Oral STR, Date of next appointment",Date of next appointment ,,,Misc,Coded,True; False,,,,,
+facc6f36-681b-46b4-b709-bac4c5710ed2,,EndTB-Export:ptnt_appoint_wh,"All Oral STR, If yes where",Where is the next appointment,,,Misc,Text,,,,,,
+2880f4dc-adff-40a2-8f64-0cfa44dcad7c,,EndTB-Export:d_ptnt_appoint,"All Oral STR, If yes what date",What date is the next appointment,,,Question,Date,,,,,,
+ba2b10c9-5398-46c8-b167-5be91de28126,,EndTB-Export:ptnt_notes,"All Oral STR, Notes",Notes,,,Misc,Text,,,,,,
+f4fe9b32-9fbb-453d-b7d9-3b3cbebc4df4,,EndTB-Export:postendtxoutcome_compl,"All Oral STR, If 1 year post end-of-treatment post end of treatment outcome form filled in",Post end-of-treatment outcome completed,,,Misc,Coded,True; False,,,,,
 694cfecd-be3f-4039-a5f4-8d0aa7fb795f,,,"All Oral STR, Action at end of assessment",Action at end of assessment,,,Misc,N/A,,"All Oral STR, Is patient a possible TB relapse; All Oral STR, Was a culture ordered; All Oral STR, If yes when should the patient submit the culture; All Oral STR, List all diagnostic tests ordered; All Oral STR, Date of next appointment; All Oral STR, If yes where; All Oral STR, If yes what date; All Oral STR, Notes; All Oral STR, If 1 year post end-of-treatment post end of treatment outcome form filled in
-"
-ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"All Oral STR, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"EOT, Outcome; EOT, End of Treatment Outcome date; All Oral STR, EOT Visit Date; All Oral STR, Type of Assessment; All Oral STR, Person from whom the information is provided/assessment made; All Oral STR, Indirect information if patient not seen in person; All Oral STR, Clinical questions to patient only; All Oral STR, Medical Visits and Medications; All Oral STR,  Post treatment Household Contacts; All Oral STR, Action at end of assessment"
+",,,,
+694fcead-be3f-4039-a5f4-8d0aa7fb795f,,EndTB-Export:ptnt_bpns_lft,"All Oral STR, BPNS Subjective score Left",BPNS score left,,,Misc,Numeric,,,No,,0,10
+694cfecd-be3f-4039-a5f4-8d0aa7fb796d,,EndTB-Export:ptnt_bpns_rt,"All Oral STR, BPNS Subjective score Right
+",BPNS score right,,,Misc,Numeric,,,No,,0,10
+694cfecd-be3f-4129-a5f4-8d0aa7fb795f,,,"All Oral STR, Post treatment BPNS",BPNS Score,,,Misc,N/A,"All Oral STR, BPNS Subjective score Left;
+All Oral STR, BPNS Subjective score Right
+",,,,,
+694cfecd-be3f-4039-a5f4-8d0aa7fb786f,,EndTB-Export:outcome,"All Oral STR EOT, Outcome",Outcome,,,Misc,Coded,"Cured;
+Completed;
+Died;
+Failed;
+LTFU;
+Not Evaluated;
+Treatment adapted",,,,,
+ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"All Oral STR, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"All Oral STR EOT, Outcome; DATE OF DEATH; EOT, End of Treatment Outcome date; All Oral STR, EOT Visit Date; All Oral STR, Date of contact; All Oral STR, Type of contact; All Oral STR, Person from whom the information is provided/assessment made; All Oral STR, Indirect information if patient not seen in person; All Oral STR, Clinical questions to patient only; All Oral STR, Post treatment BPNS; All Oral STR, Medical Visits and Medications; All Oral STR,  Post treatment Household Contacts; All Oral STR, Action at end of assessment",,,,
