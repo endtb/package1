@@ -1,4 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
+9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,
 eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"All Oral STR, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; TI, Treatment facility at start; Facility patient ID",
 eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"All Oral STR, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,
 "4a5d5997-4984-4743-aa81-a0dbce497590
