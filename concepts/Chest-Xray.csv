@@ -1,2 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"All Oral STR, Monthly Clinical Examination Log - Chest X-ray",Monthly Clinical Examination Log - Chest X-ray,,,Misc,N/A,"Xray, Chest Xray Date; Xray, Xray Details; Xray, Comparison with last Xray",
+777c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"All Oral STR, Xray, Xray Details",Chest X-Ray,,,Misc,N/A,"Xray, Extent of disease;
+Xray, Maximum cavity size;
+Xray, Fibrosis",
+995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"All Oral STR, Monthly Clinical Examination Log - Chest X-ray",Monthly Clinical Examination Log - Chest X-ray,,,Misc,N/A,"Xray, Chest Xray Date; All Oral STR, Xray, Xray Details; Xray, Comparison with last Xray",
