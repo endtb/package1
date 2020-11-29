@@ -1,15 +1,41 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-4abef7a0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:d_posttxooutcome,Date of post-treatment outcome decision ,Date of post-treatment outcome decision ,,,Question,Date,,
-4abefa0c-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Clinically without signs or symptoms of TB and culture negative ",Clinically without signs or symptoms of TB and culture negative ,,,Misc,N/A,,
-4abefb06-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, Clinically without signs or symptoms of TB and no culture done",Clinically without signs or symptoms of TB and no culture done,,,Misc,N/A,,
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description
+4abef7a0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:d_posttxooutcome,Date of post-treatment outcome decision ,Date of post-treatment outcome decision ,,,Question,Date,,,
+4abefa0c-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Clinically without signs or symptoms of TB and culture negative ",Clinically without signs or symptoms of TB and culture negative ,,,Misc,N/A,,,
+4abefb06-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, Clinically without signs or symptoms of TB and no culture done",Clinically without signs or symptoms of TB and no culture done,,,Misc,N/A,,,
 4abefe26-22c2-11eb-adc1-0242ac120002,,EndTB-Export:posttxoutcome_rec,"All Oral STR, If no recurrence",If no recurrence,,,Misc,Coded,,"All Oral STR, Clinically without signs or symptoms of TB and culture negative; All Oral STR, Clinically without signs or symptoms of TB and no culture done
-"
-4abefef8-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB",Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB,,,Misc,N/A,,
-4abeffc0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration ",One positive culture with clinical signs or symptoms or radiographic deterioration ,,,Misc,N/A,,
-4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"All Oral STR, If recurrence",If recurrence,,,Misc,Coded,,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration 
-"
-4abff074-22c2-11eb-bdc1-0242ac120002,,EndTB-Export:3,"All Oral STR, Recurrence",Recurrence,,,Misc,N/A,,
-4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"All Oral STR, No Recurrence",No recurrence,,,Misc,N/A,,
-4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"All Oral STR, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,"All Oral STR, No Recurrence; Died post treatment; All Oral STR, Recurrence; LTFU post treatment; Not Evaluated"
-4abf01f0-22c2-11eb-adc1-0242ac120002,,,"All Oral STR, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"Date of post-treatment outcome decision; Final Post-Treatment Outcome; All Oral STR, If no recurrence; All Oral STR, If recurrence; 6m PTO, Died; 6m PTO, LTFU; 6m PTO, Not evaluated;
 ",
+4abefef8-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB",Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB,,,Misc,N/A,,,
+4abeffc0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration ",One positive culture with clinical signs or symptoms or radiographic deterioration ,,,Misc,N/A,,,
+4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"All Oral STR, If recurrence",If recurrence,,,Misc,Coded,,"All Oral STR, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; All Oral STR, One positive culture with clinical signs or symptoms or radiographic deterioration 
+",
+4abff074-22c2-11eb-bdc1-0242ac120002,,EndTB-Export:3,"All Oral STR, Recurrence",Recurrence,,,Misc,N/A,,,
+4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"All Oral STR, No Recurrence",No recurrence,,,Misc,N/A,,,
+,,EndTB-Export:4,"StemTB, Lost to follow-up, post-treatment","Lost to follow-up, post-treatment",,,Misc,N/A,,,
+4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"All Oral STR, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,"All Oral STR, No Recurrence; Died post treatment; All Oral STR, Recurrence; StemTB, Lost to follow-up, post-treatment; Not Evaluated",
+5c735a62-324f-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_post,"StemTB, Suspected cause other than TB",Suspected cause other than TB,,,Misc,Coded,,"TB immediate cause of death;
+TB contributing to death;
+Surgery related death;
+Cause other than TB;
+Cause related to TB treatment;
+Unknown",
+5c735cec-324f-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause_post,"StemTB, Non TB cause of post treatment death",Suspected cause other than TB,,,Misc,Text,,,
+5c735e18-324f-11eb-adc1-0242ac120002,,,"StemTB, 6m PTO, Died",Died Post-Treatment (Patient died after finishing treatment),,,Misc,N/A,"6m PTO, Date of death post treatment;
+StemTB, Suspected cause other than TB;
+6m PTO, Type of surgery related to post treatment death;
+StemTB, Non TB cause of post treatment death",,
+5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB, Left town region country","Left town, region, country",,,Misc,N/A,,,
+5c735ff8-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB, 6m PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,,,Misc,Coded,,"Adverse event;
+Patient refused followup;
+Substance abuse;
+Social problem: family, financial, complex social situation;
+StemTB, Left town region country;
+No confidence in treatment;
+Other;
+Unknown",Select all that apply
+5c7360de-324f-11eb-adc1-0242ac120002,,EndTB-Export:transfer_post,"StemTB, Did the patient transfer out",Did the patient transfer out?,,,Misc,Coded,,True; False,
+5c7361ce-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout_post,"StemTB, If no, why does the patient have this outcome","If no, why does the patient have this outcome?",,,Misc,Text,,,
+5c7365f2-324f-11eb-adc1-0242ac120002,,,"StemTB, Not evaluated",Not evaluated (No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown),,,Misc,N/A,"StemTB, Did the patient transfer out;
+6m PTO, Transferred to where post treatment;
+StemTB, If no, why does the patient have this outcome",,
+4abf01f0-22c2-11eb-adc1-0242ac120002,,,"All Oral STR, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"Date of post-treatment outcome decision; Final Post-Treatment Outcome; All Oral STR, If no recurrence; All Oral STR, If recurrence; StemTB, 6m PTO, Died; 6m PTO, LTFU; StemTB, Not evaluated;
+",,
