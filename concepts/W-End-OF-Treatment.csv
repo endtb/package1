@@ -1,7 +1,7 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
 ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawn,,,Misc,N/A,,
-"ef69d778-bc5c-45ca-aa21-b234d51e6dec
-",,,"EOT, Outcome",Outcome,,,Test,Coded,,"Cured;
+"ef69d778-bc5c-45ca-aa21-b234c51e6dec
+",,,"StemTB EOT, Outcome",Outcome,,,Misc,Coded,,"Cured;
 Completed;
 Died;
 Failed;
@@ -64,7 +64,7 @@ StemTB, Other reasons for no evaluation of outcome",
 "bb80d45d-e4c5-4ce0-bb7c-0a34d2635ea5
 ",,,"StemTB, Outcome End of Treatment Template",End of Treatment,,,Misc,N/A,"StemTB, Tuberculosis treatment end date;
 StemTB, End of Treatment Outcome date;
-EOT, Outcome;
+StemTB EOT, Outcome;
 EOT, Comments to treatment outcome;
 StemTB, Died; StemTB, Failed;
 StemTB, LTFU;
