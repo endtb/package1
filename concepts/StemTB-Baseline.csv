@@ -1,76 +1,101 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en
-c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,,,Misc,Coded,,"Nat'l Center for TB Problems (NCTP), Almaty, Kazakhstan; Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)"
-c35e226a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility_oth,"StemTB Baseline, Other treatment facility",Other treatment facility,,,Misc,Text,,,
-5beaa945-62f7-4e5b-86a3-c290575d1bdd,,EndTB-Export:1,Profile unknown,Profile unknown,,,Misc,N/A,,,
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en,Allow decimals,Absolute low,Units
+c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,,,Misc,Coded,,"Nat'l Center for TB Problems (NCTP), Almaty, Kazakhstan; Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)",,,
+c35e226a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility_oth,"StemTB Baseline, Other treatment facility",Other treatment facility,,,Misc,Text,,,,,,
+5beaa945-62f7-4e5b-86a3-c290575d1bdd,,EndTB-Export:1,Profile unknown,Profile unknown,,,Misc,N/A,,,,,,
 41d57106-32a0-4508-89ac-623fbac45437,,EndTB-Export:dr_profile,"Baseline, Drug resistance",Drug resistance profile,,,Misc,Coded,,"Profile unknown;
 Confirmed drug susceptible;
 Confirmed drug resistant TB;
-Unknown",
-b8b122b0-9b7e-4791-b8e6-cb918f8116b9,,EndTB-Export:2,Clinically Confirmed,"Not confirmed, clinically diagnosed",,,Misc,N/A,,,
+Unknown",,,,
+b8b122b0-9b7e-4791-b8e6-cb918f8116b9,,EndTB-Export:2,Clinically Confirmed,"Not confirmed, clinically diagnosed",,,Misc,N/A,,,,,,
 3f646842-0ef5-49a6-9a33-be968736cdf9,,EndTB-Export:mtb_conf,"Baseline, MDR-TB diagnosis method
 ",Detection of M. tuberculosis?,,,Misc,Coded,,"Bacteriologically Confirmed;
-Clinically Confirmed",
-c36e79ab-ac68-4fe1-8d75-aafc27916189,,EndTB-Export:3,History unclear/unknown,Unknown,,,Misc,N/A,,,
+Clinically Confirmed",,,,
+c36e79ab-ac68-4fe1-8d75-aafc27916189,,EndTB-Export:3,History unclear/unknown,Unknown,,,Misc,N/A,,,,,,
 159976AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,EndTB-Export:prevtx_group,Category IV tuberculosis classification,History of past drug use,,,Misc,Coded,,"previously treated with first line drugs only;
 Previously treated with second line drugs;
-History unclear/unknown",
-8ce260e9-7b56-414c-81e5-be0a1d38b1da,,EndTB-Export:d_mdrdx,"Baseline, MDR-TB Diagnosis Date",MDR TB or RIF resistance diagnosis date,,,Misc,Date,,,Date of first result indicating MDR or Rifampicin resistance: could be micromolecular test or clinical diagnosis
-342eae00-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB Baseline, Yes-current",Yes-current,,,Misc,N/A,,,
-342eb058-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB Baseline, Yes-past",Yes-past,,,Misc,N/A,,,
-342eb166-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:prison_base,"StemTB Baseline, Has the patient ever been in prison?",Has the patient ever been in prison?,,,Misc,Coded,,Yes-current; Yes-past; No; Unknown,
-342eb242-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:alcohol_base,"StemTB Baseline, Does the patient drink alcohol?",Does the patient drink alcohol?,,,Misc,Coded,,Yes; No; Unknown,
-342eb30a-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drinks_wk_base,"StemTB Baseline, Number of standard alcoholic drinks per week",Number of standard alcoholic drinks per week,,,Misc,Numeric,,,
-342eb5bc-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:smoker_base,"StemTB Baseline, Does the patient smoke at least 1 cigarette per day?",Does the patient smoke at least 1 cigarette per day?,,,Misc,Coded,,Yes; No; Unknown,
-342eb68e-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drug_iv_base,"StemTB Baseline, Has the patient used intravenous drugs in the past year?",Has the patient used intravenous drugs in the past year?,,,Misc,Coded,,Yes; No; Unknown,
-342eb742-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drug_niv_base,"StemTB Baseline, Has the patient used non-prescribed, non-injectable drugs in the last year?","Has the patient used non-prescribed, non-injectable drugs in the past year?",,,Misc,Coded,,Yes; No; Unknown,"(e.g. cannabis, cocaine, prescription stimulant without a prescription, methamphetamine, inhalants, sedatives, hallucinogens, street opioids)"
+History unclear/unknown",,,,
+8ce260e9-7b56-414c-81e5-be0a1d38b1da,,EndTB-Export:d_mdrdx,"Baseline, MDR-TB Diagnosis Date",MDR TB or RIF resistance diagnosis date,,,Misc,Date,,,Date of first result indicating MDR or Rifampicin resistance: could be micromolecular test or clinical diagnosis,,,
+342eae00-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB Baseline, Yes-current",Yes-current,,,Misc,N/A,,,,,,
+342eb058-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB Baseline, Yes-past",Yes-past,,,Misc,N/A,,,,,,
+342eb166-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:prison_base,"StemTB Baseline, Has the patient ever been in prison?",Has the patient ever been in prison?,,,Misc,Coded,,Yes-current; Yes-past; No; Unknown,,,,
+342eb242-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:alcohol_base,"StemTB Baseline, Does the patient drink alcohol?",Does the patient drink alcohol?,,,Misc,Coded,,Yes; No; Unknown,,,,
+342eb30a-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drinks_wk_base,"StemTB Baseline, Number of standard alcoholic drinks per week",Number of standard alcoholic drinks per week,,,Misc,Numeric,,,,,,
+342eb5bc-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:smoker_base,"StemTB Baseline, Does the patient smoke at least 1 cigarette per day?",Does the patient smoke at least 1 cigarette per day?,,,Misc,Coded,,Yes; No; Unknown,,,,
+342eb68e-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drug_iv_base,"StemTB Baseline, Has the patient used intravenous drugs in the past year?",Has the patient used intravenous drugs in the past year?,,,Misc,Coded,,Yes; No; Unknown,,,,
+342eb742-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drug_niv_base,"StemTB Baseline, Has the patient used non-prescribed, non-injectable drugs in the last year?","Has the patient used non-prescribed, non-injectable drugs in the past year?",,,Misc,Coded,,Yes; No; Unknown,"(e.g. cannabis, cocaine, prescription stimulant without a prescription, methamphetamine, inhalants, sedatives, hallucinogens, street opioids)",,,
 342eb800-2e6a-11eb-adc1-0242ac120002,,,"StemTB Baseline, Baseline Social History",Social History,,,Misc,N/A,"StemTB Baseline, Has the patient ever been in prison?;
 StemTB Baseline, Does the patient drink alcohol?;
 StemTB Baseline, Number of standard alcoholic drinks per week;
 StemTB Baseline, Does the patient smoke at least 1 cigarette per day?;
 StemTB Baseline, Has the patient used intravenous drugs in the past year?;
 StemTB Baseline, Has the patient used non-prescribed, non-injectable drugs in the last year?
-",,
-c92f031e-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp1,"StemTB Baseline, Group1 Drugs",Group 1,,,Misc,Coded,,Isoniazid; Rifampicin; Rifapentine; Ethambutol; Pyrazinamide,
-c92f054e-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp2,"StemTB Baseline, Group2 Drugs",Group 2,,,Misc,Coded,,Amikacin; Capreomycin; Kanamycin; Streptomycin,
-c92f0666-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp3,"StemTB Baseline, Group3 Drugs",Group 3,,,Misc,Coded,,Ciprofloxacin; Gatifloxacin; Levofloxacin; Moxifloxacin; Ofloxacin; ,
-c92f08b4-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp4,"StemTB Baseline, Group4 Drugs",Group 4,,,Misc,Coded,,Cycloserine; Ethionamide; P-Aminosalicylic Acid; Prothionamide; Terizidone,
-c92f09ae-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp5,"StemTB Baseline, Group5 Drugs",Group 5,,,Misc,Coded,,Amoxicillin And Clavulanic Acid; Bedaquiline; Clarithromycin; Clofazimine; Delamanid;Cilastatin / Imipenem; Linezolid; Meropenem; Thioacetazone,
-c92f0a94-2e9d-11eb-adc1-0242ac120002,,,"StemTB Baseline, List of drugs taken for more than a month",List of drugs taken for more than a month;,,,Misc,N/A,"StemTB Baseline, Group1 Drugs;
+",,,,,
+c92f031e-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp1,"StemTB Baseline, Group1 Drugs",Group 1,,,Misc,Coded,,Isoniazid; Rifampicin; Rifapentine; Ethambutol; Pyrazinamide,,,,
+c92f054e-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp2,"StemTB Baseline, Group2 Drugs",Group 2,,,Misc,Coded,,Amikacin; Capreomycin; Kanamycin; Streptomycin,,,,
+c92f0666-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp3,"StemTB Baseline, Group3 Drugs",Group 3,,,Misc,Coded,,Ciprofloxacin; Gatifloxacin; Levofloxacin; Moxifloxacin; Ofloxacin; ,,,,
+c92f08b4-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp4,"StemTB Baseline, Group4 Drugs",Group 4,,,Misc,Coded,,Cycloserine; Ethionamide; P-Aminosalicylic Acid; Prothionamide; Terizidone,,,,
+c92f09ae-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:pasttb_drg1mo_gp5,"StemTB Baseline, Group5 Drugs",Group 5,,,Misc,Coded,,Amoxicillin And Clavulanic Acid; Bedaquiline; Clarithromycin; Clofazimine; Delamanid;Cilastatin / Imipenem; Linezolid; Meropenem; Thioacetazone,,,,
+c92f0a94-2e9d-11eb-adc1-0242ac120002,,,"StemTB Baseline, List of drugs taken for more than a month",Drugs taken for greater than one month (select all that apply) :,,,Misc,N/A,"StemTB Baseline, Group1 Drugs;
 StemTB Baseline, Group2 Drugs;
 StemTB Baseline, Group3 Drugs;
 StemTB Baseline, Group4 Drugs;
 StemTB Baseline, Group5 Drugs;
-Baseline, Other drug taken for more than a month",,
-110e68b6-1abf-11eb-adc1-0242ac120003,,,"StemTB Baseline, Baseline TB History",TB History,,,Misc,N/A,"StemTB Baseline, List of drugs taken for more than a month",,
-bb0f5e00-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hiv_base,"StemTB Baseline, Confirmed HIV serostatus",Confirmed HIV serostatus,,,Misc,Coded,,Negative; Positive; Unknown,
-bb0f60a8-2e9d-11eb-adc1-0242ac120002,,,"StemTB Baseline, HIV Diagnosis",HIV Diagnosis,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus; Date of HIV diagnosis",,
-bb0f6256-2e9d-11eb-adc1-1242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, CD4 Count",Last CD4 Count,,,Misc,Numeric,,,
-bb0f64d6-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, Last CD4 Count",Last CD4 count,,,Concept Details,N/A,"StemTB Baseline, CD4 Count; CD4 COUNT Unknown",,
-bb0f65d0-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, CD4 Details",CD4 Details,,,Misc,N/A,"StemTB Baseline, Last CD4 Count; CD4 date",,
-bb0f6792-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:vl_test,"StemTB Baseline, Baseline HIV Viral Load",Last RNA viral load,,,Misc,Numeric,,,
-bb0f66b6-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:vl_test,"StemTB Baseline, Last RNA Viral Load",Last RNA viral load,,,Concept Details,N/A,"StemTB Baseline, Baseline HIV Viral Load; HIV VIRAL LOAD Unknown",,
-bb0f686e-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline HIV Viral load details",HIV Viral Load Details,,,Misc,N/A,"StemTB Baseline, Last RNA Viral Load; Baseline, Viral Load Date",,
-bb0f6b2a-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:onart_base,"StemTB Baseline, Currently on ARV treatment?",Currently on ARV treatment?,,,Misc,Coded,,Yes; No; Unknown,
-bb0f6940-2e9d-11eb-adc1-0442ac120001,,EndTB-Export:d_art_base,"StemTB Baseline, Date of ARV initiation",Date of ARV initiation,,,Misc,Date,,,
+Baseline, Other drug taken for more than a month",,,,,
+110e68b6-1abf-11eb-adc1-0242ac120003,,,"StemTB Baseline, Baseline TB History",TB History,,,Misc,N/A,"StemTB Baseline, List of drugs taken for more than a month",,,,,
+bb0f5e00-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hiv_base,"StemTB Baseline, Confirmed HIV serostatus",Confirmed HIV serostatus,,,Misc,Coded,,Negative; Positive; Unknown,,,,
+bb0f60a8-2e9d-11eb-adc1-0242ac120002,,,"StemTB Baseline, HIV Diagnosis",HIV Diagnosis,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus; Date of HIV diagnosis",,,,,
+bb0f6256-2e9d-11eb-adc1-1242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, CD4 Count",Last CD4 Count,,,Misc,Numeric,,,,,,cells/mm3
+bb0f64d6-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, Last CD4 Count",Last CD4 count,,,Concept Details,N/A,"StemTB Baseline, CD4 Count; CD4 COUNT Unknown",,,,,
+707d5ac6-447d-49b0-ac0d-a1a76a423209,,EndTB-Export:artreg_base,"Baseline, Drugs used in ARV treatment",Current ARV regimen,,,Misc,Coded,,"LAMIVUDINE;
+ABACAVIR;
+ZIDOVUDINE;
+DIDANOSINE;
+STAVUDINE;
+EMTRICITABINE;
+TENOFOVIR DISOPROXIL;
+EFAVIRENZ;
+NEVIRAPINE;ETRAVIRINE;
+ATAZANAVIR;
+DARUNAVIR;
+FOSAMPRENAVIR;
+LOPINAVIR / RITONAVIR;
+RITONAVIR;
+SAQUINAVIR;
+Raltegravir",,,,
+707d5ac6-447d-49b0-ac0d-a1a76a423199,,EndTB-Export:hba1c,"StemTB Baseline, If yes last HbA1c",If yes last HbA1c,,,Misc,Numeric,,,,TRUE,0,
+d4a3372d-f0f3-470c-87ca-9ab7ac7bb226,,EndTB-Export:d_lastvl,"Baseline, Viral Load Date",Date of last viral load,,,Misc,Date,,,,,,
+160103AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,EndTB-Export:d_lastcd4,"
+CD4 date",Date of last CD4,,,Misc,Date,,,,,,
+bb0f65d0-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, CD4 Details",CD4 Details,,,Misc,N/A,"StemTB Baseline, Last CD4 Count; CD4 date",,,,,
+bb0f6792-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:vl_test,"StemTB Baseline, Baseline HIV Viral Load",Last RNA viral load,,,Misc,Numeric,,,,,,copies/ml
+bb0f66b6-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:vl_test,"StemTB Baseline, Last RNA Viral Load",Last RNA viral load,,,Concept Details,N/A,"StemTB Baseline, Baseline HIV Viral Load; HIV VIRAL LOAD Unknown",,,,,
+bb0f686e-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline HIV Viral load details",HIV Viral Load Details,,,Misc,N/A,"StemTB Baseline, Last RNA Viral Load; Baseline, Viral Load Date",,,,,
+bb0f6b2a-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:onart_base,"StemTB Baseline, Currently on ARV treatment?",Currently on ARV treatment?,,,Misc,Coded,,Yes; No; Unknown,,,,
+bb0f6940-2e9d-11eb-adc1-0442ac120001,,EndTB-Export:d_art_base,"StemTB Baseline, Date of ARV initiation",Date of ARV initiation,,,Misc,Date,,,,,,
 bb0f6b2a-2e9d-11eb-adc1-0442ac120002,,,"StemTB Baseline, ARV Treatment Details",ARV Treatment Details,,,Misc,N/A,"Currently on ARV treatment?; Date of ARV initiation; Baseline, Drugs used in ARV treatment
 
-",,
-bb0f6bfc-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:diab_base,"StemTB Baseline, Diabetes (type 1 or 2)",Diabetes (type 1 or 2),,,Misc,Coded,,Yes; No; Unknown,
-bb0f6cc4-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepb_base,"StemTB Baseline, Confirmed Hepatitis B",Confirmed Hepatitis B,,,Misc,Coded,,Yes; No; Unknown,
-bb0f6d8c-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepc_base,"StemTB Baseline, Confirmed Hepatitis C",Confirmed Hepatitis C,,,Misc,Coded,,Yes; No; Unknown,
-bb0f6940-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline Past Medical History",Past Medical History / Comorbidities,,,Misc,N/A,"StemTB Baseline, HIV Diagnosis; StemTB Baseline, CD4 Details; StemTB Baseline, Baseline HIV Viral load details; StemTB Baseline, ARV Treatment Details;  StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,
+",,,,,
+bb0f6bfc-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:diab_base,"StemTB Baseline, Diabetes (type 1 or 2)",Diabetes (type 1 or 2),,,Misc,Coded,,Yes; No; Unknown,,,,
+bb0f6cc4-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepb_base,"StemTB Baseline, Confirmed Hepatitis B",Confirmed Hepatitis B,,,Misc,Coded,,Yes; No; Unknown,,,,
+bb0f6d8c-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepc_base,"StemTB Baseline, Confirmed Hepatitis C",Confirmed Hepatitis C,,,Misc,Coded,,Yes; No; Unknown,,,,
+bb0f6940-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline Past Medical History",Past Medical History / Comorbidities,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus;
+Date of HIV diagnosis; StemTB Baseline, Last CD4 Count;
+CD4 date; StemTB Baseline, Last RNA Viral Load;
+Baseline, Viral Load Date; StemTB Baseline, Currently on ARV treatment?;
+StemTB Baseline, Date of ARV initiation;
+Baseline, Drugs used in ARV treatment; StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, If yes last HbA1c; StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,,,,
 c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB treatment table",Past TB Treatment Table,,,Misc,N/A,"Baseline, Start date of past TB treatment; Baseline, Past TB treatment drug regimen; Baseline, Past TB treatment outcome
-",,
-88581f70-2f23-11eb-adc1-0242ac121002,,EndTB-Export:1,"StemTB Baseline, Accepted",Accepted,,,Misc,N/A,,,
-8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,
-885823a8-2f23-11eb-adc1-0242ac121002,,EndTB-Export:2,"StemTB Baseline, Pending to be asked",Pending to be asked,,,Misc,N/A,,,
-9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,,
-eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,
-eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"StemTB Baseline, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,,
-110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,
-eec8f4d4-1acc-11eb-adc1-0242ac3d0000  ,,EndTB-Export:shortoral_cons_other,"StemTB Baseline, If Other specify","If Other, specify",,,Misc,Text,,,
+",,,,,
+88581f70-2f23-11eb-adc1-0242ac121002,,EndTB-Export:1,"StemTB Baseline, Accepted",Accepted,,,Misc,N/A,,,,,,
+8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,,,,
+885823a8-2f23-11eb-adc1-0242ac121002,,EndTB-Export:2,"StemTB Baseline, Pending to be asked",Pending to be asked,,,Misc,N/A,,,,,,
+9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,,,,,
+eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,,,,
+eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"StemTB Baseline, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,,,,,
+110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,
+eec8f4d4-1acc-11eb-adc1-0242ac3d0000  ,,EndTB-Export:shortoral_cons_other,"StemTB Baseline, If Other specify","If Other, specify",,,Misc,Text,,,,,,
 eec8f236-1acb-11eb-adc1-0242ac120002,,EndTB-Export:shortoral_cons,"StemTB Baseline, Has the Consent form for all oral shorter regimen been explained and signed",Has the Consent form for all oral shorter regimen been explained and signed,,,Misc,Coded,,"StemTB Baseline, Accepted;
 StemTB Baseline, Refused;
-StemTB Baseline, Pending to be asked; Other",
-110e7018-1adf-11eb-adc1-0242ac120002   ,,,"StemTB Baseline, Consent",Consent,,,Misc,N/A,"StemTB Baseline, Has the Consent form for all oral shorter regimen been explained and signed; StemTB Baseline, If Other specify; StemTB Baseline, Baseline Date Consent Signed",,
-342eb8b4-2e6a-11eb-adc1-0242ab120002,,,"StemTB, Baseline Template",Baseline Assessment,,,Misc,N/A,"Baseline, Date of baseline; StemTB Baseline, Baseline Social History; StemTB Baseline, Baseline TB History; StemTB Baseline, Baseline Past Medical History; StemTB Baseline, Case Definition; StemTB Baseline, Consent; StemTB Baseline, Treatment start; StemTB Baseline, Baseline, Past TB treatment table;  Baseline, Known Drug Allergies",,
+StemTB Baseline, Pending to be asked; Other",,,,
+110e7018-1adf-11eb-adc1-0242ac120002   ,,,"StemTB Baseline, Consent",Consent,,,Misc,N/A,"StemTB Baseline, Has the Consent form for all oral shorter regimen been explained and signed; StemTB Baseline, If Other specify; StemTB Baseline, Baseline Date Consent Signed",,,,,
+342eb8b4-2e6a-11eb-adc1-0242ab120002,,,"StemTB, Baseline Template",Baseline Assessment,,,Misc,N/A,"Baseline, Date of baseline; StemTB Baseline, Baseline Social History; StemTB Baseline, Baseline TB History; StemTB Baseline, Baseline Past Medical History; StemTB Baseline, Case Definition; StemTB Baseline, Consent; StemTB Baseline, Treatment start; StemTB Baseline, Baseline, Past TB treatment table;  Baseline, Known Drug Allergies",,,,,
