@@ -90,7 +90,13 @@ c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB trea
 8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,,,,
 885823a8-2f23-11eb-adc1-0242ac121002,,EndTB-Export:2,"StemTB Baseline, Pending to be asked",Pending to be asked,,,Misc,N/A,,,,,,
 9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,,,,,
-eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,,,,
+9996070d-91a3-4f7c-84a9-d9bd8a3fee6f,,EndTB-Export:ti_tr_startdate_est,"StemTB Baseline, Is the treatment start date estimated",Is this treatment start date estimated?,,,Misc,Coded,,Yes; No; Unknown,,,,
+9996070d-91a3-4f7c-84a9-d9bc9a3fee6f,,EndTB-Export:tx_est,"StemTB Baseline, If treatment start date estimated",If yes,,,Misc,Coded,,"StemTB, Day estimated;
+StemTB, Month Estimated;
+StemTB, Year estimated",,,,
+eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; StemTB Baseline, Is the treatment start date estimated;
+StemTB Baseline, If treatment start date estimated;
+StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"StemTB Baseline, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,,,,,
 110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac3d0000  ,,EndTB-Export:shortoral_cons_other,"StemTB Baseline, If Other specify","If Other, specify",,,Misc,Text,,,,,,
