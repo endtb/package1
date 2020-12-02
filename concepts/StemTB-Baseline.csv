@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en
 c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,,,Misc,Coded,,"Nat'l Center for TB Problems (NCTP), Almaty, Kazakhstan; Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)"
 c35e226a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility_oth,"StemTB Baseline, Other treatment facility",Other treatment facility,,,Misc,Text,,,
 5beaa945-62f7-4e5b-86a3-c290575d1bdd,,EndTB-Export:1,Profile unknown,Profile unknown,,,Misc,N/A,,,
