@@ -1,23 +1,23 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Allow Decimal?,Absolute Low,Absolute High 
 546f91be-5ac1-4621-a297-33bd2464f53d,,EndTB-Export:pnrflex_r_fup ,"Followup, Ankle reflexes in right",Reflexes (RIGHT),,,Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
 38ae0acd-0939-4a62-9d5e-fe56cc6e626b,,EndTB-Export:pnrflex_l_fup,"Followup, Ankle reflexes in left",Reflexes (LEFT),,,Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
-582b108f-d881-4bcf-8093-d33398597289,,,"All Oral STR, Brief Peripheral Neuropathy Screen",Brief Peripheral Neuropathy Screen,,,Misc,N/A,"Followup, Brief peripheral neuropathy screen in right; Followup, Brief peripheral neuropathy screen in left",,,,
-8b5746a6-e23d-4ebc-8d6c-b6c35c56d9e8,,EndTB-Export:colorblind_r_fup,"All Oral STR, Right Eye Correct Plates",Right eye (___ /11 plates),,,Misc,Numeric,,,Yes,0.00,11.00
-8b5746a6-e23d-4ebc-9b6c-b6c35c56d8d8,,EndTB-Export:colorblind_l_fup,"All Oral STR, Left Eye Correct Plates",Left eye (___ /11 plates),,,Misc,Numeric,,,Yes,0.00,11.00
-aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"All Oral STR, Ishihara Test",Ishihara Test,,,Misc,N/A,"All Oral STR, Right Eye Correct Plates; 
-All Oral STR, Left Eye Correct Plates",,,,
-7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"All Oral STR, Month of treatment",Month of treatment,,,Misc,Numeric,,,,,
-7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"All Oral STR, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False,,,
-7a634ba4-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_std,"All Oral STR, If hospitalized, start date",Hospitalization Start Date,,,Question,Date,,,,,
-7a634c94-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_endd,"All Oral STR, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,,,,
-7a634c94-252a-11eb-adc1-0332ac120002,,,"All Oral STR, Hospitalization Dates",Hospitalization Dates,,,Misc,N/A,"All Oral STR, If hospitalized, start date; All Oral STR, If hospitalized, end date",,,,
-7a634d8e-252a-11eb-adc1-0242ac120002,,,"All Oral STR, Hospitalization Details",Hospitalization Detail,,,Misc,N/A,"All Oral STR, Hospitalization Dates; HAN, Admission diagnosis",,,,
-eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"All Oral STR, Other clinical Exam",Other,,,Misc,Text,,,,,
+582b108f-d881-4bcf-8093-d33398597289,,,"StemTB, Brief Peripheral Neuropathy Screen",Brief Peripheral Neuropathy Screen,,,Misc,N/A,"Followup, Brief peripheral neuropathy screen in right; Followup, Brief peripheral neuropathy screen in left",,,,
+8b5746a6-e23d-4ebc-8d6c-b6c35c56d9e8,,EndTB-Export:colorblind_r_fup,"StemTB, Right Eye Correct Plates",Right eye (___ /11 plates),,,Misc,Numeric,,,Yes,0,11
+8b5746a6-e23d-4ebc-9b6c-b6c35c56d8d8,,EndTB-Export:colorblind_l_fup,"StemTB, Left Eye Correct Plates",Left eye (___ /11 plates),,,Misc,Numeric,,,Yes,0,11
+aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"StemTB, Ishihara Test",Ishihara Test,,,Misc,N/A,"StemTB, Right Eye Correct Plates; 
+StemTB, Left Eye Correct Plates",,,,
+7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Numeric,,,,,
+7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"StemTB, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False,,,
+7a634ba4-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_std,"StemTB, If hospitalized, start date",Hospitalization Start Date,,,Question,Date,,,,,
+7a634c94-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_endd,"StemTB, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,,,,
+7a634c94-252a-11eb-adc1-0332ac120002,,,"StemTB, Hospitalization Dates",Hospitalization Dates,,,Misc,N/A,"StemTB, If hospitalized, start date; StemTB, If hospitalized, end date",,,,
+7a634d8e-252a-11eb-adc1-0242ac120002,,,"StemTB, Hospitalization Details",Hospitalization Detail,,,Misc,N/A,"StemTB, Hospitalization Dates; HAN, Admission diagnosis",,,,
+eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,,,Misc,Text,,,,,
 "73766466-d0e3-427c-a38b-2a01f49dd3fe
 ",,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
 ",,Misc,N/A,Weight (kg); Height (cm); BMI Data,,,,
-777c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"All Oral STR, Xray Details",Chest X-Ray,,,Misc,N/A,"Xray, Extent of disease;
+777c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Xray Details",Chest X-Ray,,,Misc,N/A,"Xray, Extent of disease;
 Xray, Maximum cavity size;
 Xray, Fibrosis",,,,
-995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"All Oral STR, Chest X-ray Details",Chest X-Ray,,,Misc,N/A,"Xray, Chest Xray Date; All Oral STR, Xray Details; Xray, Comparison with last Xray",,,,
-eec9019a-1acc-11eb-adc1-0242ac120002,,,"All Oral STR, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; All Oral STR, Month of treatment; Followup, Clinical Examination; Followup, Visual Acuity; All Oral STR, Ishihara Test; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; All Oral STR, Hospitalization Details; All Oral STR, Brief Peripheral Neuropathy Screen; All Oral STR, Chest X-ray Details",,,,
+995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Chest X-ray Details",Chest X-Ray,,,Misc,N/A,"Xray, Chest Xray Date; StemTB, Xray Details; Xray, Comparison with last Xray",,,,
+eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; Followup, Visual Acuity; StemTB, Ishihara Test; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Hospitalization Details; StemTB, Brief Peripheral Neuropathy Screen; StemTB, Chest X-ray Details",,,,

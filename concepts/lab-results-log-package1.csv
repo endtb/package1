@@ -1,3 +1,3 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-ae494400-1aea-11eb-adc1-0242ac120002,,,"All Oral STR, Lab Other tests",Other tests,,,Misc,N/A,"Lab, Other test name; Result of test; Lab, Other test unit",
-c2493900-1aea-11eb-adc1-0242ac120002,,,"All Oral STR, Lab Results Log",Lab Results Log,,,Misc,N/A,"Specimen Collection Date; Lab, Hemoglobin; Lab, WBC; Lab, Platelet count; Lab, ALT (SGPT); Lab, AST (SGOT); Lab, Creatinine ; Lab, Potassium; Lab, HbA1c; Lab, Serum Albumin; All Oral STR, Lab Other tests;  Lab, Pregnancy test result",
+ae494400-1aea-11eb-adc1-0242ac120002,,,"StemTB, Lab Other tests",Other tests,,,Misc,N/A,"Lab, Other test name; Result of test; Lab, Other test unit",
+c2493900-1aea-11eb-adc1-0242ac120002,,,"StemTB, Lab Results Log",Lab Results Log,,,Misc,N/A,"Specimen Collection Date; Lab, Hemoglobin; Lab, WBC; Lab, Platelet count; Lab, ALT (SGPT); Lab, AST (SGOT); Lab, Creatinine ; Lab, Potassium; Lab, HbA1c; Lab, Serum Albumin; StemTB, Lab Other tests;  Lab, Pregnancy test result",

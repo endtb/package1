@@ -1,38 +1,38 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"All Oral STR, Withdrawn",Withdrawn,,,Misc,N/A,,
+ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawn,,,Misc,N/A,,
 "ef69d778-bc5c-45ca-aa21-b234d51e6dec
 ",,,"EOT, Outcome",Outcome,,,Test,Coded,,"Cured;
 Completed;
 Died;
 Failed;
-LTFU; All Oral STR, Withdrawal;
+LTFU; StemTB EOT, Withdrawal;
 Not Evaluated;
 Treatment adapted;
-EOT, Transferred to endTB clinical trial; All Oral STR, Withdrawn"
-068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"All Oral STR, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,,,Misc,N/A,,
-068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"All Oral STR, Participant chose to end study participation",Participant chose to end study participation,,,Misc,N/A,,
-068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"All Oral STR, If withdrawal reason for withdrawal",Reason for Withdrawal ,,,Misc,Coded,,"All Oral STR, Shortened regimen was changed due to baseline drug resistance;
-All Oral STR, Participant chose to end study participation;
+EOT, Transferred to endTB clinical trial; StemTB EOT, Withdrawn"
+068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,,,Misc,N/A,,
+068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB EOT, Participant chose to end study participation",Participant chose to end study participation,,,Misc,N/A,,
+068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"StemTB EOT, If withdrawal reason for withdrawal",Reason for Withdrawal ,,,Misc,Coded,,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance;
+StemTB EOT, Participant chose to end study participation;
 Other"
-068d47ec-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr_oth,"All Oral STR, If withdrawal other","If other, specify",,,Misc,Text,,
-068d48b4-2472-11eb-adc1-0242ac1d0002,,,"All Oral STR, Withdrawal",Withdrawal,,,Misc,N/A,"All Oral STR, If withdrawal reason for withdrawal; All Oral STR, If withdrawal other",
-,,EndTB-Export:d_txend,"StemTB, Tuberculosis treatment end date",Date of last day of treatment,,,Misc,Date,,
-,,EndTB-Export:d_outdecision ,"StemTB, End of Treatment Outcome date",Date of end of treatment decision,,,Misc,Data type,,
-,,EndTB-Export:deathcause,"StemTB, Suspected primary cause of death",Suspected primary cause of death,,,Misc,Coded,,"TB immediate cause of death;
+068d47ec-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr_oth,"StemTB EOT, If withdrawal other","If other, specify",,,Misc,Text,,
+068d48b4-2472-11eb-adc1-0242ac1d0002,,,"StemTB EOT, Withdrawal",Withdrawal,,,Misc,N/A,"StemTB EOT, If withdrawal reason for withdrawal; StemTB EOT, If withdrawal other",
+716497f4-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_txend,"StemTB, Tuberculosis treatment end date",Date of last day of treatment,,,Misc,Date,,
+71649b8c-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_outdecision ,"StemTB, End of Treatment Outcome date",Date of end of treatment decision,,,Misc,Date,,
+71649cae-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause,"StemTB, Suspected primary cause of death",Suspected primary cause of death,,,Misc,Coded,,"TB immediate cause of death;
 TB contributing to death;
 Surgery related death;
 Cause other than TB;
 Cause related to TB treatment;
 Unknown"
-,,EndTB-Export:deathcause_tb,"StemTB, Suspected cause related to TB treatment",Suspected cause related to TB treatment,,,Misc,Text,,
-,,EndTB-Export:nontb_cause,"StemTB, Non TB cause of death",Suspected cause other than TB,,,Misc,Text,,
-,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,,,Misc,Text,,"Lack of conversion;
+71649d94-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_tb,"StemTB, Suspected cause related to TB treatment",Suspected cause related to TB treatment,,,Misc,Text,,
+71649e70-3404-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause,"StemTB, Non TB cause of death",Suspected cause other than TB,,,Misc,Text,,
+71649f38-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,,,Misc,Text,,"Lack of conversion;
 Bacteriological reversion after conversion to negative;
 Evidence of additional acquired resistance to fluoroquinolones or second-line injectable drugs;
 Adverse drug reactions;
 Other"
-,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,N/A,,
-,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Reason(s) for Lost To Follow Up,,,Misc,Coded,,"Adverse event;
+7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,N/A,,
+7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Reason(s) for Lost To Follow Up,,,Misc,Coded,,"Adverse event;
 Patient refused to finish treatment/bad relation with health worker;
 Substance abuse;
 Social problem: family, financial, complex social situation;
@@ -40,26 +40,26 @@ Left region/country;
 No confidence in treatment;
 Other;
 Unknown"
-,,EndTB-Export:reas_ltf_oth,"StemTB, Other reasons for treatment interruption","If other, specify",,,Misc,Text,,
-,,EndTB-Export:ltf_oi,"StemTB, Additional information on treatment interruption",Comments,,,Misc,Text,,
-,,,"StemTB, LTFU",Lost to Follow-up,,,Misc,N/A,"StemTB, Reasons for treatment interrruption;
+7164a32a-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf_oth,"StemTB, Other reasons for treatment interruption","If other, specify",,,Misc,Text,,
+7164a3f2-3404-11eb-adc1-0242ac120002,,EndTB-Export:ltf_oi,"StemTB, Additional information on treatment interruption",Comments,,,Misc,Text,,
+7164a4ba-3404-11eb-adc1-0242ac120002,,,"StemTB, LTFU",Lost to Follow-up,,,Misc,N/A,"StemTB, Reasons for treatment interrruption;
 StemTB, Other reasons for treatment interruption;
 StemTB, Additional information on treatment interruption
 ",
-,,,"StemTB, Failed",Failed,,,,,"StemTB, Reasons for failure definition;
+7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,,,Misc,N/A,"StemTB, Reasons for failure definition;
 StemTB, Other reasons for failure definition",
-,,,"StemTB, DIed",Died,,,Misc,N/A,"DATE OF DEATH;
+7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, DIed",Died,,,Misc,N/A,"DATE OF DEATH;
 StemTB, Suspected primary cause of death; Suspected cause related to TB treatment;
 StemTB, Non TB cause of death",
-,,,"StemTB, End of Treatment Outcome",Outcome,,,Misc,Coded,,"Cured;
+7164a708-3404-11eb-adc1-0242ac120002,,EndTB-Export:outcome,"StemTB, End of Treatment Outcome",Outcome,,,Misc,Coded,,"Cured;
 Died;
 Failed;
 Lost to follow-up;
-All Oral STR, Withdrawal;
+StemTB EOT, Withdrawal;
 Not Evaluated;"
-,,EndTB-Export:transfer,"StemTB, Did the patient transfer out",Did the patient transfer out?,,,Misc,Coded,,True; False
-,,EndTB-Export:reas_noout,"StemTB, Other reasons for no evaluation of outcome","If no, why does the patient have this outcome?",,,Misc,Text,,
-,,,"StemTB, Not evaluated",Not Evaluated,,,Misc,Coded,"StemTB, Did the patient transfer out; EOT, Transferred to where;
+7164a8fc-3404-11eb-adc1-0242ac120002,,EndTB-Export:transfer,"StemTB, Did the patient transfer out",Did the patient transfer out?,,,Misc,Coded,,True; False
+7164a9ce-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout,"StemTB, Other reasons for no evaluation of outcome","If no, why does the patient have this outcome?",,,Misc,Text,,
+7164aa8c-3404-11eb-adc1-0242ac120002,,,"StemTB, Not evaluated",Not Evaluated,,,Misc,N/A,"StemTB, Did the patient transfer out; EOT, Transferred to where;
 StemTB, Other reasons for no evaluation of outcome",
 "bb80d45d-e4c5-4ce0-bb7c-0a34d2635ea5
 ",,,"StemTB, Outcome End of Treatment Template",End of Treatment,,,Misc,N/A,"StemTB, Tuberculosis treatment end date;
@@ -68,4 +68,4 @@ EOT, Outcome;
 EOT, Comments to treatment outcome;
 StemTB, Died; StemTB, Failed;
 StemTB, LTFU;
-StemTB, Not evaluated; All Oral STR, Withdrawal",
+StemTB, Not evaluated; StemTB EOT, Withdrawal",
