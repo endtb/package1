@@ -12,7 +12,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, No Recurrence",No recurrence,,,Misc,N/A,,,
 ,,EndTB-Export:4,"StemTB PTO, Lost to follow-up, post-treatment","Lost to follow-up, post-treatment",,,Misc,N/A,,,
 4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"StemTB PTO, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,"StemTB PTO, No Recurrence; Died post treatment; StemTB PTO, Recurrence; StemTB PTO, Lost to follow-up, post-treatment; Not Evaluated",
-5c735a62-324f-11eb-adc1-0242ac121102,,EndTB-Export:deathcause_post,"StemTB PTO, If Died: Suspected Primary cause of death:",If Died: Suspected Primary cause of death:,,,Misc,Coded,,"TB immediate cause of death;
+5c735a62-324f-11eb-adc1-0242ac111102,,EndTB-Export:deathcause_post,"StemTB PTO, If Died: Suspected Primary cause of death",If Died: Suspected Primary cause of death,,,Misc,Coded,,"TB immediate cause of death;
 TB contributing to death;
 Surgery related death;
 Cause other than TB;
@@ -20,7 +20,7 @@ Cause related to TB treatment;
 Unknown",
 5c735cec-324f-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause_post,"StemTB PTO, Non TB cause of post treatment death",Suspected cause other than TB,,,Misc,Text,,,
 5c735e18-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Died",Died Post-Treatment (Patient died after finishing treatment),,,Misc,N/A,"6m PTO, Date of death post treatment;
-StemTB PTO, Suspected cause other than TB;
+StemTB PTO, If Died: Suspected Primary cause of death;
 6m PTO, Type of surgery related to post treatment death;
 StemTB PTO, Non TB cause of post treatment death",,
 5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB PTO, Left town region country","Left town, region, country",,,Misc,N/A,,,
