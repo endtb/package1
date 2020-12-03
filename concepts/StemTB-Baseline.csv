@@ -15,8 +15,8 @@ c36e79ab-ac68-4fe1-8d75-aafc27916189,,EndTB-Export:3,History unclear/unknown,Unk
 Previously treated with second line drugs;
 History unclear/unknown",,,,
 8ce260e9-7b56-414c-81e5-be0a1d38b1da,,EndTB-Export:d_mdrdx,"Baseline, MDR-TB Diagnosis Date",MDR TB or RIF resistance diagnosis date,,,Misc,Date,,,Date of first result indicating MDR or Rifampicin resistance: could be micromolecular test or clinical diagnosis,,,
-342eae00-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB Baseline, Yes-current",Yes-current,,,Misc,N/A,,,,,,
-342eb058-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB Baseline, Yes-past",Yes-past,,,Misc,N/A,,,,,,
+342eae00-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB Baseline, Yes-current",Yes - current,,,Misc,N/A,,,,,,
+342eb058-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB Baseline, Yes-past",Yes - past,,,Misc,N/A,,,,,,
 342eb166-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:prison_base,"StemTB Baseline, Has the patient ever been in prison?",Has the patient ever been in prison?,,,Misc,Coded,,Yes-current; Yes-past; No; Unknown,,,,
 342eb242-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:alcohol_base,"StemTB Baseline, Does the patient drink alcohol?",Does the patient drink alcohol?,,,Misc,Coded,,Yes; No; Unknown,,,,
 342eb30a-2e6a-11eb-adc1-0242ac120002,,EndTB-Export:drinks_wk_base,"StemTB Baseline, Number of standard alcoholic drinks per week",Number of standard alcoholic drinks per week,,,Misc,Numeric,,,,,,
@@ -94,8 +94,7 @@ c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB trea
 9996070d-91a3-4f7c-84a9-d9bc9a3fee6f,,EndTB-Export:tx_est,"StemTB Baseline, If treatment start date estimated",If yes,,,Misc,Coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;
 StemTB, Year estimated",,,,
-eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE; StemTB Baseline, Is the treatment start date estimated;
-StemTB Baseline, If treatment start date estimated;
+eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE;
 StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"StemTB Baseline, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,,,,,
 110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,

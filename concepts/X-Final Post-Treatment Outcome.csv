@@ -12,7 +12,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, No Recurrence",No recurrence,,,Misc,N/A,,,
 ,,EndTB-Export:4,"StemTB PTO, Lost to follow-up, post-treatment","Lost to follow-up, post-treatment",,,Misc,N/A,,,
 4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"StemTB PTO, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,"StemTB PTO, No Recurrence; Died post treatment; StemTB PTO, Recurrence; StemTB PTO, Lost to follow-up, post-treatment; Not Evaluated",
-5c735a62-324f-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_post,"StemTB PTO, Suspected cause other than TB",Suspected cause other than TB,,,Misc,Coded,,"TB immediate cause of death;
+5c735a62-324f-11eb-adc1-0242ac121102,,EndTB-Export:deathcause_post,"StemTB PTO, If Died: Suspected Primary cause of death:",If Died: Suspected Primary cause of death:,,,Misc,Coded,,"TB immediate cause of death;
 TB contributing to death;
 Surgery related death;
 Cause other than TB;
