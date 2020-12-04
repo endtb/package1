@@ -5,8 +5,8 @@ ebc013ef-64ec-4ee5-86fa-d245db6a3b3d,,EndTB-Export:4,"StemTB Quarterly PTO, Phys
 99410341-ae00-41b8-b7b8-9621a1c722ad,,EndTB-Export:3,"StemTB Quarterly PTO, Email",Email,,,Misc,N/A,,,,,,
 844726d3-2609-46ad-bde2-120f202b3840,,EndTB-Export:2,"StemTB Quarterly PTO, Telephone text message",Telephone text message ,,,Misc,N/A,,,,,,
 495eec07-7c90-4b06-9859-efc84310b226,,EndTB-Export:1,"StemTB Quarterly PTO, Telephone call",Telephone call,,,Misc,N/A,,,,,,
-69a8179a-24fd-11eb-adc1-0242ac120002  ,,EndTB-Export:postend_typecont,"StemTB Quarterly PTO, Type of contact",Contact type,,,Misc,Coded,"StemTB Quarterly PTO, Physical meeting elsewhere; StemTB Quarterly PTO, Physical meeting in health facility; StemTB Quarterly PTO, Email; StemTB Quarterly PTO, Telephone text message; StemTB Quarterly PTO, Telephone call",,,,,
-d61a3c94-f3e6-4a58-a6d7-643cce6aa244,,EndTB-Export:1,"StemTB Quarterly PTO, Patient himself (see question 10)",Patient himself (see question 10),,,Misc,N/A,,,,,,
+69a8179a-24fd-11eb-adc1-0242ac120002  ,,EndTB-Export:postend_typecont,"StemTB Quarterly PTO, Type of contact",Contact type,,,Misc,Coded,"StemTB Quarterly PTO, Telephone call; StemTB Quarterly PTO, Telephone text message; StemTB Quarterly PTO, Email; StemTB Quarterly PTO, Physical meeting in health facility; StemTB Quarterly PTO, Physical meeting elsewhere",,,,,
+d61a3c94-f3e6-4a58-a6d7-643cce6aa244,,EndTB-Export:1,"StemTB Quarterly PTO, Patient himself (see question 10)",Patient himself (go to question 5),,,Misc,N/A,,,,,,
 337ab39b-822e-4dc6-aa7c-67caee1771b7,,EndTB-Export:2,"StemTB Quarterly PTO, Patient family member Patient friend or acquaintance",Patient family member Patient friend or acquaintance,,,Misc,N/A,,,,,,
 7e77999e-8638-454c-b506-3c48b32e3fae,,EndTB-Export:3,"StemTB Quarterly PTO,  NTP personal ",NTP personal ,,,Misc,N/A,,,,,,
 f4d7d5e8-dcb3-4bad-9ac3-8d623a16b8bc,,EndTB-Export:4,"StemTB Quarterly PTO, Other health professional ",Other health professional ,,,Misc,N/A,,,,,,
@@ -64,14 +64,11 @@ Failed;
 LTFU;
 Not Evaluated;
 Treatment adapted",,,,,
-ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"StemTB Quarterly PTO, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"StemTB Quarterly PTO EOT, Outcome;
-DATE OF DEATH;
-EOT, End of Treatment Outcome date;
-StemTB Quarterly PTO, EOT Visit Date;
-StemTB Quarterly PTO, Date of contact;
+ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"StemTB Quarterly PTO, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"StemTB Quarterly PTO EOT, Outcome; EOT, End of Treatment Outcome date;
+StemTB Quarterly PTO, Date of contact; 
 StemTB Quarterly PTO, Type of contact;
 StemTB Quarterly PTO, Person from whom the information is provided/assessment made;
-StemTB Quarterly PTO, Indirect information if patient not seen in person;
+StemTB Quarterly PTO, Indirect information if patient not seen in person; DATE OF DEATH;
 StemTB Quarterly PTO, Clinical questions to patient only;
 StemTB Quarterly PTO, Post treatment BPNS;
 StemTB Quarterly PTO, Medical Visits and Medications;
