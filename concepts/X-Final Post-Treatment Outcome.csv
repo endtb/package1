@@ -37,5 +37,18 @@ Unknown",Select all that apply
 5c7365f2-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Not evaluated",Not evaluated (No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown),,,Misc,N/A,"StemTB PTO, Did the patient transfer out;
 6m PTO, Transferred to where post treatment;
 StemTB PTO, If no, why does the patient have this outcome",,
-4abf01f0-22c2-11eb-adc1-0242ac120002,,,"StemTB, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"StemTB PTO, Date of post-treatment outcome decision; Final Post-Treatment Outcome; StemTB PTO, If no recurrence; StemTB PTO, If recurrence; StemTB PTO, Died; 6m PTO, LTFU; StemTB PTO, Not evaluated;
+6e624ab4-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,,,Misc,Coded,,"Adverse event;
+Patient refused followup;
+Substance abuse;
+Social problem: family, financial, complex social situation;
+Left region/country;
+No confidence in treatment;
+Other;
+Unknown",
+6e624da2-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup_oth,"StemTB PTO,  Other reasons for no post treatment followup",Other,,,Misc,Text,,,
+6e624eec-362b-11eb-adc1-0242ac120002,,EndTB-Export:comm_nopost_fup,"StemTB PTO,  Comments on no post treatment followup",,,,Misc,Text,,,No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown). 
+6e624fd2-362b-11eb-adc1-0242ac120002,,,"StemTB PTO, Lost To Follow Up",,,,Misc,N/A,"StemTB PTO, Reasons for no post treatment followup;
+StemTB PTO,  Other reasons for no post treatment followup;
+StemTB PTO,  Comments on no post treatment followup",,
+4abf01f0-22c2-11eb-adc1-0242ac120002,,,"StemTB, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"StemTB PTO, Date of post-treatment outcome decision; Final Post-Treatment Outcome; StemTB PTO, If no recurrence; StemTB PTO, Died; StemTB PTO, If recurrence; StemTB PTO, Lost To Follow Up; StemTB PTO, Not evaluated;
 ",,
