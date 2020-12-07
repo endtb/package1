@@ -8,14 +8,15 @@ aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"StemTB, Ishihara Test",Ishihara Test,,,M
 StemTB, Left Eye Correct Plates",,,,
 aef91d6f-80e6-4b71-984b-6aa0342f2dd2,,EndTB-Export:va_r,"StemTB, Right Eye Visual Acuity; ",Right eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
 aef91d6f-80e6-4b71-974b-6ae0342f2dd2,,EndTB-Export:va_l,"StemTB, Left Eye Visual Acuity",Left eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
-,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
+aef91d6f-80d6-4b71-974b-6ae0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
 StemTB, Left Eye Visual Acuity",,,,
-7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Numeric,,,,,
+7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Numeric,,,Yes,0,24
 7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"StemTB, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False,,,
 7a634ba4-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_std,"StemTB, If hospitalized, start date",Hospitalization Start Date,,,Question,Date,,,,,
 7a634c94-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_endd,"StemTB, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,,,,
 7a634c94-252a-11eb-adc1-0332ac120002,,,"StemTB, Hospitalization Dates",Hospitalization Dates,,,Misc,N/A,"StemTB, If hospitalized, start date; StemTB, If hospitalized, end date",,,,
-7a634d8e-252a-11eb-adc1-0242ac120002,,,"StemTB, Hospitalization Details",Hospitalization Detail,,,Misc,N/A,"StemTB, Hospitalization Dates; HAN, Admission diagnosis",,,,
+7a634d8e-252a-11eb-adc1-0242ac120002,,,"StemTB, Hospitalization Details",Please list all patient hospitalizations,,,Misc,N/A,"StemTB, Hospitalization Dates; HAN, Admission diagnosis
+",,,,
 eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,,,Misc,Text,,,,,
 "73766466-d0e3-427c-a38b-2a01f49dd3fe
 ",,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
@@ -24,4 +25,4 @@ eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,,,Mis
 Xray, Maximum cavity size;
 Xray, Fibrosis",,,,
 995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Chest X-ray Details",Chest X-Ray,,,Misc,N/A,"Xray, Chest Xray Date; StemTB, Xray Details; Xray, Comparison with last Xray",,,,
-eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; StemTB, Visual Acuity; StemTB, Ishihara Test; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Hospitalization Details; StemTB, Brief Peripheral Neuropathy Screen; StemTB, Chest X-ray Details",,,,
+eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; StemTB, Visual Acuity; StemTB, Ishihara Test; EKG, QT Interval; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Brief Peripheral Neuropathy Screen;  StemTB, Hospitalization Details; StemTB, Chest X-ray Details",,,,
