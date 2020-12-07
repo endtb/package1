@@ -6,9 +6,9 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 8b5746a6-e23d-4ebc-9b6c-b6c35c56d8d8,,EndTB-Export:colorblind_l_fup,"StemTB, Left Eye Correct Plates",Left eye (___ /11 plates),,,Misc,Numeric,,,Yes,0,11
 aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"StemTB, Ishihara Test",Ishihara Test,,,Misc,N/A,"StemTB, Right Eye Correct Plates; 
 StemTB, Left Eye Correct Plates",,,,
-aef91d6f-80e6-4b71-984b-6aa0342f2dd2,,EndTB-Export:va_r,"StemTB, Right Eye Visual Acuity; ",Right eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
+aef91d6f-80e6-4b71-984b-6aa0342f2ed2,,EndTB-Export:va_r,"StemTB, Right Eye Visual Acuity",Right eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
 aef91d6f-80e6-4b71-974b-6ae0342f2dd2,,EndTB-Export:va_l,"StemTB, Left Eye Visual Acuity",Left eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
-aef91d6f-80d6-4b71-974b-6ae0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
+aef91d6f-80d6-4b71-974b-6ad0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
 StemTB, Left Eye Visual Acuity",,,,
 7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Numeric,,,Yes,0,24
 7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"StemTB, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False,,,
