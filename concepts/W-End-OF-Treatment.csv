@@ -42,7 +42,7 @@ StemTB, Additional information on treatment interruption",
 Completed;
 Died;
 Failed;
-StemTB EOT, LFTU; StemTB EOT, Withdrawal;
+StemTB EOT, LFTU; StemTB EOT, Withdrawn;
 Not Evaluated"
 7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,,,Misc,N/A,"StemTB, Reasons for failure definition;
 StemTB, Other reasons for failure definition",
