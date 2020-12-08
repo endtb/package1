@@ -31,12 +31,12 @@ dbf0d606-3976-11eb-adc1-0242ac120002,,EndTB-Export:36,"StemTB, Hypomagnesemia (M
 dbf0dc8c-3976-11eb-adc1-0242ac120002,,EndTB-Export:39,"StemTB, Lactate (serum lactate greater than ULN)",Lactate (serum lactate greater than ULN),,,Misc,N/A,,,
 dbf0ddf4-3976-11eb-adc1-0242ac120002,,EndTB-Export:1002,"StemTB, Skin hypo- or hyper-pigmentation",Skin hypo- or hyper-pigmentation,,,Misc,N/A,,,
 dbf0ddf4-3976-11eb-adc1-0242ac110002,,EndTB-Export:14,"StemTB, Prolonged (corrected) QT interval",Prolonged (corrected) QT interval,,,Misc,N/A,,,
-dbf0e088-3976-11eb-adc1-0242ac120002,,EndTB-Export:ae_type,"StemTB, AE term comprehensive list",Use one AE form per event. Tick the box that applies to the AE being reported,,,Misc,N/A,"Cardiac Rhythm; StemTB, Prolonged (corrected) QT interval; StemTB, Hypokalemia (K <= 3.4 mEq/L); StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L); StemTB, Lactate (serum lactate greater than ULN); Hearing impairment; Tinnitus; Vestibular Disorder; Hypothyroidism; Increased liver enzymes; Optic Nerve Disorder; Diarrhea;
+dbf0e088-3976-11eb-adc1-0242ac120002,,EndTB-Export:ae_type,"StemTB, AE term comprehensive list",Use one AE form per event. Tick the box that applies to the AE being reported,,,Misc,coded,,"Cardiac Rhythm; StemTB, Prolonged (corrected) QT interval; StemTB, Hypokalemia (K <= 3.4 mEq/L); StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L); StemTB, Lactate (serum lactate greater than ULN); Hearing impairment; Tinnitus; Vestibular Disorder; Hypothyroidism; Increased liver enzymes; Optic Nerve Disorder; Diarrhea;
 Dyspepsia;
 Nausea;
 Oral Discomfort;
 Pancreatitis;
-Vomiting; Absolute Neutrophil Count Low; Anemia; Platelets Decreased; Allergic Reaction; Arthralgia; Arthritis; Myalgia; Tendinopathy; Dysgeusia; Headache; Peripheral neuropathy; Seizure; Gynecomastia; Anxiety; Depression; Psychosis; Suicidal ideation; Acute Kidney Injury; Mucocutaneous Symptoms; Pruritus; StemTB, Skin hypo- or hyper-pigmentation",,
+Vomiting; Absolute Neutrophil Count Low; Anemia; Platelets Decreased; Allergic Reaction; Arthralgia; Arthritis; Myalgia; Tendinopathy; Dysgeusia; Headache; Peripheral neuropathy; Seizure; Gynecomastia; Anxiety; Depression; Psychosis; Suicidal ideation; Acute Kidney Injury; Mucocutaneous Symptoms; Pruritus; StemTB, Skin hypo- or hyper-pigmentation",
 ,,,"AE Form, Adverse Event Outcome and Causality",Adverse Event Outcome and Causality,,,Misc,N/A,"AE Form, Is AE an SAE;
 AE Form, SAE Case Number;
 AE Form, Date of AE Outcome;
@@ -54,7 +54,7 @@ AE Form, AE related test value",,
 ,,,"AE Form, AE review log",Adverse Events Tracking Log,,,Misc,N/A,"AE Form, AE severity review",,
 64f0a647-441e-443a-a217-1b34df71302d,,,"StemTB, Adverse Events Template",Adverse Events,,,Misc,N/A,"AE Form, AE ID number; AE Form, Date of AE onset;
 AE, Is the date of AE onset estimated?;
-StemTB, If date of AE reporting estimated;
+StemTB, If date of AE onset estimated;
 StemTB, Date of AE report; StemTB, Were all anti-TB drugs suspended due to this AE;
 StemTB, AE term comprehensive list;
 AE Form, Other AE term;
