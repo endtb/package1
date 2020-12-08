@@ -30,6 +30,7 @@ dbf0d0ca-3976-11eb-adc1-0242ac120002,,EndTB-Export:35,"StemTB, Hypokalemia (K �
 dbf0d606-3976-11eb-adc1-0242ac120002,,EndTB-Export:36,"StemTB, Hypomagnesemia (Mg ≤ 1.4 mmol/L)",Hypomagnesemia (Mg ≤ 1.4 mmol/L),,,Misc,N/A,,,
 dbf0dc8c-3976-11eb-adc1-0242ac120002,,EndTB-Export:39,"StemTB, Lactate (serum lactate greater than ULN)",Lactate (serum lactate greater than ULN),,,Misc,N/A,,,
 dbf0ddf4-3976-11eb-adc1-0242ac120002,,EndTB-Export:1002,"StemTB, Skin hypo- or hyper-pigmentation",Skin hypo- or hyper-pigmentation,,,Misc,N/A,,,
+dbf0ddf4-3976-11eb-adc1-0242ac110002,,EndTB-Export:14,"StemTB, Prolonged (corrected) QT interval",Prolonged (corrected) QT interval,,,Misc,N/A,,,
 dbf0e088-3976-11eb-adc1-0242ac120002,,EndTB-Export:ae_type,"StemTB, AE term comprehensive list",Use one AE form per event. Tick the box that applies to the AE being reported,,,Misc,N/A,"Cardiac Rhythm; StemTB, Prolonged (corrected) QT interval; StemTB, Hypokalemia (K ≤ 3.4 mEq/L); StemTB, Hypomagnesemia (Mg ≤ 1.4 mmol/L); StemTB, Lactate (serum lactate greater than ULN); Hearing impairment; Tinnitus; Vestibular Disorder; Hypothyroidism; Increased liver enzymes; Optic Nerve Disorder; Diarrhea;
 Dyspepsia;
 Nausea;
