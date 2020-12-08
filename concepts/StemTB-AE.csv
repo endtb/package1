@@ -7,8 +7,7 @@ StemTB, Month Estimated;
 StemTB, Year estimated",
 5f515ad3-3649-43a0-ab08-65f0ac687337,,EndTB-Export:d_ae_report,"StemTB, Date of AE report",Date of reporting the event (today's date),,,Misc,Date,,,
 4cc01324-ba93-4c4b-bd19-76caebed1f29,,EndTB-Export:ae_all_susp,"StemTB, Were all anti-TB drugs suspended due to this AE",Were all anti-TB drugs suspended due to this AE?,,,Misc,Coded,,True; False,
-"8a09283e-5914-4d0f-8298-f825ed7a4ddf
-",,EndTB-Export:ae_outcome_date_est_box,"StemTB, If date of AE outcome estimated","If yes, please tick the approriate box(es):",,,Misc,coded,,"StemTB, Day estimated;
+8a09283e-5914-4d0f-8298-f825ed7b4ddf,,EndTB-Export:ae_outcome_date_est_box,"StemTB, If date of AE outcome estimated","If yes, please tick the approriate box(es):",,,Misc,coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;
 StemTB, Year estimated",
 2c43d559-3290-44ad-b7d7-90dac61d0b35,,EndTB-Export:6,"StemTB, Fatal (fill out an SAE form)",Fatal (fill out an SAE form),,,Misc,N/A,,,
@@ -36,7 +35,7 @@ Dyspepsia;
 Nausea;
 Oral Discomfort;
 Pancreatitis;
-Vomiting; Absolute Neutrophil Count Low; Anemia; Platelets Decreased; Allergic Reaction; Arthralgia; Arthritis; Myalgia; Tendinopathy; Dysgeusia; Headache; Peripheral neuropathy; Seizure; Gynecomastia; Anxiety; Depression; Psychosis; Suicidal ideation; Acute Kidney Injury; Mucocutaneous Symptoms; Pruritus; StemTB, Skin hypo- or hyper-pigmentation",
+Vomiting; Absolute Neutrophil Count Low; Anemia; Platelets Decreased; Allergic Reaction; Arthralgia; Arthritis; Myalgia; Tendinopathy; Dysgeusia; Headache; Peripheral neuropathy; Seizure; Gynecomastia; Anxiety; Depression; Psychosis; Suicidal ideation; Acute Kidney Injury; Mucocutaneous Symptoms; Pruritus; StemTB, Skin hypo- or hyper-pigmentation; Other",
 ,,,"AE Form, Adverse Event Outcome and Causality",Adverse Event Outcome and Causality,,,Misc,N/A,"AE Form, Is AE an SAE;
 AE Form, SAE Case Number;
 AE Form, Date of AE Outcome;

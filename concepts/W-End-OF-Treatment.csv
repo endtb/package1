@@ -26,12 +26,12 @@ Cause related to TB treatment;
 Unknown"
 71649d94-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_tb,"StemTB, Suspected cause related to TB treatment",Suspected cause related to TB treatment,,,Misc,Text,,
 71649e70-3404-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause,"StemTB, Non TB cause of death",Suspected cause other than TB,,,Misc,Text,,
-71649f38-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,,,Misc,Text,,"Lack of conversion;
+71649f38-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,,,Misc,Coded,,"Lack of conversion;
 Bacteriological reversion after conversion to negative;
 Evidence of additional acquired resistance to fluoroquinolones or second-line injectable drugs;
 Adverse drug reactions;
 Other"
-7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,N/A,,
+7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,Text,,
 7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Reason(s) for Lost To Follow Up,,,Misc,Coded,,"Adverse event;
 Patient refused to finish treatment/bad relation with health worker;
 Substance abuse;
