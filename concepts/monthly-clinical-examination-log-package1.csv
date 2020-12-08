@@ -10,7 +10,7 @@ aef91d6f-80e6-4b71-984b-6aa0342f2ed2,,EndTB-Export:va_r,"StemTB, Right Eye Visua
 aef91d6f-80e6-4b71-974b-6ae0342f2dd2,,EndTB-Export:va_l,"StemTB, Left Eye Visual Acuity",Left eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
 aef91d6f-80d6-4b71-974b-6ad0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
 StemTB, Left Eye Visual Acuity",,,,
-7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Numeric,,,Yes,0,24
+7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Text,,,,,
 7a63496a-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp,"StemTB, Was the patient hospitalized in the last month",Hospitalized in the last month,,,Misc,Coded,,True; False,,,
 7a634ba4-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_std,"StemTB, If hospitalized, start date",Hospitalization Start Date,,,Question,Date,,,,,
 7a634c94-252a-11eb-adc1-0242ac120002,,EndTB-Export:hosp_endd,"StemTB, If hospitalized, end date",Hospitalization End Date,,,Question,Date,,,,,
