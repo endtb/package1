@@ -21,6 +21,10 @@ Number, 2;
 Number, 3;
 Number, 4",
 ,,EndTB-Export:ae_tbrel ,"StemTB, AE related to TB drugs",Is this adverse event related to any of the TB drugs in the patient's regimen?,,,Misc,coded,,True; False,
+,,EndTB-Export:ae_grade,"StemTB, AE Grade",Severity grade,,,Misc,coded,,"Number, 1;
+Number, 2;
+Number, 3;
+Number, 4",
 ,,,"AE Form, Adverse Event Outcome and Causality",Adverse Event Outcome and Causality,,,Misc,N/A,"AE Form, Is AE an SAE;
 AE Form, SAE Case Number;
 AE Form, Date of AE Outcome;
@@ -29,6 +33,12 @@ StemTB, AE outcome;
 StemTB, Maximum severity of AE;
 StemTB, AE related to TB drugs;
 AE Form, TB drug treatment; AE Form, Other causal factors",,
+,,EndTB-Export:lab_id,"StemTB, Lab ID number",Lab ID number,,,Misc,Text,,,
+cf62f8bb-bd1f-401e-bcf5-6ed462830458,,,"StemTB, Related Test Result",Related test results,,,Misc,N/A,"AE Form, AE related test;
+AE form, other related test;
+StemTB, Lab ID number;
+AE Form, AE related test date;
+AE Form, AE related test value",,
 cf62f8bb-bd1f-401e-bcf5-6ed562830458,,,"AE Form, AE review log",Adverse Events Tracking Log,,,Misc,N/A,"AE Form, AE severity review",,
 64f0a647-441e-443a-a2a7-1b34df71302d,,,"StemTB, Adverse Events Template",Adverse Events,,,Misc,N/A,"AE Form, AE ID number; AE Form, Date of AE onset;
 AE, Is the date of AE onset estimated?;
@@ -36,7 +46,7 @@ StemTB, If date of AE reporting estimated;
 StemTB, Date of AE report; StemTB, Were all anti-TB drugs suspended due to this AE;
 AE Form, AE term comprehensive list;
 AE Form, Other AE term;
-AE Form, AE Grade;
-AE Form, Related Test Result;
+StemTB, AE Grade;
+StemTB, Related Test Result;
 AE Form, AE review log;
 AE Form, Adverse Event Outcome and Causality",,
