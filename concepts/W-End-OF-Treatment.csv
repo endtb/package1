@@ -1,14 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
 ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawn,,,Misc,N/A,,
-"ef69d778-bc5c-45ca-aa21-b234c51e6dec
-",,,"StemTB EOT, Outcome",Outcome,,,Misc,Coded,,"Cured;
-Completed;
-Died;
-Failed;
-LTFU; StemTB EOT, Withdrawal;
-Not Evaluated;
-Treatment adapted;
-EOT, Transferred to endTB clinical trial; StemTB EOT, Withdrawn"
 068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,,,Misc,N/A,,
 068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB EOT, Participant chose to end study participation",Participant chose to end study participation,,,Misc,N/A,,
 068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"StemTB EOT, If withdrawal reason for withdrawal",Reason for Withdrawal ,,,Misc,Coded,,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance;
@@ -42,13 +33,20 @@ Other;
 Unknown"
 7164a32a-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf_oth,"StemTB, Other reasons for treatment interruption","If other, specify",,,Misc,Text,,
 7164a3f2-3404-11eb-adc1-0242ac120002,,EndTB-Export:ltf_oi,"StemTB, Additional information on treatment interruption",Comments,,,Misc,Text,,
-7164a4ba-3404-11eb-adc1-0242ac120002,,,"StemTB, LTFU",Lost to Follow-up,,,Misc,N/A,"StemTB, Reasons for treatment interrruption;
+7164a4ba-3404-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB, LTFU",Lost to Follow-up,,,Misc,N/A,"StemTB, Reasons for treatment interrruption;
 StemTB, Other reasons for treatment interruption;
 StemTB, Additional information on treatment interruption
 ",
+"ef69d778-bc5c-45ca-aa21-b234c51e6dec
+",,,"StemTB EOT, Outcome",Outcome,,,Misc,Coded,,"Cured;
+Completed;
+Died;
+Failed;
+StemTB, LTFU; StemTB EOT, Withdrawal;
+Not Evaluated"
 7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,,,Misc,N/A,"StemTB, Reasons for failure definition;
 StemTB, Other reasons for failure definition",
-7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, DIed",Died,,,Misc,N/A,"DATE OF DEATH;
+7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, Died",Died,,,Misc,N/A,"DATE OF DEATH;
 StemTB, Suspected primary cause of death; Suspected cause related to TB treatment;
 StemTB, Non TB cause of death",
 7164a708-3404-11eb-adc1-0242ac120002,,EndTB-Export:outcome,"StemTB, End of Treatment Outcome",Outcome,,,Misc,Coded,,"Cured;
