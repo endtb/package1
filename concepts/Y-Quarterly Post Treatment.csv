@@ -21,7 +21,7 @@ d1c003fb-a298-4602-b1f0-548b58015163,,EndTB-Export:3,"StemTB Quarterly PTO, pati
 ea964cd4-d81e-4790-a03b-63e5b6f6807d,,EndTB-Export:5,"StemTB Quarterly PTO, patient has been diagnosed with TB and re-enrolled in TB treatment",Patient has been diagnosed with TB and re-enrolled in TB treatment,,,Misc,N/A,,,,,,
 ea964cd4-d81e-499c-a03b-63e5b5d6807d,,EndTB-Export:postend_indinfo,"StemTB Quarterly PTO, Indirect information if patient not seen in person",4. Indirect information if patient not seen in person,,,Misc,Coded,"StemTB Quarterly PTO, patient well; StemTB Quarterly PTO, patient has left and no contact; StemTB Quarterly PTO, patient died; StemTB Quarterly PTO, patient has symptoms; StemTB Quarterly PTO, patient has been diagnosed with TB and re-enrolled in TB treatment
 ",,,,,
-52398068-f91a-4ea2-a79e-20341db852f1,,,"StemTB Quarterly PTO, Month post end-of-treatment",Month post end-of-treatment,,,Misc,N/A,,,,,,
+52398068-f91a-4ea2-a79e-20341db852f1,,EndTB-Export:ptnt_mnth,"StemTB Quarterly PTO, Month post end-of-treatment",Month post end-of-treatment,,,Misc,Text,,,,,,
 e8cc45cc-f1b0-4c8f-bc0e-b8a25f775d3a,,EndTB-Export:d_postend_vst,"StemTB Quarterly PTO, EOT Visit Date",Visit date,,,Question,Date,,,,,,
 05166047-1b13-4b6d-8f8d-85e57d70bf35,,EndTB-Export:ptnt_cough,"StemTB Quarterly PTO, Have you had cough for > 2 weeks",5. Have you had cough for > 2 weeks,,,Misc,Coded,True; False; Unknown,,,,,
 d55d464b-e327-42a7-8d8d-59ec199e7735,,EndTB-Export:ptnt_coughprod,"StemTB Quarterly PTO, If yes Is your cough productive","5a. If yes, Is your cough productive?",,,Misc,Coded,True; False; Unknown,,,,,
