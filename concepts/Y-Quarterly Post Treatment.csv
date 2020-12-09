@@ -32,10 +32,10 @@ d4985a11-43dd-4226-ac0a-a3929d96467c,,EndTB-Export:ptnt_ntswt,"StemTB Quarterly 
 8cf1e5a8-bfef-4f57-9857-4dbd9e09bd15,,EndTB-Export:ptnt_wtls,"StemTB Quarterly PTO, Have you had unexplained weight loss",8. Have you had unexplained weight loss?,,,Misc,Coded,True; False; Unknown,,,,,
 9837d303-97e2-4337-b2a7-430d8d90c1f7,,,"StemTB Quarterly PTO, Clinical questions to patient only",Clinical questions to patient only,,,Misc,N/A,,"StemTB Quarterly PTO, Have you had cough for > 2 weeks; StemTB Quarterly PTO, If yes Is your cough productive; StemTB Quarterly PTO, If yes Is there blood in your sputum; StemTB Quarterly PTO, Do you have fever; StemTB Quarterly PTO, If yes fever or how long(in days); StemTB Quarterly PTO, Do you have night sweats; StemTB Quarterly PTO, Have you had unexplained weight loss
 ",,,,
-f256a648-cdc8-4503-aae2-a768ffc2a1fa,,EndTB-Export:ptnt_crntmed,"StemTB Quarterly PTO, Any current medications being taken",10. Any current medications being taken?,,,Misc,Coded,True; False; Unknown,,,,,
+f256a648-cdc8-4503-aae2-a768ffc2a1fa,,EndTB-Export:ptnt_crntmed,"StemTB Quarterly PTO, Any current medications being taken",10. Any current medications being taken?,,,Misc,Coded,True; False,,,,,
 92855c0e-be7a-4184-8bb8-35512f763274,,EndTB-Export:ptnt_crntmed_list,"StemTB Quarterly PTO, If yes please list","10a. If yes, please list",,,Misc,Text,,,,,,
-299d635f-d27f-48d9-a89a-f97f9be855a9,,EndTB-Export:ptnt_contdoc,"StemTB Quarterly PTO, Any contact with a medical practitioner since completing TB treatment",11. Any contact with a medical practitioner since completing TB treatment?,,,Misc,Coded,True; False; Unknown,,,,,
-c0f9d5ef-2301-47a5-bdbe-9f66540be565,,EndTB-Export:ptnt_vtpurp,"StemTB Quarterly PTO, If yes what was the purpose of visit","11a. If yes, was the visit related to a respiratory problem or respiratory illness?",,,Misc,Text,,,,,,
+299d635f-d27f-48d9-a89a-f97f9be855a9,,EndTB-Export:ptnt_contdoc,"StemTB Quarterly PTO, Any contact with a medical practitioner since completing TB treatment",11. Any contact with a medical practitioner since completing TB treatment?,,,Misc,Coded,True; False,,,,,
+c0f9d5ef-2301-47a5-bdbe-9f66540be565,,EndTB-Export:ptnt_vtpurp,"StemTB Quarterly PTO, If yes what was the purpose of visit","11a. If yes, was the visit related to a respiratory problem or respiratory illness?",,,Misc,Coded,True; False,,,,,
 bf690e43-5161-45ca-9c50-97ff530a3ade,,EndTB-Export:ptnt_vtoutcome,"StemTB Quarterly PTO, What was the outcome of the visit",11b. What was the outcome of the visit?,,,Misc,Text,,,,,,
 f53db077-1873-4055-9823-cec5e9a0b3ab,,,"StemTB Quarterly PTO, Medical Visits and Medications",Medical Visits and Medications,,,Misc,N/A,,"StemTB Quarterly PTO, Any current medications being taken; StemTB Quarterly PTO, If yes please list; StemTB Quarterly PTO, Any contact with a medical practitioner since completing TB treatment; StemTB Quarterly PTO, If yes what was the purpose of visit; StemTB Quarterly PTO, What was the outcome of the visit",,,,
 8cb0c965-d3a3-4b62-b42b-60ab61275e2e,,EndTB-Export:hhc_tbtx,Any household contact being treated for TB,Household contact treated for TB,,,Misc,Coded,True; False; Unknown,,,,,
@@ -44,13 +44,10 @@ e8698b25-c392-4fbb-ba4e-d59c7d53575f,,,"StemTB Quarterly PTO,  Post treatment Ho
 fbe03007-19ba-4975-90ff-9cf7554cdbea,,EndTB-Export:ptnt_tbrlps,"StemTB Quarterly PTO, Is patient a possible TB relapse",Is patient a possible TB relapse,,,Misc,Coded,True; False; Unknown,,,,,
 8a05ca81-9a9f-4b81-8e14-f62eb05e07e9,,EndTB-Export:ptnt_culture,"StemTB Quarterly PTO, Was a culture ordered",Was a culture ordered?,,,Misc,Coded,True; False,,,,,
 ae720a0b-6c1a-49ec-9ce3-e5a6eed59b03,,EndTB-Export:ptnt_diagtests,"StemTB Quarterly PTO, List all diagnostic tests ordered",List all diagnostic tests ordered:,,,Misc,Text,,,,,,
-0dace0de-f6f8-47b0-975e-900d1d9b4c50,,EndTB-Export:ptnt_appoint,"StemTB Quarterly PTO, Date of next appointment",Date of next appointment ,,,Misc,Coded,True; False,,,,,
-facc6f36-681b-46b4-b709-bac4c5710ed2,,EndTB-Export:ptnt_appoint_wh,"StemTB Quarterly PTO, If yes where",Where is the next appointment,,,Misc,Text,,,,,,
-2880f4dc-adff-40a2-8f64-0cfa44dcad7c,,EndTB-Export:d_ptnt_appoint,"StemTB Quarterly PTO, If yes what date",What date is the next appointment,,,Question,Date,,,,,,
+0dace0de-f6f8-47b0-975e-900d1d9b4c50,,EndTB-Export:d_ptnt_appoint,"StemTB Quarterly PTO, Date of next appointment",Date of next appointment ,,,Misc,Date,,,,,,
 ba2b10c9-5398-46c8-b167-5be91de28126,,EndTB-Export:ptnt_notes,"StemTB Quarterly PTO, Notes",Notes,,,Misc,Text,,,,,,
 f4fe9b32-9fbb-453d-b7d9-3b3cbebc4df4,,EndTB-Export:postendtxoutcome_compl,"StemTB Quarterly PTO, If 1 year post end-of-treatment post end of treatment outcome form filled in",Post end-of-treatment outcome completed,,,Misc,Coded,True; False,,,,,
-694cfecd-be3f-4039-a5f4-8d0aa7fb795f,,,"StemTB Quarterly PTO, Action at end of assessment",Action at end of assessment,,,Misc,N/A,,"StemTB Quarterly PTO, Is patient a possible TB relapse; StemTB Quarterly PTO, Was a culture ordered; StemTB Quarterly PTO, List all diagnostic tests ordered; StemTB Quarterly PTO, Date of next appointment; StemTB Quarterly PTO, If yes where; StemTB Quarterly PTO, If yes what date; StemTB Quarterly PTO, Notes; StemTB Quarterly PTO, If 1 year post end-of-treatment post end of treatment outcome form filled in
-",,,,
+694cfecd-be3f-4039-a5f4-8d0aa7fb795f,,,"StemTB Quarterly PTO, Action at end of assessment",Action at end of assessment,,,Misc,N/A,,"StemTB Quarterly PTO, Is patient a possible TB relapse; StemTB Quarterly PTO, Was a culture ordered; StemTB Quarterly PTO, List all diagnostic tests ordered; StemTB Quarterly PTO, Date of next appointment; StemTB Quarterly PTO, Notes",,,,
 694fcead-be3f-4039-a5f4-8d0aa7fb795f,,EndTB-Export:ptnt_bpns_lft,"StemTB Quarterly PTO, BPNS Subjective score Left",Left,,,Misc,Numeric,,,No,,0,10
 694cfecd-be3f-4039-a5f4-8d0aa7fb796d,,EndTB-Export:ptnt_bpns_rt,"StemTB Quarterly PTO, BPNS Subjective score Right
 ",Right,,,Misc,Numeric,,,No,,0,10
@@ -72,5 +69,4 @@ StemTB Quarterly PTO, Indirect information if patient not seen in person; DATE O
 StemTB Quarterly PTO, Clinical questions to patient only;
 StemTB Quarterly PTO, Post treatment BPNS;
 StemTB Quarterly PTO, Medical Visits and Medications;
-StemTB Quarterly PTO,  Post treatment Household Contacts;
 StemTB Quarterly PTO, Action at end of assessment",,,,

@@ -65,4 +65,4 @@ StemTB, End of Treatment Outcome date;
 StemTB EOT, Outcome;
 StemTB, Died; StemTB, Failed;
 StemTB, LTFU;
-StemTB, Not evaluated; StemTB EOT, Withdrawal",
+StemTB EOT, Withdrawal; StemTB, Not evaluated",
