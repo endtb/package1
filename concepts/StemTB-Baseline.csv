@@ -46,6 +46,8 @@ bb0f5e00-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hiv_base,"StemTB Baseline, Co
 bb0f60a8-2e9d-11eb-adc1-0242ac120002,,,"StemTB Baseline, HIV Diagnosis",HIV Diagnosis,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus; Date of HIV diagnosis",,,,,
 bb0f6256-2e9d-11eb-adc1-1242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, CD4 Count",Last CD4 Count,,,Misc,Numeric,,,,,,cells/mm3
 bb0f64d6-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:lastcd4_test,"StemTB Baseline, Last CD4 Count",Last CD4 count,,,Concept Details,N/A,"StemTB Baseline, CD4 Count; CD4 COUNT Unknown",,,,,
+bb0f64d6-2e9d-11eb-adc1-0242ad120001,,EndTB-Export:start_cpt,"StemTB Baseline, Started on CPT?",Started on CPT?,,,Misc,coded,,Yes; No,,,,
+,,EndTB-Export:d_cpt,"StemTB Baseline, CPT Date",CPT Date,,,Misc,date,,,,,,
 707d5ac6-447d-49b0-ac0d-a1a76a423209,,EndTB-Export:artreg_base,"Baseline, Drugs used in ARV treatment",Current ARV regimen,,,Misc,Coded,,"LAMIVUDINE;
 ABACAVIR;
 ZIDOVUDINE;
@@ -83,8 +85,12 @@ Date of HIV diagnosis; StemTB Baseline, Last CD4 Count;
 CD4 date; StemTB Baseline, Last RNA Viral Load;
 Baseline, Viral Load Date; StemTB Baseline, Currently on ARV treatment?;
 StemTB Baseline, Date of ARV initiation;
-Baseline, Drugs used in ARV treatment; StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, If yes last HbA1c; StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,,,,
-c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB treatment table",Past TB Treatment Table,,,Misc,N/A,"Baseline, Start date of past TB treatment; Baseline, Past TB treatment drug regimen; Baseline, Past TB treatment outcome
+Baseline, Drugs used in ARV treatment; StemTB Baseline, Started on CPT?; StemTB Baseline, CPT Date;
+StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, If yes last HbA1c; StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,,,,
+bb0f6940-2e9d-11eb-adc1-0242ac110001,,EndTB-Export:12,"StemTB Baseline, Defaulted",Defaulted,,,Misc,N/A,,,,,,
+bb0f6940-2e9d-11eb-adc1-0242ac120101,,EndTB-Export:11,"StemTB Baseline, Currently in treatment",Currently in treatment,,,Misc,N/A,,,,,,
+bb0f6940-2e9d-11eb-adc1-0242ac120011,,EndTB-Export:outcome_pasttb,"StemTB Baseline, Past TB treatment outcome",Outcome,,,Misc,Coded,,"Cured; Completed; Failed; StemTB Baseline, Defaulted; StemTB Baseline, Currently in treatment",,,,
+c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB treatment table",Past TB Treatment Table,,,Misc,N/A,"Baseline, Start date of past TB treatment; Baseline, Past TB treatment drug regimen; StemTB Baseline, Past TB treatment outcome
 ",,,,,
 88581f70-2f23-11eb-adc1-0242ac121002,,EndTB-Export:1,"StemTB Baseline, Accepted",Accepted,,,Misc,N/A,,,,,,
 8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,,,,
@@ -97,7 +103,13 @@ StemTB, Year estimated",,,,
 eec8fbd2-1acc-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Treatment start",Treatment start,,,Misc,N/A,"TUBERCULOSIS DRUG TREATMENT START DATE;
 StemTB Baseline, Treatment facility at start; StemTB Baseline, Other treatment facility; Facility patient ID",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac320002 ,,EndTB-Export:d_shortoral_cons,"StemTB Baseline, Baseline Date Consent Signed",Date consent signed,,,Question,Date,,,,,,
-110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,
+bb0f1940-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:6,StemTB Baseline Transfer in (from another MDR-TB),Transfer in,,,Misc,N/A,,,,,,
+bb0f6940-2e9d-11eb-a1c1-0242ac120001,,EndTB-Export:reg_group,"StemTB Baseline, WHO registration group",WHO registration group,,,Misc,Coded,,"New;
+Relapse;
+Treatment after loss to followup;
+Treatment After Failure to Drugs;
+Other previously treated patients",,,,
+110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"StemTB Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac3d0000  ,,EndTB-Export:shortoral_cons_other,"StemTB Baseline, If Other specify","If Other, specify",,,Misc,Text,,,,,,
 eec8f236-1acb-11eb-adc1-0242ac120002,,EndTB-Export:shortoral_cons,"StemTB Baseline, Has the Consent form for all oral shorter regimen been explained and signed",Has the Consent form for all oral shorter regimen been explained and signed,,,Misc,Coded,,"StemTB Baseline, Accepted;
 StemTB Baseline, Refused;
