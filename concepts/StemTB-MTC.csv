@@ -3,7 +3,6 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 200d71de-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:dose_due,"StemTB, Number of Doses due",Number of doses due,,,Misc,Numeric,,
 200d72ce-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:adh_miss_d,"StemTB, Not taken days for the drug",Not taken days for the drug,,,Misc,Numeric,,
 200d73a0-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:adh_self,"StemTB, Self-administered",Self-administered,,,Misc,Numeric,,
-200d763e-3b0f-11eb-adc1-0242ac120002,,,,,,,,,,
 200d771a-3b0f-11eb-adc1-0242ac120002,,,"StemTB, Adherence Table Log                         ",Adherence Table Log                         ,,,Misc,N/A,"MTC, Month and year of treatment period; StemTB, Number of Doses taken; StemTB, Number of Doses due 
 MTC, Drug name; StemTB, Dose; MTC, Total fully observed complete days; StemTB, Self-administered; StemTB, Not taken days for the drug; Weight (kg); MTC, Adherence rate",
 200d77d8-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:miss_d,"StemTB, MTC Drug Date",Date,,,Misc,Date,,
