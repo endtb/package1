@@ -80,13 +80,17 @@ bb0f6b2a-2e9d-11eb-adc1-0442ac120002,,,"StemTB Baseline, ARV Treatment Details",
 bb0f6bfc-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:diab_base,"StemTB Baseline, Diabetes (type 1 or 2)",Diabetes (type 1 or 2),,,Misc,Coded,,Yes; No; Unknown,,,,
 bb0f6cc4-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepb_base,"StemTB Baseline, Confirmed Hepatitis B",Confirmed Hepatitis B,,,Misc,Coded,,Yes; No; Unknown,,,,
 bb0f6d8c-2e9d-11eb-adc1-0242ac120002,,EndTB-Export:hepc_base,"StemTB Baseline, Confirmed Hepatitis C",Confirmed Hepatitis C,,,Misc,Coded,,Yes; No; Unknown,,,,
+bb0f6d8c-2e9d-11eb-adc1-0242ac220002,,EndTB-Export:hepb_antigen,"StemTB Baseline, Hep B Antigen",Hep B Antigen,,,Misc,Coded,,Positive; Negative; Unknown,,,,
+bb0f6d8c-2e9d-11eb-adc1-0242ac220102,,EndTB-Export:hepb_antigen_date,"StemTB Baseline, Hep B Antigen Date",Hep B Antigen date,,,Misc,date,,,,,,
+bb0f6d8c-2e9e-11eb-adc1-0242ac120002,,EndTB-Export:hepc_antibody,"StemTB Baseline, Hep C Antibody",Hep C Antibody,,,Misc,Coded,,Positive; Negative; Unknown,,,,
+bb0f6d8c-2e9e-11eb-ddc1-0242ac120002,,EndTB-Export:hepc_antibody_date,"StemTB Baseline, Hep C Antibody Date",Hep C Antibody date,,,Misc,date,,,,,,
 bb0f6940-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline Past Medical History",Past Medical History / Comorbidities,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus;
 Date of HIV diagnosis; StemTB Baseline, Last CD4 Count;
 CD4 date; StemTB Baseline, Last RNA Viral Load;
 Baseline, Viral Load Date; StemTB Baseline, Currently on ARV treatment?;
 StemTB Baseline, Date of ARV initiation;
 Baseline, Drugs used in ARV treatment; StemTB Baseline, Started on CPT?; StemTB Baseline, CPT Date;
-StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, If yes last HbA1c; StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,,,,
+StemTB Baseline, Diabetes (type 1 or 2); StemTB Baseline, If yes last HbA1c; StemTB Baseline, Confirmed Hepatitis B; StemTB Baseline, Confirmed Hepatitis C; StemTB Baseline, Hep B Antigen; StemTB Baseline, Hep B Antigen Date; StemTB Baseline, Hep C Antibody; StemTB Baseline, Hep C Antibody Date; Baseline, Pre-existing neuropathy; Baseline, Neuropathy grade",,,,,
 bb0f6940-2e9d-11eb-adc1-0242ac110001,,EndTB-Export:12,"StemTB Baseline, Defaulted",Defaulted,,,Misc,N/A,,,,,,
 bb0f6940-2e9d-11eb-adc1-0242ac120101,,EndTB-Export:11,"StemTB Baseline, Currently in treatment",Currently in treatment,,,Misc,N/A,,,,,,
 bb0f6940-2e9d-11eb-adc1-0242ac120011,,EndTB-Export:outcome_pasttb,"StemTB Baseline, Past TB treatment outcome",Outcome,,,Misc,Coded,,"Cured; Completed; Failed; StemTB Baseline, Defaulted; StemTB Baseline, Currently in treatment",,,,
@@ -115,4 +119,7 @@ eec8f236-1acb-11eb-adc1-0242ac120002,,EndTB-Export:shortoral_cons,"StemTB Baseli
 StemTB Baseline, Refused;
 StemTB Baseline, Pending to be asked; Other",,,,
 110e7018-1adf-11eb-adc1-0242ac120002   ,,,"StemTB Baseline, Consent",Consent,,,Misc,N/A,"StemTB Baseline, Has the Consent form for all oral shorter regimen been explained and signed; StemTB Baseline, If Other specify; StemTB Baseline, Baseline Date Consent Signed",,,,,
-342eb8b4-2e6a-11eb-adc1-0242ab120002,,,"StemTB, Baseline Template",Baseline Assessment,,,Misc,N/A,"Baseline, Date of baseline; StemTB Baseline, Baseline Social History; StemTB Baseline, Baseline TB History; StemTB Baseline, Baseline Past Medical History; StemTB Baseline, Case Definition; StemTB Baseline, Consent; StemTB Baseline, Treatment start; StemTB Baseline, Baseline, Past TB treatment table;  Baseline, Known Drug Allergies",,,,,
+110e7018-1adf-11eb-adc1-0242aa120002   ,,EndTB-Export:pasttb_second,"StemTB Baseline, Used second-line drugs previously? (mark one)",Used second-line drugs previously? (mark one),,,Misc,Coded,,Yes; No,,,,
+110e7018-1adf-11eb-adc1-0221ac120002   ,,EndTB-Export:pasttb_secondsp,"StemTB Baseline, If Yes to second-line drugs, specify","If Yes to second-line drugs, specify:",,,Misc,Text,,,,,,
+110e7018-1adf-11eb-adc1-0211ac120002   ,,EndTB-Export:allergy_base_sp,"StemTB Baseline, Drug allergies",Drug allergies:,,,,,,,,,,
+342eb8b4-2e6a-11eb-adc1-0242ab120002,,,"StemTB, Baseline Template",Baseline Assessment,,,Misc,N/A,"Baseline, Date of baseline; StemTB Baseline, Baseline Social History; StemTB Baseline, Baseline TB History; StemTB Baseline, Baseline Past Medical History; StemTB Baseline, Case Definition; StemTB Baseline, Consent; StemTB Baseline, Treatment start; StemTB Baseline, Baseline, Past TB treatment table;  StemTB Baseline, Used second-line drugs previously? (mark one); StemTB Baseline, If Yes to second-line drugs, specify; StemTB Baseline, Drug allergies",,,,,
