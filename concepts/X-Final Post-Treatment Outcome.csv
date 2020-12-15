@@ -23,7 +23,7 @@ Unknown",
 StemTB PTO, If Died: Suspected Primary cause of death;
 6m PTO, Type of surgery related to post treatment death;
 StemTB PTO, Non TB cause of post treatment death",,
-5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB PTO, Left town region country","Left town, region, country",,,Misc,N/A,,,
+5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB PTO, Left town region country",Left town/region/country,,,Misc,N/A,,,
 5c735ff8-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, 6m PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,,,Misc,Coded,,"Adverse event;
 Patient refused followup;
 Substance abuse;
@@ -41,7 +41,7 @@ StemTB PTO, If no, why does the patient have this outcome",,
 Patient refused followup;
 Substance abuse;
 Social problem: family, financial, complex social situation;
-Left region/country;
+StemTB PTO, Left town region country;
 No confidence in treatment;
 Other;
 Unknown",
