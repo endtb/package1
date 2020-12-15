@@ -18,11 +18,14 @@ StemTB, Left Eye Visual Acuity",,,,
 7a634d8e-252a-11eb-adc1-0242ac120002,,,"StemTB, Hospitalization Details",Please list all patient hospitalizations,,,Misc,N/A,"StemTB, Hospitalization Dates; HAN, Admission diagnosis
 ",,,,
 eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,,,Misc,Text,,,,,
-"73766466-d0e3-427c-a38b-2a01f49dd3fe
-",,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
+73766466-d0e3-427c-a38b-2a01f49dd3fe,,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
 ",,Misc,N/A,Weight (kg); Height (cm); BMI Data,,,,
+73766466-d0e3-427c-a38b-2a01f48aa3fe,,EndTB-Export:d_radio,"StemTB, Chest Xray Date",Date of X-ray,,,Misc,Date,,,,,
+73766466-d0e3-427c-abbb-2a01f48aa3fe,,EndTB-Export:max_cav ,"StemTB, Cavity size (aggregate)",Cavity size (aggregate),,,Misc,Coded,,"No cavities;
+Less than 5cm;
+Greater than or equal 5cm",,,
 777c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Xray Details",Chest X-Ray,,,Misc,N/A,"Xray, Extent of disease;
-Xray, Maximum cavity size;
+StemTB, Cavity size (aggregate);
 Xray, Fibrosis",,,,
-995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Chest X-ray Details",Chest X-Ray,,,Misc,N/A,"Xray, Chest Xray Date; StemTB, Xray Details; Xray, Comparison with last Xray",,,,
+995c6a6a-8d90-4ba7-9a90-ca76fd576667,,,"StemTB, Chest X-ray Details",Chest X-Ray,,,Misc,N/A,"StemTB, Chest Xray Date; StemTB, Xray Details; Xray, Comparison with last Xray",,,,
 eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; StemTB, Visual Acuity; StemTB, Ishihara Test; EKG, QT Interval; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Brief Peripheral Neuropathy Screen;  StemTB, Hospitalization Details; StemTB, Chest X-ray Details",,,,

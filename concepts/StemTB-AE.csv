@@ -11,10 +11,10 @@ StemTB, Year estimated",
 StemTB, Month Estimated;
 StemTB, Year estimated",
 2c43d559-3290-44ad-b7d7-90dac61d0b35,,EndTB-Export:6,"StemTB, Fatal (fill out an SAE form)",Fatal (fill out an SAE form),,,Misc,N/A,,,
-475d3c72-27a1-4105-a7ba-829439b5d779,,EndTB-Export:ae_out,"StemTB, AE outcome",Outcome of this AE,,,Misc,coded,,"Not resolved;
+475d3c72-27a1-4105-a7ba-829439b5d779,,EndTB-Export:ae_out,"StemTB, AE outcome",Outcome of this AE,,,Misc,coded,,"StemTB, Fatal (fill out an SAE form); Not resolved;
 Resolved;
 Resolved with sequelae;
-Resolving; StemTB, Fatal (fill out an SAE form);
+Resolving;
 Unknown",
 10059b81-48a4-4074-931f-8319a223a674,,EndTB-Export:ae_maxsev,"StemTB, Maximum severity of AE",Maximum severity grade,,,Misc,coded,,"Number, 1;
 Number, 2;

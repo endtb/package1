@@ -111,7 +111,7 @@ bb0f1940-2e9d-11eb-adc1-0242ac120001,,EndTB-Export:6,StemTB Baseline Transfer in
 bb0f6940-2e9d-11eb-a1c1-0242ac120001,,EndTB-Export:reg_group,"StemTB Baseline, WHO registration group",WHO registration group,,,Misc,Coded,,"New;
 Relapse;
 Treatment after loss to followup;
-Treatment After Failure to Drugs;
+Treatment After Failure to Drugs; StemTB Baseline Transfer in (from another MDR-TB);
 Other previously treated patients",,,,
 110e6a50-1abf-11eb-adc1-0242ac120002  ,,,"StemTB Baseline, Case Definition",Case Definition,,,Misc,N/A,"StemTB Baseline, WHO registration group; Category IV tuberculosis classification; Baseline, Disease site;  Baseline, Exact extrapulmonary site; Baseline, MDR-TB diagnosis method; Baseline, Method of MDR-TB confirmation; Baseline, Other method of MDR-TB confirmation; Baseline, Drug resistance; Baseline, Subclassification for confimed drug resistant cases; Baseline, MDR-TB Diagnosis Date",,,,,
 eec8f4d4-1acc-11eb-adc1-0242ac3d0000  ,,EndTB-Export:shortoral_cons_other,"StemTB Baseline, If Other specify","If Other, specify",,,Misc,Text,,,,,,
