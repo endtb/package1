@@ -11,9 +11,9 @@ d61a3c94-f3e6-4a58-a6d7-643cce6aa244,,EndTB-Export:1,"StemTB Quarterly PTO, Pati
 337ab39b-822e-4dc6-ad7c-67cae11771b7,,EndTB-Export:3,"StemTB Quarterly PTO, Patient friend or acquaintance",Patient friend or acquaintance,,,Misc,N/A,,,,,,
 7e77999e-8638-454c-b506-3c48b32e3fae,,EndTB-Export:4,"StemTB Quarterly PTO,  NTP personal ",NTP personal ,,,Misc,N/A,,,,,,
 f4d7d5e8-dcb3-4bad-9ac3-8d623a16b8bc,,EndTB-Export:5,"StemTB Quarterly PTO, Other health professional ",Other health professional ,,,Misc,N/A,,,,,,
-a5805f80-33ec-4ce1-9e26-a01f2aff2e24,,EndTB-Export:5,"StemTB Quarterly PTO, Other",Other,,,Misc,N/A,,,,,,
-b57c1ecf-08f7-4d12-b39e-b7e55ffdf5ad,,EndTB-Export:postend_pers,"StemTB Quarterly PTO, Person from whom the information is provided/assessment made",3. Person from whom the information is provided/assessment made,,,Misc,Coded,"StemTB Quarterly PTO, Patient himself (see question 10); StemTB Quarterly PTO, Patient family member; StemTB Quarterly PTO, Patient friend or acquaintance; StemTB Quarterly PTO,  NTP personal; StemTB Quarterly PTO, Other health professional; StemTB Quarterly PTO, Other
-",,,,,
+a5805f80-33ec-4ce1-9e26-a01f2aff2e24,,EndTB-Export:6,"StemTB Quarterly PTO, Other",Other,,,Misc,N/A,,,,,,
+,,EndTB-Export:7,"StemTB Quarterly PTO, No contact could be made with anyone",No contact could be made with anyone,,,,,,,,,,
+b57c1ecf-08f7-4d12-b39e-b7e55ffdf5ad,,EndTB-Export:postend_pers,"StemTB Quarterly PTO, Person from whom the information is provided/assessment made",3. Person from whom the information is provided/assessment made,,,Misc,Coded,"StemTB Quarterly PTO, Patient himself (see question 10); StemTB Quarterly PTO, Patient family member; StemTB Quarterly PTO, Patient friend or acquaintance; StemTB Quarterly PTO,  NTP personal; StemTB Quarterly PTO, Other health professional; StemTB Quarterly PTO, Other; StemTB Quarterly PTO, No contact could be made with anyone",,,,,
 bf693558-0ac9-4df1-a9db-512ede148ff4,,EndTB-Export:1,"StemTB Quarterly PTO, patient well",Patient well,,,Misc,N/A,,,,,,
 7824cca0-6861-4d67-a735-73cd2ba3d3c8,,EndTB-Export:2,"StemTB Quarterly PTO, patient has left and no contact",Patient has left and no contact,,,Misc,N/A,,,,,,
 d1c003fb-a298-4602-b1f0-548b58015163,,EndTB-Export:3,"StemTB Quarterly PTO, patient died",Patient died,,,Misc,N/A,,,,,,
@@ -27,7 +27,7 @@ e8cc45cc-f1b0-4c8f-bc0e-b8a25f775d3a,,EndTB-Export:d_postend_vst,"StemTB Quarter
 d55d464b-e327-42a7-8d8d-59ec199e7735,,EndTB-Export:ptnt_coughprod,"StemTB Quarterly PTO, If yes Is your cough productive","5a. If yes, Is your cough productive?",,,Misc,Coded,True; False; Unknown,,,,,
 b6513547-101c-4227-9c34-9a092566b538,,EndTB-Export:ptnt_bldsptm,"StemTB Quarterly PTO, If yes Is there blood in your sputum","5b. If yes, Is there blood in your sputum?",,,Misc,Coded,True; False; Unknown,,,,,
 f7b24b39-fa4d-489b-94f9-892541a54b29,,EndTB-Export:ptnt_fever,"StemTB Quarterly PTO, Do you have fever",6. Do you have fever?,,,Misc,Coded,True; False; Unknown,,,,,
-2739fdae-6be3-49ca-a259-3ca88617102e,,EndTB-Export:ptnt_fever_l,"StemTB Quarterly PTO, If yes fever or how long(in days)","6a. If yes, fever or how long(in days)",,,Misc,Coded,True; False; Unknown,,,,,
+2739fdae-6be3-49ca-a259-3ca88617102e,,EndTB-Export:ptnt_fever_l,"StemTB Quarterly PTO, If yes fever or how long(in days)","6a. If yes, fever or how long(in days)",,,Misc,Numeric,,,,,0,
 d4985a11-43dd-4226-ac0a-a3929d96467c,,EndTB-Export:ptnt_ntswt,"StemTB Quarterly PTO, Do you have night sweats",7. Do you have night sweats?,,,Misc,Coded,True; False; Unknown,,,,,
 8cf1e5a8-bfef-4f57-9857-4dbd9e09bd15,,EndTB-Export:ptnt_wtls,"StemTB Quarterly PTO, Have you had unexplained weight loss",8. Have you had unexplained weight loss?,,,Misc,Coded,True; False; Unknown,,,,,
 9837d303-97e2-4337-b2a7-430d8d90c1f7,,,"StemTB Quarterly PTO, Clinical questions to patient only",Clinical questions to patient only,,,Misc,N/A,,"StemTB Quarterly PTO, Have you had cough for > 2 weeks; StemTB Quarterly PTO, If yes Is your cough productive; StemTB Quarterly PTO, If yes Is there blood in your sputum; StemTB Quarterly PTO, Do you have fever; StemTB Quarterly PTO, If yes fever or how long(in days); StemTB Quarterly PTO, Do you have night sweats; StemTB Quarterly PTO, Have you had unexplained weight loss
@@ -49,19 +49,19 @@ ba2b10c9-5398-46c8-b167-5be91de28126,,EndTB-Export:ptnt_notes,"StemTB Quarterly 
 f4fe9b32-9fbb-453d-b7d9-3b3cbebc4df4,,EndTB-Export:postendtxoutcome_compl,"StemTB Quarterly PTO, If 1 year post end-of-treatment post end of treatment outcome form filled in",Post end-of-treatment outcome completed,,,Misc,Coded,True; False,,,,,
 694cfecd-be3f-4039-a5f4-8d0aa7fb795f,,,"StemTB Quarterly PTO, Action at end of assessment",Action at end of assessment,,,Misc,N/A,,"StemTB Quarterly PTO, Is patient a possible TB relapse; StemTB Quarterly PTO, Was a culture ordered; StemTB Quarterly PTO, List all diagnostic tests ordered; StemTB Quarterly PTO, Date of next appointment; StemTB Quarterly PTO, Notes",,,,
 694fcead-be3f-4039-a5f4-8d0aa7fb795f,,EndTB-Export:ptnt_bpns_lft,"StemTB Quarterly PTO, BPNS Subjective score Left",Left,,,Misc,Numeric,,,No,,0,10
-694cfecd-be3f-4039-a5f4-8d0aa7fb796d,,EndTB-Export:ptnt_bpns_rt,"StemTB Quarterly PTO, BPNS Subjective score Right
-",Right,,,Misc,Numeric,,,No,,0,10
+694cfecd-be3f-4039-a5f4-8d0aa7fb796d,,EndTB-Export:ptnt_bpns_rt,"StemTB Quarterly PTO, BPNS Subjective score Right",Right,,,Misc,Numeric,,,No,,0,10
 694cfecd-be3f-4129-a5f4-8d0aa7fb795f,,,"StemTB Quarterly PTO, Post treatment BPNS",9.  BPNS subjective score (0-10),,,Misc,N/A,,"StemTB Quarterly PTO, BPNS Subjective score Right; StemTB Quarterly PTO, BPNS Subjective score Left;
 
 ",,,,
-694cfecd-be3f-4039-a5f4-8d0aa7fb786f,,EndTB-Export:outcome,"StemTB Quarterly PTO EOT, Outcome",Outcome,,,Misc,Coded,"Cured;
+694cfecd-be3f-4039-a5f4-8d0aa7fb786f,,EndTB-Export:outcome,"StemTB Quarterly PTO EOT, Outcome",End of treatment outcome,,,Misc,Coded,"Cured;
 Completed;
 Died;
 Failed;
 LTFU;
 Not Evaluated;
-Treatment adapted",,,,,
-ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"StemTB Quarterly PTO, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"StemTB Quarterly PTO EOT, Outcome; EOT, End of Treatment Outcome date; StemTB Quarterly PTO, Month post end-of-treatment;
+StemTB EOT, Withdrawn",,,,,
+694cfecd-be3f-4039-a5f4-8d0bb7fb786d,,EndTB-Export:d_outdecision,"StemTB Quarterly PTO, Date of End of Treatment",Date of End of Treatment,,,Misc,Date,,,,,,
+ccf90209-ce17-4813-a27a-0f30f61fd37d,,,"StemTB Quarterly PTO, Quarterly Post Treatment Template",Quarterly Post Treatment,,,Misc,N/A,,"StemTB Quarterly PTO EOT, Outcome; StemTB Quarterly PTO, Date of End of Treatment; StemTB Quarterly PTO, Month post end-of-treatment;
 StemTB Quarterly PTO, Date of contact; 
 StemTB Quarterly PTO, Type of contact;
 StemTB Quarterly PTO, Person from whom the information is provided/assessment made;

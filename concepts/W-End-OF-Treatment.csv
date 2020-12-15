@@ -24,7 +24,7 @@ Evidence of additional acquired resistance to fluoroquinolones or second-line in
 Adverse drug reactions;
 Other"
 7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,Text,,
-7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Reason(s) for Lost To Follow Up,,,Misc,Coded,,"Adverse event;
+7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Why was the patient's treatment interrupted?,,,Misc,Coded,,"Adverse event;
 Patient refused to finish treatment/bad relation with health worker;
 Substance abuse;
 Social problem: family, financial, complex social situation;
@@ -47,8 +47,7 @@ Not Evaluated"
 7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,,,Misc,N/A,"StemTB, Reasons for failure definition;
 StemTB, Other reasons for failure definition",
 7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, Died",Died,,,Misc,N/A,"DATE OF DEATH;
-StemTB, Suspected primary cause of death; EOT, Type of surgery related to death; Suspected cause related to TB treatment;
-StemTB, Non TB cause of death",
+StemTB, Suspected primary cause of death; EOT, Type of surgery related to death; StemTB, Non TB cause of death; Suspected cause related to TB treatment",
 7164a708-3404-11eb-adc1-0242ac120002,,EndTB-Export:outcome,"StemTB, End of Treatment Outcome",Outcome,,,Misc,Coded,,"Cured;
 Died;
 Failed;
