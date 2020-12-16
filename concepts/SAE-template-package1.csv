@@ -24,8 +24,7 @@ StemTB SAE, In case of hospitalization requires/prolonged, discharge date",,
 9853496e-234b-11eb-adc1-0242ac100002,,EndTB-Export:type_rep,"StemTB, Type of Report",Type of Report,,,Misc,Coded,,"StemTB, Initial Report;
 StemTB, Follow up Report
 ",
-,,EndTB-Export:sae_term,"SAE Form, SAE term comprehensive AE list ",SAE term,,,Misc,Coded,,"% Polymorphonuclear Leucocytes + Band Cells Increased;
-Absolute Neutrophil Count Low;
+,,EndTB-Export:sae_term,"SAE Form, SAE term comprehensive AE list ",SAE term,,,Misc,Coded,,"Absolute Neutrophil Count Low;
 Activated Partial Thromboplastin Time (APPT) Prolonged;
 Acute Kidney Injury;
 Alanine Aminotransferase (ALT or SGPT) Increased;
@@ -137,6 +136,7 @@ Paresthesia (Burning, Tingling, etc.);
 Pericarditis;
 Peripheral neuropathy;
 Platelets Decreased;
+% Polymorphonuclear Leucocytes + Band Cells Increased;
 Premature Delivery;
 StemTB, Prolonged (corrected) QT interval;
 Prolonged QT Interval;
@@ -148,6 +148,7 @@ Rash At Injection Site;
 Retinopathy;
 Seizure;
 StemTB, Skin hypo- or hyper-pigmentation;
+Skin hyperpigmentation or hypopigmentation;
 Suicidal ideation;
 Suicide attempt;
 Syncope;
@@ -177,9 +178,9 @@ dcd3729a-234b-11db-adc1-0242ac120002,,EndTB-Export:ref_range,"StemTB, Reference 
 99534d02-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_d,"StemTB SAE, Date",Date,Date,,Question,Date,,,
 98334dd4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sig,"StemTB SAE, Signature",Signature,Signature,,Misc,Text,,,
 98234ea6-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_info,"StemTB SAE, Further information on this SAE expected",Further information on this SAE expected?,Further information on this SAE expected?,,Misc,Coded,,True; False,
-981350fe-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_ann,"StemTB SAE, Any annex to this document? (e.g. discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)",,Misc,Coded,,True; False,
+981350fe-234b-11eb-adc1-0242ac121112,,EndTB-Export:rep_sae_ann,"StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)",,Misc,Coded,,True; False,
 985451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_listann,"StemTB SAE, If yes, list the annexes","If yes, list the annexes","If yes, list the annexes",,Misc,Text,,,
-985362b6-234b-11eb-adc1-0242ac120002,,,"StemTB SAE, Reporter",Reporter,,,Misc,N/A,"StemTB, Name of reporter; StemTB, Role in trial/program; StemTB, Date of event's awareness; StemTB SAE, Address; StemTB SAE, Email; StemTB SAE, Phone; StemTB SAE, Date; StemTB SAE, Signature; StemTB SAE, Further information on this SAE expected; StemTB SAE, Any annex to this document? (e.g. discharge summary, autopsy report, lab results); StemTB SAE, If yes, list the annexes",,
+985362b6-234b-11eb-adc1-0242ac120002,,,"StemTB SAE, Reporter",Reporter,,,Misc,N/A,"StemTB, Name of reporter; StemTB, Role in trial/program; StemTB, Date of event's awareness; StemTB SAE, Address; StemTB SAE, Email; StemTB SAE, Phone; StemTB SAE, Date; StemTB SAE, Signature; StemTB SAE, Further information on this SAE expected; StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results); StemTB SAE, If yes, list the annexes",,
 06b7ed24-7739-415b-bc10-0fdcab1509f8,,,Serious Adverse Events Template,Serious Adverse Events,,"
 ",Misc,N/A,"StemTB, Sponsor; StemTB, Protocol/Program number; StemTB, Site number (for studies) or country; SAE Form, SAE ID number; StemTB, Type of Report; SAE Form, Date of SAE report; SAE, Is the date of SAE report estimated?; SAE, Is the day of SAE report date estimated; SAE, Is the month of SAE report date estimated; SAE, Is the year of SAE report date estimated; StemTB, SAE Information; StemTB SAE, Event end date; StemTB SAE, Duration if <1 day (hrs/min); StemTB SAE, In case of death; StemTB SAE, Hospitalization required / prolonged; Followup, Clinical Examination; SAE Form, Event onset date; SAE, Is the date of SAE onset estimated?; SAE, Is the date of SAE onset day estimated; SAE, Is the month of SAE onset date estimated; SAE, Is the year of SAE onset date estimated; SAE Form, Previously reported as AE; SAE Form, AE ID if previously reported as AE; SAE Form, Seriousness criteria; SAE Form, Date event became serious; SAE, Is the date when the adverse event became serious estimated?; SAE, Is the day when the event became serious estimated; SAE, Is the month when the event became serious estimated; SAE, Is the year when the event became serious estimated; SAE Form, TB drugs suspended due to this SAE; SAE Form, SAE term comprehensive AE list; SAE Form, Other SAE term; SAE Comments; SAE Form, SAE severity grade; SAE Form, SAE review log; SAE Form, SAE outcome ( from PV unit summary); SAE Form, Other causal factors (data from PV unit summary); StemTB, Relevant Medical History; StemTB, Description of the reaction; StemTB, Explain causality and expectedness; SAE Form, Related tests; StemTB SAE, Reporter
 ",,
