@@ -46,7 +46,7 @@ No confidence in treatment;
 Other;
 Unknown",
 6e624da2-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup_oth,"StemTB PTO, Other reasons for no post treatment followup",Other,,,Misc,Text,,,
-6e624eec-362b-11eb-adc1-0242ac120002,,EndTB-Export:comm_nopost_fup,"StemTB PTO, Comments on no post treatment followup",Comments,,,Misc,Text,,,No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown). 
+6e624eec-362b-11eb-adc1-0242ac120002,,EndTB-Export:comm_nopost_fup,"StemTB PTO, Comments on no post treatment followup",Comments,,,Misc,Text,,,
 6e624fd2-362b-11eb-adc1-0242ac120002,,,"StemTB PTO, Lost To Follow Up","Lost to follow-up, post-treatment",,,Misc,N/A,"StemTB PTO, Reasons for no post treatment followup;
 StemTB PTO, Other reasons for no post treatment followup;
 StemTB PTO, Comments on no post treatment followup",,
