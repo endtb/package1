@@ -13,4 +13,4 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 200d7a12-3b0f-11eb-adc1-0242ac120002,,,"StemTB, Missed doses and reasons",Missed doses and reasons,,,Misc,N/A,"StemTB, MTC Drug Date;
 StemTB, Drugs missed;
 StemTB, Reasons/Comments",,,,
-200d7bc0-3b0f-11eb-adc1-0242ac120002,,,"StemTB, Monthly Treatment Completeness",Monthly Treatment Completeness,,,Misc,N/A,"MTC, Month and year of treatment period; StemTB, Adherence Table Log; Weight (kg); StemTB, Number of Doses taken; StemTB MTC, Adherence rate; StemTB, MTC Remarks; StemTB, Number of Doses due; StemTB, Missed doses and reasons",,,,
+200d7bc0-3b0f-11eb-adc1-0242ac120002,,,"StemTB, Monthly Treatment Completeness",Monthly Treatment Completeness,,,Misc,N/A,"MTC, Month and year of treatment period; StemTB, Adherence Table Log; Weight (kg); StemTB, Number of Doses taken; StemTB, Number of Doses due; StemTB MTC, Adherence rate; StemTB, MTC Remarks; StemTB, Missed doses and reasons",,,,
