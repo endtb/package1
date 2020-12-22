@@ -1,0 +1,45 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Description
+7c44bbac-4455-11eb-b378-0242ac130002,,Endtb-Export:7,"StemTB Bacteriology, Scanty (unspecified)",Scanty (unspecified),,,Misc,N/A,,,
+,,EndTB-Export:res_smear,"Bacteriology, Smear result",Smear result,,,Misc,Coded,"Negative;
+Scanty 1-3;
+Scanty 4-9; StemTB Bacteriology, Scanty (unspecified);
+One plus;
+Two plus;
+Three plus;
+Not read",,"""Not read"" includes samples with insufficient sample, saliva or other"
+7c44bbac-4455-11eb-b378-0242ac130001,,EndTB-Export:colonies_cult_mtb_colonies,"StemTB Bacteriology, Number of MTB colonies",Number of MTB colonies,,,Misc,Numeric,,,
+,,,"Bacteriology, Culture results details",Culture results,,,Misc,N/A,,"Bacteriology, Date of culture innoculation;
+Bacteriology, Is the date of culture inoculation estimated?;
+Bacteriology, Is the day of the culture inoculation dates estimated;
+Bacteriology, Is the month of the culture inoculation dates estimated;
+Bacteriology, Is the year of the culture inoculation dates estimated;
+Bacteriology, Culture test lab ID;
+Bacteriology, Type of culture medium;
+Bacteriology, Other culture medium;
+Bacteriology, Culture results;
+Bacteriology, Culture Colonies; StemTB Bacteriology, Number of MTB colonies;
+Bacteriology, reason test not performed;
+Culture frozen for future research?;
+Sample Transfer Details;
+Culture, Shipment Details",
+7c44bbac-4455-11eb-b378-0242ac130003,,EndTB-Export:res_smear_afb_number,"StemTB Bacteriology, Number of AFB",Number of AFB,,,Misc,Numeric,,,
+,,,"Bacteriology, Smear microscopy test results",Smear microscopy test results,,,Misc,N/A,,"Bacteriology, Date of AFB smear;
+Bacteriology, Is the date Of AFB smear estimated?;
+Bacteriology, Is the day for the AFB smear date estimated;
+Bacteriology, Is the month for the AFB smear date estimated;
+Bacteriology, Is the year for the AFB smear date estimated;
+Bacteriology, Smear test lab ID number;
+Bacteriology, Smear result; StemTB Bacteriology, Number of AFB",
+,,,Bacteriology Results,Results,,,Bacteriology Results,N/A,,"Bacteriology, Smear microscopy test results;
+Bacteriology, Culture results details; Bacteriology, Xpert test results;
+Bacteriology, Hain test/PCR results;
+Bacteriology, DST result details;
+Bacteriology, DST with MIC;
+Bacteriology, Sequencing;
+StemTB, Comments",
+,,,BACTERIOLOGY CONCEPT SET,Bacteriology Concept Set,,,Misc,N/A,,"Specimen Collection Date;
+Specimen Sample Source NonCoded;
+Specimen Sample Source;
+Specimen Id;
+Bacteriology Additional Attributes;
+Bacteriology Results",
