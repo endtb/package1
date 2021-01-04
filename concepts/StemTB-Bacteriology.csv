@@ -7,7 +7,7 @@ One plus;
 Two plus;
 Three plus;
 Not read",,"""Not read"" includes samples with insufficient sample, saliva or other"
-7c44bbac-4455-11eb-b378-0242ac130001,,EndTB-Export:colonies_cult_mtb_colonies,"StemTB Bacteriology, Number of MTB colonies",Number of MTB colonies,,,Misc,Numeric,,,
+7c44bbac-4455-11eb-b378-0242ac130001,,EndTB-Export:colonies_cult_mtb_colonies,"StemTB Bacteriology, Number of MTB colonies",Number of MTB colonies (If <10 colonies),,,Misc,Numeric,,,
 ,,,"Bacteriology, Culture results details",Culture results,,,Misc,N/A,,"Bacteriology, Date of culture innoculation;
 Bacteriology, Is the date of culture inoculation estimated?;
 Bacteriology, Is the day of the culture inoculation dates estimated;
