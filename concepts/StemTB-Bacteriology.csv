@@ -1,5 +1,32 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Description
 7c44bbac-4455-11eb-b378-0242ac130002,,Endtb-Export:7,"StemTB Bacteriology, Scanty (unspecified)",Scanty (unspecified),,,Misc,N/A,,,
+fa1a0863-958b-45b5-8ee5-7cc0025e1df5,,EndTB-Export:pto_eth_res_dst,"Bacteriology, Prothionamide and Ethionamide result",Prothionamide and Ethionamide,,,Misc,Coded,"Susceptible;
+Resistant;
+Indeterminate",,
+,,,"Bacteriology, DST result details",DST results,,,Misc,N/A,,"Bacteriology, Type of media for DST;
+Bacteriology, Other type of media for DST;
+Bacteriology, Isoniazid 0.2 µg/ml result;
+Bacteriology, Isoniazid 1 µg/ml result;
+Bacteriology, Rifampicin result;
+Bacteriology, Ethambutol result;
+Bacteriology, Pyrazinamide result;
+Bacteriology, Streptomycin result;
+Bacteriology, Kanamycin result;
+Bacteriology, Amikacin result;
+Bacteriology, Capreomycin result;
+Bacteriology, Ofloxacin result;
+Bacteriology, Prothionamide and Ethionamide result;
+Bacteriology, Cycloserine result;
+Bacteriology, PAS result;
+Bacteriology, Bedaquiline result;
+Bacteriology, Delamanid result;
+Bacteriology, Linezolid result;
+Bacteriology, Clofazamine result;
+Bacteriology, Levofloxacin result;
+Bacteriology, Moxifloxacin 0.5 µg/ml results;
+Bacteriology, Moxifloxacin 2 µg/ml results;
+Bacteriology, Ethionamide result;Bacteriology, Prothionamide result;
+Bacteriology, Other drug details",
 ,,EndTB-Export:res_smear,"Bacteriology, Smear result",Smear result,,,Misc,Coded,"Negative;
 Scanty 1-3;
 Scanty 4-9; StemTB Bacteriology, Scanty (unspecified);
