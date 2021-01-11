@@ -110,7 +110,7 @@ c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB trea
 88581f70-2f23-11eb-adc1-0242ac121002,,EndTB-Export:1,"StemTB Baseline, Accepted",Accepted,,,Misc,N/A,,,,,,
 8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,,,,
 885823a8-2f23-11eb-adc1-0242ac121002,,EndTB-Export:2,"StemTB Baseline, Pending to be asked",Pending to be asked,,,Misc,N/A,,,,,,
-9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,,,,,
+9996071d-91a3-4e7c-84a9-d9bd8a3fdd6d,,EndTB-Export:4,"StemTB Baseline, Consent withdrawn",Withdrawn,,,Misc,N/A,,,,,,
 9996070d-91a3-4f7c-84a9-d9bd8a3fee6f,,EndTB-Export:ti_tr_startdate_est,"StemTB Baseline, Is the treatment start date estimated",Is this treatment start date estimated?,,,Misc,Coded,,Yes; No; Unknown,,,,
 9996070d-91a3-4f7c-84a9-d9bc9a3fee6f,,EndTB-Export:tx_est,"StemTB Baseline, If treatment start date estimated",If yes,,,Misc,Coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;

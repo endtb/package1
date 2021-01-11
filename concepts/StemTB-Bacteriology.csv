@@ -3,6 +3,9 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 fa1a0863-958b-45b5-8ee5-7cc0025e1df5,,EndTB-Export:pto_eth_res_dst,"Bacteriology, Prothionamide and Ethionamide result",Prothionamide and Ethionamide,,,Misc,Coded,"Susceptible;
 Resistant;
 Indeterminate",,
+28c93777-9f63-4555-bc3f-444e45a838b7,,EndTB-Export:ptores_dst,"Bacteriology, Prothionamide result",Prothionamide,,,Misc,Coded,"Susceptible;
+Resistant;
+Indeterminate",,
 ,,,"Bacteriology, DST result details",DST results,,,Misc,N/A,,"Bacteriology, Type of media for DST;
 Bacteriology, Other type of media for DST;
 Bacteriology, Isoniazid 0.2 µg/ml result;
@@ -25,7 +28,7 @@ Bacteriology, Clofazamine result;
 Bacteriology, Levofloxacin result;
 Bacteriology, Moxifloxacin 0.5 µg/ml results;
 Bacteriology, Moxifloxacin 2 µg/ml results;
-Bacteriology, Ethionamide result;Bacteriology, Prothionamide result;
+Bacteriology, Ethionamide result; Bacteriology, Prothionamide result;
 Bacteriology, Other drug details",
 ,,EndTB-Export:res_smear,"Bacteriology, Smear result",Smear result,,,Misc,Coded,"Negative;
 Scanty 1-3;
@@ -57,6 +60,7 @@ Bacteriology, Is the month for the AFB smear date estimated;
 Bacteriology, Is the year for the AFB smear date estimated;
 Bacteriology, Smear test lab ID number;
 Bacteriology, Smear result; StemTB Bacteriology, Number of AFB",
+a03f4f70-b3cc-420c-8b68-2f1ee17d317d,,EndTB-Export:cmnts,"StemTB, Comments",Comments,,,Misc,Text,,,
 ,,,Bacteriology Results,Results,,,Bacteriology Results,N/A,,"Bacteriology, Smear microscopy test results;
 Bacteriology, Culture results details; Bacteriology, Xpert test results;
 Bacteriology, Hain test/PCR results;
