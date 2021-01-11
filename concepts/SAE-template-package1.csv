@@ -179,6 +179,7 @@ dcd3729a-234b-11db-adc1-0242ac120002,,EndTB-Export:ref_range,"StemTB, Reference 
 98234ea6-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_info,"StemTB SAE, Further information on this SAE expected",Further information on this SAE expected?,,,Misc,Coded,,True; False,
 981350fe-234b-11eb-adc1-0242ac121112,,EndTB-Export:rep_sae_ann,"StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)",,,Misc,Coded,,True; False,
 985451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_listann,"StemTB SAE, If yes, list the annexes","If yes, list the annexes",,,Misc,Text,,,
+2a1d1cec-5259-4154-b5d2-67104565eb39,,EndTB-Export:101,"StemTB, Not applicable",Not applicable,,,Misc,N/A,,,
 897451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_diminished,"StemTB SAE, Event diminished after drug stopped/dose reduced",Event diminished after drug stopped/dose reduced?,,,Misc,Coded,,"True; False; StemTB, Not applicable",
 895451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_reappered,"StemTB SAE, Event reappeared after drug/dose reintroduction",Event reappeared after drug/dose reintroduction?,,,Misc,Coded,,"True; False; StemTB, Not applicable",
 ,,,"SAE Form, TB drug treatment",TB drug treatment (data from PV Unit summary),,,Misc,N/A,"SAE Form, TB drug name;
