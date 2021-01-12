@@ -60,6 +60,19 @@ Bacteriology, Is the month for the AFB smear date estimated;
 Bacteriology, Is the year for the AFB smear date estimated;
 Bacteriology, Smear test lab ID number;
 Bacteriology, Smear result; StemTB Bacteriology, Number of AFB",
+5e28a664-fa7e-4058-b954-168182ca2de1,,EndTB-Export:reseth_hain,"Bacteriology, MTBDRsl ethambutol",MTBDRsl ethambutol,,,Misc,Coded,"Susceptible; Resistant;
+Indeterminate",,
+63467800-bd3e-48c6-afed-ef538334f52b,,,"Bacteriology, HAIN MTBDRsl details",Hain MTBDRsl,,,Misc,N/A,,"Bacteriology, HAIN MTBDRsl test date;
+Bacteriology, Is the date of HAIN MTBDRsl test estimated?;
+Bacteriology, Is the day of hain MTBDRsl test date estimated;
+Bacteriology, Is the month of hain MTBDRsl test date estimated;
+Bacteriology, Is the year of hain MTBDRsl test date estimated;
+Bacteriology, HAIN MTBDRsl test ID;
+Bacteriology, HAIN MTBDRsl test result;
+Bacteriology, Fluoroquinolone;
+Bacteriology, MTBDRsl injectable;
+Bacteriology, MTBDRsl ethambutol;
+Bacteriology, HAIN MTBDRsl Gene",
 a03f4f70-b3cc-420c-8b68-2f1ee17d317d,,EndTB-Export:cmnts,"StemTB, Comments",Comments,,,Misc,Text,,,
 ,,,Bacteriology Results,Results,,,Bacteriology Results,N/A,,"Bacteriology, Smear microscopy test results;
 Bacteriology, Culture results details; Bacteriology, Xpert test results;
