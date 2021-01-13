@@ -1,42 +1,42 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en
-cf3d703b-9a5e-4dc6-a08c-e7093f0390be,,EndTB-Export:1,"StemTB, Day estimated",Day estimated,,,Misc,N/A,,,
-f1e1af6a-33d7-4228-b036-9df2bc9cb453,,EndTB-Export:2,"StemTB, Month Estimated",Month Estimated,,,Misc,N/A,,,
-2b675710-3414-4c38-83ff-706e9aecc68c,,EndTB-Export:3,"StemTB, Year estimated",Year estimated,,,Misc,N/A,,,
-8aeb7c57-9dc6-413a-8f84-2b28450239d1,,EndTB-Export:ae_onset_date_est_box,"StemTB, If date of AE onset estimated","If yes, please tick the approriate box(es):",,,Misc,coded,,"StemTB, Day estimated;
+cf3d703b-9a5e-4dc6-a08c-e7093f0390be,,EndTB-Export:1,"StemTB, Day estimated",Day estimated,Приблизительный День,Día estimado,Misc,N/A,,,
+f1e1af6a-33d7-4228-b036-9df2bc9cb453,,EndTB-Export:2,"StemTB, Month Estimated",Month Estimated,Приблизительный Месяц,Mes estimado,Misc,N/A,,,
+2b675710-3414-4c38-83ff-706e9aecc68c,,EndTB-Export:3,"StemTB, Year estimated",Year estimated,Приблизительный Год,Año estimado,Misc,N/A,,,
+8aeb7c57-9dc6-413a-8f84-2b28450239d1,,EndTB-Export:ae_onset_date_est_box,"StemTB, If date of AE onset estimated","If yes, please tick the approriate box(es):","Если да, отметьте галочкой соответствующую клетку(и)","Si la respuesta es SÍ, marque la caja(s) apropiadas:",Misc,coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;
 StemTB, Year estimated",
-5f515ad3-3649-43a0-ab08-65f0ac687337,,EndTB-Export:d_ae_report,"StemTB, Date of AE report",Date of reporting the event (today's date),,,Misc,Date,,,
-4cc01324-ba93-4c4b-bd19-76caebed1f29,,EndTB-Export:ae_all_susp,"StemTB, Were all anti-TB drugs suspended due to this AE",Were all anti-TB drugs suspended due to this AE?,,,Misc,Coded,,True; False,
-8a09283e-5914-4d0f-8298-f825ed7b4ddf,,EndTB-Export:ae_outcome_date_est_box,"StemTB, If date of AE outcome estimated","If yes, please tick the approriate box(es):",,,Misc,coded,,"StemTB, Day estimated;
+5f515ad3-3649-43a0-ab08-65f0ac687337,,EndTB-Export:d_ae_report,"StemTB, Date of AE report",Date of reporting the event (today's date),Дата отчета о НЯ (сегодняшняя дата),Fecha de reporte del evento (fecha de hoy día): ,Misc,Date,,,
+4cc01324-ba93-4c4b-bd19-76caebed1f29,,EndTB-Export:ae_all_susp,"StemTB, Were all anti-TB drugs suspended due to this AE",Were all anti-TB drugs suspended due to this AE?,Все препараты временно отменены в связи с НЯ?,¿Se suspendieron todos los fármacos antituberculosos debido a este EA? ,Misc,Coded,,True; False,
+8a09283e-5914-4d0f-8298-f825ed7b4ddf,,EndTB-Export:ae_outcome_date_est_box,"StemTB, If date of AE outcome estimated","If yes, please tick the approriate box(es):","Если да, отметьте галочкой соответствующую клетку(и)","Si la respuesta es SÍ, marque la caja(s) apropiadas: ",Misc,coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;
 StemTB, Year estimated",
-2c43d559-3290-44ad-b7d7-90dac61d0b35,,EndTB-Export:6,"StemTB, Fatal (fill out an SAE form)",Fatal (fill out an SAE form),,,Misc,N/A,,,
-475d3c72-27a1-4105-a7ba-829439b5d779,,EndTB-Export:ae_out,"StemTB, AE outcome",Outcome of this AE,,,Misc,coded,,"StemTB, Fatal (fill out an SAE form); Not resolved;
+2c43d559-3290-44ad-b7d7-90dac61d0b35,,EndTB-Export:6,"StemTB, Fatal (fill out an SAE form)",Fatal (fill out an SAE form),Смертельный исход (заполните форму СНЯ),Fatal (complete un formulario de AES),Misc,N/A,,,
+475d3c72-27a1-4105-a7ba-829439b5d779,,EndTB-Export:ae_out,"StemTB, AE outcome",Outcome of this AE,Исход данного НЯ,Resultado de este EA,Misc,coded,,"StemTB, Fatal (fill out an SAE form); Not resolved;
 Resolved;
 Resolved with sequelae;
 Resolving;
 Unknown",
-10059b81-48a4-4074-931f-8319a223a674,,EndTB-Export:ae_maxsev,"StemTB, Maximum severity of AE",Maximum severity grade,,,Misc,coded,,"Number, 1;
+10059b81-48a4-4074-931f-8319a223a674,,EndTB-Export:ae_maxsev,"StemTB, Maximum severity of AE",Maximum severity grade,Максимальная степень тяжести,Grado de gravedad máxima,Misc,coded,,"Number, 1;
 Number, 2;
 Number, 3;
 Number, 4",
-3868d707-3a04-4a65-964a-0799b5740c1e,,EndTB-Export:ae_tbrel ,"StemTB, AE related to TB drugs",Is this adverse event related to any of the TB drugs in the patient's regimen?,,,Misc,coded,,True; False,
-17a2044d-fead-473e-9fe5-c08b29b7a029,,EndTB-Export:ae_grade,"StemTB, AE Grade",Severity grade,,,Misc,coded,,"Number, 1;
+3868d707-3a04-4a65-964a-0799b5740c1e,,EndTB-Export:ae_tbrel ,"StemTB, AE related to TB drugs",Is this adverse event related to any of the TB drugs in the patient's regimen?,НЯ связано с каким-либо ТБ препаратов в схеме лечения?,¿Está este Evento Adverso relacionado con algún medicamento de TBC en el esquema del paciente?,Misc,coded,,True; False,
+17a2044d-fead-473e-9fe5-c08b29b7a029,,EndTB-Export:ae_grade,"StemTB, AE Grade",Severity grade,Степень тяжести,Grado de gravedad,Misc,coded,,"Number, 1;
 Number, 2;
 Number, 3;
 Number, 4",
-dbf0d0ca-3976-11eb-adc1-0242ac120002,,EndTB-Export:35,"StemTB, Hypokalemia (K <= 3.4 mEq/L)",Hypokalemia (K <= 3.4 mEq/L),,,Misc,N/A,,,
-dbf0d606-3976-11eb-adc1-0242ac120002,,EndTB-Export:36,"StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L)",Hypomagnesemia (Mg <= 1.4 mmol/L),,,Misc,N/A,,,
-dbf0dc8c-3976-11eb-adc1-0242ac120002,,EndTB-Export:39,"StemTB, Lactate (serum lactate greater than ULN)",Lactate (serum lactate greater than ULN),,,Misc,N/A,,,
-dbf0ddf4-3976-11eb-adc1-0242ac120002,,EndTB-Export:1002,"StemTB, Skin hypo- or hyper-pigmentation",Skin hypo- or hyper-pigmentation,,,Misc,N/A,,,
-dbf0ddf4-3976-11eb-adc1-0242ac110002,,EndTB-Export:14,"StemTB, Prolonged (corrected) QT interval",Prolonged (corrected) QT interval,,,Misc,N/A,,,
-dbf0e088-3976-11eb-adc1-0242ac120002,,EndTB-Export:ae_type,"StemTB, AE term comprehensive list",Use one AE form per event. Tick the box that applies to the AE being reported,,,Misc,coded,,"Cardiac Rhythm; StemTB, Prolonged (corrected) QT interval; StemTB, Hypokalemia (K <= 3.4 mEq/L); StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L); StemTB, Lactate (serum lactate greater than ULN); Hearing impairment; Tinnitus; Vestibular Disorder; Hypothyroidism; Increased liver enzymes; Optic Nerve Disorder; Diarrhea;
+dbf0d0ca-3976-11eb-adc1-0242ac120002,,EndTB-Export:35,"StemTB, Hypokalemia (K <= 3.4 mEq/L)",Hypokalemia (K <= 3.4 mEq/L),Гипокалиемия (K <= 3.4 мЭкв/Л),Hipocalemia (K ≤ 3.4 mEq/L),Misc,N/A,,,
+dbf0d606-3976-11eb-adc1-0242ac120002,,EndTB-Export:36,"StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L)",Hypomagnesemia (Mg <= 1.4 mmol/L),Гипомагнезиемия (Mg <= 1.4 ммоль/Л),Hipomagnesemia (Mg ≤ 1.4 mmol/L),Misc,N/A,,,
+dbf0dc8c-3976-11eb-adc1-0242ac120002,,EndTB-Export:39,"StemTB, Lactate (serum lactate greater than ULN)",Lactate (serum lactate greater than ULN),Лактат (уровень лактата в сыворотке выше ВПН),Lactato (lactato sérico mayor que xLMaxN ),Misc,N/A,,,
+dbf0ddf4-3976-11eb-adc1-0242ac120002,,EndTB-Export:1002,"StemTB, Skin hypo- or hyper-pigmentation",Skin hypo- or hyper-pigmentation,Кожная гипо- и гиперпигментация,Hipo o hiper pigmentación de la piel,Misc,N/A,,,
+dbf0ddf4-3976-11eb-adc1-0242ac110002,,EndTB-Export:14,"StemTB, Prolonged (corrected) QT interval",Prolonged (corrected) QT interval,Удлиненный (корригированный) интервал QT,Intervalo QT prolongado (corregido),Misc,N/A,,,
+dbf0e088-3976-11eb-adc1-0242ac120002,,EndTB-Export:ae_type,"StemTB, AE term comprehensive list",Use one AE form per event. Tick the box that applies to the AE being reported,"Для каждого НЯ используйте одну форму НЯ. Отметьте клетку, соответствующую НЯ",Utilice un formulario de EA por evento. Marcar el casillero que se apliquen al EA que se está notificando,Misc,coded,,"Cardiac Rhythm; StemTB, Prolonged (corrected) QT interval; StemTB, Hypokalemia (K <= 3.4 mEq/L); StemTB, Hypomagnesemia (Mg <= 1.4 mmol/L); StemTB, Lactate (serum lactate greater than ULN); Hearing impairment; Tinnitus; Vestibular Disorder; Hypothyroidism; Increased liver enzymes; Optic Nerve Disorder; Diarrhea;
 Dyspepsia;
 Nausea;
 Oral Discomfort;
 Pancreatitis;
 Vomiting; Absolute Neutrophil Count Low; Anemia; Platelets Decreased; Allergic Reaction; Arthralgia; Arthritis; Myalgia; Tendinopathy; Dysgeusia; Headache; Peripheral neuropathy; Seizure; Gynecomastia; Anxiety; Depression; Psychosis; Suicidal ideation; Acute Kidney Injury; Mucocutaneous Symptoms; Pruritus; StemTB, Skin hypo- or hyper-pigmentation; Other",
-,,,"AE Form, Adverse Event Outcome and Causality",Adverse Event Outcome and Causality,,,Misc,N/A,"AE Form, Is AE an SAE;
+,,,"AE Form, Adverse Event Outcome and Causality",Adverse Event Outcome and Causality,Исход и Причинно-Следственнпя Связь Нежелательного Явления,Resultado y causalidad del evento adverso,Misc,N/A,"AE Form, Is AE an SAE;
 AE Form, SAE Case Number;
 AE Form, Date of AE Outcome;
 AE, Is the date of AE outcome estimated?; StemTB, If date of AE outcome estimated;
@@ -44,14 +44,14 @@ StemTB, AE outcome;
 StemTB, Maximum severity of AE;
 StemTB, AE related to TB drugs;
 AE Form, TB drug treatment; AE Form, Other causal factors",,
-971c524e-7515-4206-abd7-6cbbff1c724f,,EndTB-Export:lab_id,"StemTB, Lab ID number",Lab ID number,,,Misc,Text,,,
-cf62f8bb-bd1f-401e-bcf5-6ed462830458,,,"StemTB, Related Test Result",Related test results,,,Misc,N/A,"AE Form, AE related test;
+971c524e-7515-4206-abd7-6cbbff1c724f,,EndTB-Export:lab_id,"StemTB, Lab ID number",Lab ID number,Лабораторный Идентификационный Номер,ID de la muestra,Misc,Text,,,
+cf62f8bb-bd1f-401e-bcf5-6ed462830458,,,"StemTB, Related Test Result",Related test results,Соответствующие результаты анализов,Resultados de pruebas relacionados,Misc,N/A,"AE Form, AE related test;
 AE form, other related test;
 StemTB, Lab ID number;
 AE Form, AE related test date;
 AE Form, AE related test value",,
-,,,"AE Form, AE review log",Adverse Events Tracking Log,,,Misc,N/A,"AE Form, AE severity review",,
-64f0a647-441e-443a-a217-1b34df71302d,,,"StemTB, Adverse Events Template",Adverse Events,,,Misc,N/A,"AE Form, AE ID number; AE Form, Date of AE onset;
+,,,"AE Form, AE review log",Adverse Events Tracking Log,Журнал Отслеживания Нежелательных Явлений,Registro de seguimiento de eventos adversos,Misc,N/A,"AE Form, AE severity review",,
+64f0a647-441e-443a-a217-1b34df71302d,,,"StemTB, Adverse Events Template",Adverse Events,Нежелательные Явления,Eventos Adversos,Misc,N/A,"AE Form, AE ID number; AE Form, Date of AE onset;
 AE, Is the date of AE onset estimated?;
 StemTB, If date of AE onset estimated;
 StemTB, Date of AE report; StemTB, Were all anti-TB drugs suspended due to this AE;

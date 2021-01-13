@@ -1,30 +1,32 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en
-4abef7a0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:d_posttxooutcome,"StemTB PTO, Date of post-treatment outcome decision",Date of post-treatment outcome decision ,,,Question,Date,,,
-4abefa0c-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, Clinically without signs or symptoms of TB and culture negative ",Clinically without signs or symptoms of TB and culture negative ,,,Misc,N/A,,,
-4abefb06-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB PTO, Clinically without signs or symptoms of TB and no culture done",Clinically without signs or symptoms of TB and no culture done,,,Misc,N/A,,,
-4abefe26-22c2-11eb-adc1-0242ac120002,,EndTB-Export:posttxoutcome_rec,"StemTB PTO, If no recurrence",If no recurrence,,,Misc,Coded,,"StemTB PTO, Clinically without signs or symptoms of TB and culture negative; StemTB PTO, Clinically without signs or symptoms of TB and no culture done
+4abef7a0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:d_posttxooutcome,"StemTB PTO, Date of post-treatment outcome decision",Date of post-treatment outcome decision ,Дата проведения заключительной оценки после завершения лечения,Fecha de la decisión de resultado post-tratamiento,Question,Date,,,
+4abefa0c-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, Clinically without signs or symptoms of TB and culture negative ",Clinically without signs or symptoms of TB and culture negative ,Без клинических признаков или симптомов ТБ и отрицательный посев мокроты,Clínicamente sin signos o síntomas de tuberculosis y cultivo negativo ,Misc,N/A,,,
+4abefb06-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB PTO, Clinically without signs or symptoms of TB and no culture done",Clinically without signs or symptoms of TB and no culture done,Без клинических признаков или симптомов ТБ и без проведения посева мокроты,Clínicamente sin signos o síntomas de tuberculosis y sin cultivo realizado,Misc,N/A,,,
+4abefe26-22c2-11eb-adc1-0242ac120002,,EndTB-Export:posttxoutcome_rec,"StemTB PTO, If no recurrence",If no recurrence,Если отсутствует рецидив ,Si no hay recurrencia,Misc,Coded,,"StemTB PTO, Clinically without signs or symptoms of TB and culture negative; StemTB PTO, Clinically without signs or symptoms of TB and no culture done
 ",
-4abefef8-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB",Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB,,,Misc,N/A,,,
-4abeffc0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB PTO, One positive culture with clinical signs or symptoms or radiographic deterioration ",One positive culture with clinical signs or symptoms or radiographic deterioration ,,,Misc,N/A,,,
-4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"StemTB PTO, If recurrence",If recurrence,,,Misc,Coded,,"StemTB PTO, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; StemTB PTO, One positive culture with clinical signs or symptoms or radiographic deterioration 
+4abefef8-22c2-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB",Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB,"Два положительных посева (взятых в разные дни) вне зависимости от наличия 
+клинических признаков или симптомов ТБ",Dos cultivos diferentes (tomado en días diferentes) independientemente de la presencia de signos o síntomas clínicos de tuberculosis,Misc,N/A,,,
+4abeffc0-22c2-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB PTO, One positive culture with clinical signs or symptoms or radiographic deterioration ",One positive culture with clinical signs or symptoms or radiographic deterioration ,"Один положительный посев с клиническими признаками или симптомами или 
+ухудшение рентген картины",Un cultivo positivo con signos o síntomas clínicos o deterioro radiográfico,Misc,N/A,,,
+4abf0074-22c2-11eb-adc1-0242ac120002,,EndTB-Export:rec_post,"StemTB PTO, If recurrence",If recurrence,При наличии рецидива,Si hay recurrencia,Misc,Coded,,"StemTB PTO, Two positive cultures (taken on different days) irrespective of the presence of clinical signs or symptoms of TB; StemTB PTO, One positive culture with clinical signs or symptoms or radiographic deterioration 
 ",
-4abff074-22c2-11eb-bdc1-0242ac120002,,EndTB-Export:3,"StemTB PTO, Recurrence",Recurrence,,,Misc,N/A,,,
-4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, No Recurrence",No recurrence,,,Misc,N/A,,,
-,,EndTB-Export:4,"StemTB PTO, Lost to follow-up, post-treatment","Lost to follow-up, post-treatment",,,Misc,N/A,,,
-4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"StemTB PTO, Final Post-Treatment Outcome",Final Post-Treatment Outcome,,,Misc,Coded,,"StemTB PTO, No Recurrence; Died post treatment; StemTB PTO, Recurrence; StemTB PTO, Lost to follow-up, post-treatment; Not Evaluated",
-5c735a62-324f-11eb-adc1-0242ac111102,,EndTB-Export:deathcause_post,"StemTB PTO, If Died: Suspected Primary cause of death",If Died: Suspected Primary cause of death,,,Misc,Coded,,"TB immediate cause of death;
+4abff074-22c2-11eb-bdc1-0242ac120002,,EndTB-Export:3,"StemTB PTO, Recurrence",Recurrence,Рецидив,Recurrencia,Misc,N/A,,,
+4abf0077-22c2-11eb-ddc1-0242ac120002,,EndTB-Export:1,"StemTB PTO, No Recurrence",No recurrence,Отсутствие рецидива,Sin recurrencia,Misc,N/A,,,
+,,EndTB-Export:4,"StemTB PTO, Lost to follow-up, post-treatment","Lost to follow-up, post-treatment","Потерян для дальнейшего наблюдения, после завершения лечения","Perdida al seguimiento, posterior al tratamiento",Misc,N/A,,,
+4abf0132-22c2-11eb-adc1-0242ac120002,,EndTB-Export:f_posttxoutcome,"StemTB PTO, Final Post-Treatment Outcome",Final Post-Treatment Outcome,Окончательный исход после завершения лечения,Resultado final post-tratamiento,Misc,Coded,,"StemTB PTO, No Recurrence; Died post treatment; StemTB PTO, Recurrence; StemTB PTO, Lost to follow-up, post-treatment; Not Evaluated",
+5c735a62-324f-11eb-adc1-0242ac111102,,EndTB-Export:deathcause_post,"StemTB PTO, If Died: Suspected Primary cause of death",If Died: Suspected Primary cause of death,"Если умер, Предположительная причина смерти",Si está Fallecido: Causa principal de muerte sospechada ,Misc,Coded,,"TB immediate cause of death;
 TB contributing to death;
 Surgery related death;
 Cause other than TB;
 Cause related to TB treatment;
 Unknown",
-5c735cec-324f-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause_post,"StemTB PTO, Non TB cause of post treatment death",Suspected cause other than TB,,,Misc,Text,,,
-5c735e18-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Died",Died Post-Treatment (Patient died after finishing treatment),,,Misc,N/A,"6m PTO, Date of death post treatment;
+5c735cec-324f-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause_post,"StemTB PTO, Non TB cause of post treatment death",Suspected cause other than TB,"Предполагаемая причина, не связанная с ТБ",Causa sospechada distinta a la TB,Misc,Text,,,
+5c735e18-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Died",Died Post-Treatment (Patient died after finishing treatment),Умер После Завершения Лечения (Пациент умер после завершения лечения),"Fallecido, posterior al tratamiento",Misc,N/A,"6m PTO, Date of death post treatment;
 StemTB PTO, If Died: Suspected Primary cause of death;
 6m PTO, Type of surgery related to post treatment death;
 StemTB PTO, Non TB cause of post treatment death",,
-5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB PTO, Left town region country",Left town/region/country,,,Misc,N/A,,,
-5c735ff8-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, 6m PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,,,Misc,Coded,,"Adverse event;
+5c735f08-324f-11eb-adc1-0242ac120002,,EndTB-Export:5,"StemTB PTO, Left town region country",Left town/region/country,Покинул город/область/страну,"Se fue de la ciudad, la región, del país",Misc,N/A,,,
+5c735ff8-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, 6m PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,Почему пациент потерян для дальнейшего наблюдения?,¿Por qué no se logró hacer un seguimiento del paciente? ,Misc,Coded,,"Adverse event;
 Patient refused followup;
 Substance abuse;
 Social problem: family, financial, complex social situation;
@@ -32,12 +34,14 @@ StemTB PTO, Left town region country;
 No confidence in treatment;
 Other;
 Unknown",Select all that apply
-5c7360de-324f-11eb-adc1-0242ac120002,,EndTB-Export:transfer_post,"StemTB PTO, Did the patient transfer out",Did the patient transfer out?,,,Misc,Coded,,True; False,
-5c7361ce-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout_post,"StemTB PTO, If no, why does the patient have this outcome","If no, why does the patient have this outcome?",,,Misc,Text,,,
-5c7365f2-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Not evaluated",Not evaluated (No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown),,,Misc,N/A,"StemTB PTO, Did the patient transfer out;
+5c7360de-324f-11eb-adc1-0242ac120002,,EndTB-Export:transfer_post,"StemTB PTO, Did the patient transfer out",Did the patient transfer out?,Пациент выбыл?,¿Se transfirió al paciente a otro centro? ,Misc,Coded,,True; False,
+5c7361ce-324f-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout_post,"StemTB PTO, If no, why does the patient have this outcome","If no, why does the patient have this outcome?","Если нет, почему у пациента такой исход?","Si la respuesta es SÍ, ¿Por qué tiene este resultado el paciente? ",Misc,Text,,,
+5c7365f2-324f-11eb-adc1-0242ac120002,,,"StemTB PTO, Not evaluated",Not evaluated (No post-treatment outcome is assigned (this includes cases transferred out to another treatment unit and whose treatment outcome is unknown),"Не оценивался (Не указан исход после завершения лечения (относится к 
+случаем, которые выбыли в другое лечебное учреждение и чьи исходы 
+лечения неизвестны)",No evaluado (No se asigna un resultado del tratamiento (esto incluye casos de transferencia a otras unidades de tratamiento para los cuales no se conoce el resultado del tratamiento). ,Misc,N/A,"StemTB PTO, Did the patient transfer out;
 6m PTO, Transferred to where post treatment;
 StemTB PTO, If no, why does the patient have this outcome",,
-6e624ab4-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,,,Misc,Coded,,"Adverse event;
+6e624ab4-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup,"StemTB PTO, Reasons for no post treatment followup",Why was the patient lost to follow-up?,Почему пациент был потерян для дальнейшего наблюдения?,¿Por qué no se logró hacer un seguimiento del paciente? ,Misc,Coded,,"Adverse event;
 Patient refused followup;
 Substance abuse;
 Social problem: family, financial, complex social situation;
@@ -45,10 +49,10 @@ StemTB PTO, Left town region country;
 No confidence in treatment;
 Other;
 Unknown",
-6e624da2-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup_oth,"StemTB PTO, Other reasons for no post treatment followup",Other,,,Misc,Text,,,
-6e624eec-362b-11eb-adc1-0242ac120002,,EndTB-Export:comm_nopost_fup,"StemTB PTO, Comments on no post treatment followup",Comments,,,Misc,Text,,,
-6e624fd2-362b-11eb-adc1-0242ac120002,,,"StemTB PTO, Lost To Follow Up","Lost to follow-up, post-treatment",,,Misc,N/A,"StemTB PTO, Reasons for no post treatment followup;
+6e624da2-362b-11eb-adc1-0242ac120002,,EndTB-Export:reas_nopost_fup_oth,"StemTB PTO, Other reasons for no post treatment followup",Other,Другое,Otro,Misc,Text,,,
+6e624eec-362b-11eb-adc1-0242ac120002,,EndTB-Export:comm_nopost_fup,"StemTB PTO, Comments on no post treatment followup",Comments,Комментарии,Comentarios,Misc,Text,,,
+6e624fd2-362b-11eb-adc1-0242ac120002,,,"StemTB PTO, Lost To Follow Up","Lost to follow-up, post-treatment","Потерян для дальнейшего наблюдения, после завершения лечения","Perdida al seguimiento, posterior al tratamiento",Misc,N/A,"StemTB PTO, Reasons for no post treatment followup;
 StemTB PTO, Other reasons for no post treatment followup;
 StemTB PTO, Comments on no post treatment followup",,
-4abf01f0-22c2-11eb-adc1-0242ac120002,,,"StemTB, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,,,Misc,N/A,"StemTB PTO, Date of post-treatment outcome decision; Final Post-Treatment Outcome; StemTB PTO, If no recurrence; StemTB PTO, Died; StemTB PTO, If recurrence; StemTB PTO, Lost To Follow Up; StemTB PTO, Not evaluated;
+4abf01f0-22c2-11eb-adc1-0242ac120002,,,"StemTB, Final Post-Treatment Outcome Template",Final Post-Treatment Outcome,Окончательный исход после завершения лечения,Resultado final post-tratamiento,Misc,N/A,"StemTB PTO, Date of post-treatment outcome decision; Final Post-Treatment Outcome; StemTB PTO, If no recurrence; StemTB PTO, Died; StemTB PTO, If recurrence; StemTB PTO, Lost To Follow Up; StemTB PTO, Not evaluated;
 ",,

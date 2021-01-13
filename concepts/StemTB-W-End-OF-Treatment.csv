@@ -1,30 +1,30 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
-ef69d778-bc5c-45ca-aa21-b234d51f5dbc,,EndTB-Export:5,"StemTB EOT, LFTU",Lost to Follow-up,,,Misc,N/A,,
-ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawal,,,Misc,N/A,,
-068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,,,Misc,N/A,,
-068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB EOT, Participant chose to end study participation",Participant chose to end study participation,,,Misc,N/A,,
-068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"StemTB EOT, If withdrawal reason for withdrawal",Reason for Withdrawal ,,,Misc,Coded,,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance;
+ef69d778-bc5c-45ca-aa21-b234d51f5dbc,,EndTB-Export:5,"StemTB EOT, LFTU",Lost to Follow-up,Потерян для дальнейшего наблюдения,Perdida en el seguimiento,Misc,N/A,,
+ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawal,Снятие с лечения,Retirado,Misc,N/A,,
+068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,Краткосрочная схема была изменена в результате исходной лекарственной устойчивости,El régimen acortado se modificó debido a la resistencia inicial a los medicamentos,Misc,N/A,,
+068d4620-2472-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB EOT, Participant chose to end study participation",Participant chose to end study participation,Участник решил завершить участие в исследовании,El participante eligió terminar la participación en el estudio,Misc,N/A,,
+068d471a-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr,"StemTB EOT, If withdrawal reason for withdrawal",Reason for Withdrawal ,Причина снятия с лечения,Razón para el retiro del tratamiento ,Misc,Coded,,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance;
 StemTB EOT, Participant chose to end study participation;
 Other"
-068d47ec-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr_oth,"StemTB EOT, If withdrawal other","If other, specify",,,Misc,Text,,
-068d48b4-2472-11eb-adc1-0242ac1d0002,,,"StemTB EOT, Withdrawal",Withdrawal,,,Misc,N/A,"StemTB EOT, If withdrawal reason for withdrawal; StemTB EOT, If withdrawal other",
-716497f4-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_txend,"StemTB, Tuberculosis treatment end date",Date of last day of treatment,,,Misc,Date,,
-71649b8c-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_outdecision ,"StemTB, End of Treatment Outcome date",Date of end of treatment decision,,,Misc,Date,,
-71649cae-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause,"StemTB, Suspected primary cause of death",Suspected primary cause of death,,,Misc,Coded,,"TB immediate cause of death;
+068d47ec-2472-11eb-adc1-0242ac120002,,EndTB-Export:reas_withdr_oth,"StemTB EOT, If withdrawal other","If other, specify","Если другое, укажите","Otro, especifique",Misc,Text,,
+068d48b4-2472-11eb-adc1-0242ac1d0002,,,"StemTB EOT, Withdrawal",Withdrawal,Снятие с лечения,Retirado,Misc,N/A,"StemTB EOT, If withdrawal reason for withdrawal; StemTB EOT, If withdrawal other",
+716497f4-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_txend,"StemTB, Tuberculosis treatment end date",Date of last day of treatment,Дата последнего дня лечения,Fecha de término del tratamiento,Misc,Date,,
+71649b8c-3404-11eb-adc1-0242ac120002,,EndTB-Export:d_outdecision ,"StemTB, End of Treatment Outcome date",Date of end of treatment decision,Дата решения об окончании лечения,Fecha en que se decidió el término del tratamiento,Misc,Date,,
+71649cae-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause,"StemTB, Suspected primary cause of death",Suspected primary cause of death,Предполагаемая первичная причина смерти,Principal causa de muerte sospechada ,Misc,Coded,,"TB immediate cause of death;
 TB contributing to death;
 Surgery related death;
 Cause other than TB;
 Cause related to TB treatment;
 Unknown"
-71649d94-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_tb,"StemTB, Suspected cause related to TB treatment",Suspected cause related to TB treatment,,,Misc,Text,,
-71649e70-3404-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause,"StemTB, Non TB cause of death",Suspected cause other than TB,,,Misc,Text,,
-71649f38-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,,,Misc,Coded,,"Lack of conversion;
+71649d94-3404-11eb-adc1-0242ac120002,,EndTB-Export:deathcause_tb,"StemTB, Suspected cause related to TB treatment",Suspected cause related to TB treatment,"Предполагаемая причина, связанная с лечением ТБ",Causa sospechada relacionado al tratamiento TB ,Misc,Text,,
+71649e70-3404-11eb-adc1-0242ac120002,,EndTB-Export:nontb_cause,"StemTB, Non TB cause of death",Suspected cause other than TB,"Предполагаемая причина, не связанная с ТБ",Otra causa sospechada distinta a la TB ,Misc,Text,,
+71649f38-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail,"StemTB, Reasons for failure definition",Reasons for treatment failure,Причина неудачи лечения,Razones para el fracaso al tratamiento ,Misc,Coded,,"Lack of conversion;
 Bacteriological reversion after conversion to negative;
 Evidence of additional acquired resistance to fluoroquinolones or second-line injectable drugs;
 Adverse drug reactions;
 Other"
-7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify",,,Misc,Text,,
-7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Why was the patient's treatment interrupted?,,,Misc,Coded,,"Adverse event;
+7164a000-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_fail_oth,"StemTB, Other reasons for failure definition","If other, specify","Если другое, укажите","Otro, especifique",Misc,Text,,
+7164a24e-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf,"StemTB, Reasons for treatment interrruption",Why was the patient's treatment interrupted?,Почему лечение пациента прервано?,¿Por qué se interrumpió el tratamiento del paciente? ,Misc,Coded,,"Adverse event;
 Patient refused to finish treatment/bad relation with health worker;
 Substance abuse;
 Social problem: family, financial, complex social situation;
@@ -32,33 +32,33 @@ Left region/country;
 No confidence in treatment;
 Other;
 Unknown"
-7164a32a-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf_oth,"StemTB, Other reasons for treatment interruption","If other, specify",,,Misc,Text,,
-7164a3f2-3404-11eb-adc1-0242ac120002,,EndTB-Export:ltf_oi,"StemTB, Additional information on treatment interruption",Comments,,,Misc,Text,,
-7164a4ba-3404-11eb-adc1-0242ac120002,,,"StemTB, LTFU",Lost to Follow-up,,,Misc,N/A,"StemTB, Reasons for treatment interrruption;
+7164a32a-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_ltf_oth,"StemTB, Other reasons for treatment interruption","If other, specify","Если другое, укажите","Otro, especifique",Misc,Text,,
+7164a3f2-3404-11eb-adc1-0242ac120002,,EndTB-Export:ltf_oi,"StemTB, Additional information on treatment interruption",Comments,Комментарии,Comentarios,Misc,Text,,
+7164a4ba-3404-11eb-adc1-0242ac120002,,,"StemTB, LTFU",Lost to Follow-up,Потерян для дальнейшего наблюдения,Perdida en el seguimiento,Misc,N/A,"StemTB, Reasons for treatment interrruption;
 StemTB, Other reasons for treatment interruption;
 StemTB, Additional information on treatment interruption",
 "ef69d778-bc5c-45ca-aa21-b234c51e6dec
-",,,"StemTB EOT, Outcome",Outcome,,,Misc,Coded,,"Cured;
+",,,"StemTB EOT, Outcome",Outcome,Исход,Resultado,Misc,Coded,,"Cured;
 Completed;
 Died;
 Failed;
 StemTB EOT, LFTU; StemTB EOT, Withdrawn;
 Not Evaluated"
-7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,,,Misc,N/A,"StemTB, Reasons for failure definition;
+7164a582-3404-11eb-adc1-0242ac120002,,,"StemTB, Failed",Failed,Неудача лечения,Fracaso,Misc,N/A,"StemTB, Reasons for failure definition;
 StemTB, Other reasons for failure definition",
-7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, Died",Died,,,Misc,N/A,"DATE OF DEATH;
+7164a640-3404-11eb-adc1-0242ac120002,,,"StemTB, Died",Died,Умер,Fallecido,Misc,N/A,"DATE OF DEATH;
 StemTB, Suspected primary cause of death; EOT, Type of surgery related to death; StemTB, Non TB cause of death; Suspected cause related to TB treatment",
-7164a708-3404-11eb-adc1-0242ac120002,,EndTB-Export:outcome,"StemTB, End of Treatment Outcome",Outcome,,,Misc,Coded,,"Cured;
+7164a708-3404-11eb-adc1-0242ac120002,,EndTB-Export:outcome,"StemTB, End of Treatment Outcome",Outcome,Исход,Resultado,Misc,Coded,,"Cured;
 Died;
 Failed;
 Lost to follow-up;
 StemTB EOT, Withdrawal;
 Not Evaluated;"
-7164a8fc-3404-11eb-adc1-0242ac120002,,EndTB-Export:transfer,"StemTB, Did the patient transfer out",Did the patient transfer out?,,,Misc,Coded,,True; False
-7164a9ce-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout,"StemTB, Other reasons for no evaluation of outcome","If no, why does the patient have this outcome?",,,Misc,Text,,
-7164aa8c-3404-11eb-adc1-0242ac120002,,,"StemTB, Not evaluated",Not Evaluated,,,Misc,N/A,"StemTB, Did the patient transfer out; EOT, Transferred to where;
+7164a8fc-3404-11eb-adc1-0242ac120002,,EndTB-Export:transfer,"StemTB, Did the patient transfer out",Did the patient transfer out?,Пациент выбыл?,¿Se transfirió al paciente a otro centro? ,Misc,Coded,,True; False
+7164a9ce-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout,"StemTB, Other reasons for no evaluation of outcome","If no, why does the patient have this outcome?","Если нет, почему у пациента такой исход?","Si la respuesta es NO, ¿Por qué tiene este resultado el paciente? ",Misc,Text,,
+7164aa8c-3404-11eb-adc1-0242ac120002,,,"StemTB, Not evaluated",Not Evaluated,Не оценивалось,No evaluado,Misc,N/A,"StemTB, Did the patient transfer out; EOT, Transferred to where;
 StemTB, Other reasons for no evaluation of outcome",
-bb80d45d-e4c5-4be0-aa7c-0e34d2635ee5,,,"StemTB, Outcome End of Treatment Template",End of Treatment,,,Misc,N/A,"StemTB, Tuberculosis treatment end date;
+bb80d45d-e4c5-4be0-aa7c-0e34d2635ee5,,,"StemTB, Outcome End of Treatment Template",End of Treatment,Окончание лечения,Término del tratamiento,Misc,N/A,"StemTB, Tuberculosis treatment end date;
 StemTB, End of Treatment Outcome date;
 StemTB EOT, Outcome;
 StemTB, Died; StemTB, Failed;

@@ -1,17 +1,16 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Allow Decimal?,Absolute Low,Absolute High 
-546f91be-5ac1-4621-a297-33bd2464f53d,,EndTB-Export:pnrflex_r_fup ,"Followup, Ankle reflexes in right",Reflexes (RIGHT),,,Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
-38ae0acd-0939-4a62-9d5e-fe56cc6e626b,,EndTB-Export:pnrflex_l_fup,"Followup, Ankle reflexes in left",Reflexes (LEFT),,,Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
-582b108f-d881-4bcf-8093-d33398597289,,,"StemTB, Brief Peripheral Neuropathy Screen",Brief Peripheral Neuropathy Screen,,,Misc,N/A,"Followup, Brief peripheral neuropathy screen in right; Followup, Brief peripheral neuropathy screen in left",,,,
-8b5746a6-e23d-4ebc-8d6c-b6c35c56d9e8,,EndTB-Export:colorblind_r_fup,"StemTB, Right Eye Correct Plates",Right eye (___ /11 plates),,,Misc,Numeric,,,Yes,0,11
-8b5746a6-e23d-4ebc-9b6c-b6c35c56d8d8,,EndTB-Export:colorblind_l_fup,"StemTB, Left Eye Correct Plates",Left eye (___ /11 plates),,,Misc,Numeric,,,Yes,0,11
-aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"StemTB, Ishihara Test",Ishihara Test,,,Misc,N/A,"StemTB, Right Eye Correct Plates; 
+546f91be-5ac1-4621-a297-33bd2464f53d,,EndTB-Export:pnrflex_r_fup ,"Followup, Ankle reflexes in right",Reflexes (RIGHT),Рефлексы (ПРАВАЯ),Reflejos (Derecho),Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
+38ae0acd-0939-4a62-9d5e-fe56cc6e626b,,EndTB-Export:pnrflex_l_fup,"Followup, Ankle reflexes in left",Reflexes (LEFT),Рефлексы (ЛЕВАЯ),Reflejos (Izquierdo),Misc,Coded,,0 = Absent; 1 = Hypoactive; 2 = Normal; 3 = Hyperactive; 4 = Clonus; 8 = Unable to or did not assess,,,
+582b108f-d881-4bcf-8093-d33398597289,,,"StemTB, Brief Peripheral Neuropathy Screen",Brief Peripheral Neuropathy Screen,Краткая Оценка Периферической Нейропатии,Calificación del breve descarte de neuropatía periférica,Misc,N/A,"Followup, Brief peripheral neuropathy screen in right; Followup, Brief peripheral neuropathy screen in left",,,,
+8b5746a6-e23d-4ebc-8d6c-b6c35c56d9e8,,EndTB-Export:colorblind_r_fup,"StemTB, Right Eye Correct Plates",Right eye (___ /11 plates),Правый глаз (___ /11 листов),Ojo derecho (___ /11 placas),Misc,Numeric,,,Yes,0,11
+8b5746a6-e23d-4ebc-9b6c-b6c35c56d8d8,,EndTB-Export:colorblind_l_fup,"StemTB, Left Eye Correct Plates",Left eye (___ /11 plates),Левый глаз (___ /11 листов),Ojo izquierdo (___ /11 placas),Misc,Numeric,,,Yes,0,11
+aef91d6f-80e6-4b71-984b-6ae0342f2dd2,,,"StemTB, Ishihara Test",Ishihara Test,Тест Ишихары,Prueba de Ishihara,Misc,N/A,"StemTB, Right Eye Correct Plates; 
 StemTB, Left Eye Correct Plates",,,,
-aef91d6f-80e6-4b71-984b-6aa0342f2ed2,,EndTB-Export:va_r,"StemTB, Right Eye Visual Acuity",Right eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
-aef91d6f-80e6-4b71-974b-6ae0342f2dd2,,EndTB-Export:va_l,"StemTB, Left Eye Visual Acuity",Left eye (20 ft/_),,,Misc,Numeric,,,Yes,0,400
-aef91d6f-80d6-4b71-974b-6ad0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,,,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
+aef91d6f-80e6-4b71-984b-6aa0342f2ed2,,EndTB-Export:va_r,"StemTB, Right Eye Visual Acuity",Right eye (20 ft/_),Правый глаз (5 м/_),Ojo derecho (20 ft/_),Misc,Numeric,,,Yes,0,400
+aef91d6f-80e6-4b71-974b-6ae0342f2dd2,,EndTB-Export:va_l,"StemTB, Left Eye Visual Acuity",Left eye (20 ft/_),Левый глаз (5 м/_),Ojo izquierdo (20 ft/_),Misc,Numeric,,,Yes,0,400
+aef91d6f-80d6-4b71-974b-6ad0342f2dd2,,,"StemTB, Visual Acuity",Visual Acuity,Острота Зрения,Agudeza Visual,Misc,N/A,"StemTB, Right Eye Visual Acuity; 
 StemTB, Left Eye Visual Acuity",,,,
-7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,,,Misc,Text,,,,,
-eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,,,Misc,Text,,,,,
-73766466-d0e3-427c-a38b-2a01f49dd3fe,,,"Followup, Clinical Examination",Clinical Examination,"Клиническое Обследование
-",,Misc,N/A,Weight (kg); Height (cm); BMI Data,,,,
-eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,,,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; StemTB, Visual Acuity; StemTB, Ishihara Test; EKG, QT Interval; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Brief Peripheral Neuropathy Screen",,,,
+7a63496a-252a-11eb-adc1-0444ac120002,,EndTB-Export:tx_month,"StemTB, Month of treatment",Month of treatment,Месяц лечения,Mes de tratamiento,Misc,Text,,,,,
+eec8fd6c-1acc-11eb-adc1-0242ac120002,,,"StemTB, Other clinical Exam",Other,Другое,Otro,Misc,Text,,,,,
+73766466-d0e3-427c-a38b-2a01f49dd3fe,,,"Followup, Clinical Examination",Clinical Examination,Клиническое Обследование,Examen Clínico,Misc,N/A,Weight (kg); Height (cm); BMI Data,,,,
+eec9019a-1acc-11eb-adc1-0242ac120002,,,"StemTB, Monthly Clinical Examination Log",Monthly Clinical Examination Log,Журнал Ежемесячного Клинического Осмотра,Registro de Examen Clínico Mensual,Misc,N/A,"Followup, Visit Date; StemTB, Month of treatment; Followup, Clinical Examination; StemTB, Visual Acuity; StemTB, Ishihara Test; EKG, QT Interval; EKG, QTcF Interval; Pulse; Additional electrocardiogram comments; StemTB, Brief Peripheral Neuropathy Screen",,,,

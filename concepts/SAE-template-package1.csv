@@ -1,30 +1,30 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Absolute low
-,,EndTB-Export:d_sae_end,"StemTB SAE, Event end date",Event end date,,,Misc,Date,,,
-,,EndTB-Export:sae_dur_less1d_hr,"StemTB SAE, Duration if <1 day (hrs)",hrs,,,Misc,Numeric,,,0
-,,EndTB-Export:sae_dur_less1d_min,"StemTB SAE, Duration if <1 day (min)",min,,,Misc,Numeric,,,0
-,,,"StemTB SAE, Duration if <1 day (hrs/min)",Duration if <1 day (hrs/min),,,Misc,N/A,"StemTB SAE, Duration if <1 day (hrs);
+,,EndTB-Export:d_sae_end,"StemTB SAE, Event end date",Event end date,Дата окончания явления,Fecha de término del evento ,Misc,Date,,,
+,,EndTB-Export:sae_dur_less1d_hr,"StemTB SAE, Duration if <1 day (hrs)",hrs,час,hrs,Misc,Numeric,,,0
+,,EndTB-Export:sae_dur_less1d_min,"StemTB SAE, Duration if <1 day (min)",min,мин,min,Misc,Numeric,,,0
+,,,"StemTB SAE, Duration if <1 day (hrs/min)",Duration if <1 day (hrs/min),Продолжительность если <1 дня (час/мин),Duración si <1 día (hrs/min),Misc,N/A,"StemTB SAE, Duration if <1 day (hrs);
 StemTB SAE, Duration if <1 day (min)",,
-,,EndTB-Export:d_sae_death,"StemTB SAE, In case of death, death date",Death date,,,Misc,Date,,,
-,,EndTB-Export:aut_sae_death,"StemTB SAE, In case of death, autopsy",Autopsy,,,Misc,Coded,,True; False,
-,,,"StemTB SAE, In case of death",In case of death,,,Misc,N/A,"StemTB SAE, In case of death, death date;
+,,EndTB-Export:d_sae_death,"StemTB SAE, In case of death, death date",Death date,Дата смерти,Fecha de muerte,Misc,Date,,,
+,,EndTB-Export:aut_sae_death,"StemTB SAE, In case of death, autopsy",Autopsy,Вскрытие,Autopsia,Misc,Coded,,True; False,
+,,,"StemTB SAE, In case of death",In case of death,В случае смерти,En caso de muerte,Misc,N/A,"StemTB SAE, In case of death, death date;
 StemTB SAE, In case of death, autopsy",,
-,,EndTB-Export:admd_sae_hosp,"StemTB SAE, In case of hospitalization requires/prolonged, admission date",Admission date,,,Misc,Date,,,
-,,EndTB-Export:disd_sae_hosp,"StemTB SAE, In case of hospitalization requires/prolonged, discharge date",Discharge date,,,Misc,Date,,,
-,,,"StemTB SAE, Hospitalization required / prolonged",Hospitalization required / prolonged,,,Misc,N/A,"StemTB SAE, In case of hospitalization requires/prolonged, admission date;
+,,EndTB-Export:admd_sae_hosp,"StemTB SAE, In case of hospitalization requires/prolonged, admission date",Admission date,Дата госпитализации,Fecha de admisión,Misc,Date,,,
+,,EndTB-Export:disd_sae_hosp,"StemTB SAE, In case of hospitalization requires/prolonged, discharge date",Discharge date,Дата выписки,Fecha de alta,Misc,Date,,,
+,,,"StemTB SAE, Hospitalization required / prolonged",Hospitalization required / prolonged,Госпитализация необходима / продлена,Hospitalización requerida/prolongada ,Misc,N/A,"StemTB SAE, In case of hospitalization requires/prolonged, admission date;
 StemTB SAE, In case of hospitalization requires/prolonged, discharge date",,
-985155ae-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:spnsr,"StemTB, Sponsor",Sponsor,,,Misc,Text,,,
-98335716-234b-11eb-adc1-0242ac1e0002,,EndTB-Export:prot_id,"StemTB, Protocol/Program number",Protocol/Program number,,,Misc,Text,,,
-935357e8-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:site_id,"StemTB, Site number (for studies) or country",Site number (for studies) or country,,,Misc,Text,,,
-28a3fa06-33f9-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB, Initial Report",Initial report,,,Misc,N/A,,,
-28a3fc90-33f9-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB, Follow up Report",Follow-up report,,,Misc,N/A,,,
-28a3fd80-33f9-11eb-adc1-0242ac120002,,EndTB-Export:sae_unex_tb,"StemTB, SAE Unexpected with the TB drugs",Unexpected with the TB drugs?,,,Misc,Coded,,True; False,
-28a3fe52-33f9-11eb-adc1-0242ac120002,,EndTB-Export:sae_tbrel,"StemTB, SAE Related to TB drugs",Related to TB drugs?,,,Misc,Coded,,True; False,
-28a3ff1a-33f9-11eb-adc1-0242ac120002,,EndTB-Export:serious,"StemTB, SAE Serious",Serious,,,Misc,Coded,,True; False,
-28a3fff6-33f9-11eb-adc1-0242ac120002,,,"StemTB, SAE Information",SAE Information,,,Misc,N/A,,,
-9853496e-234b-11eb-adc1-0242ac100002,,EndTB-Export:type_rep,"StemTB, Type of Report",Type of Report,,,Misc,Coded,,"StemTB, Initial Report;
+985155ae-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:spnsr,"StemTB, Sponsor",Sponsor,Спонсор,Patrocinador,Misc,Text,,,
+98335716-234b-11eb-adc1-0242ac1e0002,,EndTB-Export:prot_id,"StemTB, Protocol/Program number",Protocol/Program number,Номер Протокола/Программы,Número de protocolo/programa,Misc,Text,,,
+935357e8-234b-11eb-adc1-0242ac1d0002,,EndTB-Export:site_id,"StemTB, Site number (for studies) or country",Site number (for studies) or country,Номер участка (для исследований) или страны,Número de sitio (para estudios) o país,Misc,Text,,,
+28a3fa06-33f9-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB, Initial Report",Initial report,Первоначальный отчет,Informe inicial,Misc,N/A,,,
+28a3fc90-33f9-11eb-adc1-0242ac120002,,EndTB-Export:2,"StemTB, Follow up Report",Follow-up report,Добавочный отчет,Informe de seguimiento,Misc,N/A,,,
+28a3fd80-33f9-11eb-adc1-0242ac120002,,EndTB-Export:sae_unex_tb,"StemTB, SAE Unexpected with the TB drugs",Unexpected with the TB drugs?,Непредвиденная связь с ПТП?,¿Inesperado con los medicamentos de TB? ,Misc,Coded,,True; False,
+28a3fe52-33f9-11eb-adc1-0242ac120002,,EndTB-Export:sae_tbrel,"StemTB, SAE Related to TB drugs",Related to TB drugs?,Связано с ПТП?,¿Relacionado a los medicamentos de TB?,Misc,Coded,,True; False,
+28a3ff1a-33f9-11eb-adc1-0242ac120002,,EndTB-Export:serious,"StemTB, SAE Serious",Serious,Серьезное,Serio,Misc,Coded,,True; False,
+28a3fff6-33f9-11eb-adc1-0242ac120002,,,"StemTB, SAE Information",SAE Information,Информация о СНЯ,Información del EAS,Misc,N/A,,,
+9853496e-234b-11eb-adc1-0242ac100002,,EndTB-Export:type_rep,"StemTB, Type of Report",Type of Report,Тип Отчета,Tipo de informe,Misc,Coded,,"StemTB, Initial Report;
 StemTB, Follow up Report
 ",
-,,EndTB-Export:sae_term,"SAE Form, SAE term comprehensive AE list ",SAE term,,,Misc,Coded,,"Absolute Neutrophil Count Low;
+,,EndTB-Export:sae_term,"SAE Form, SAE term comprehensive AE list ",SAE term,Термин СНЯ,Termino de evento adverso ,Misc,Coded,,"Absolute Neutrophil Count Low;
 Activated Partial Thromboplastin Time (APPT) Prolonged;
 Acute Kidney Injury;
 Alanine Aminotransferase (ALT or SGPT) Increased;
@@ -160,33 +160,34 @@ Weight Gain;
 Weight Loss;
 White Blood Cell Decreased
 ",
-98536a40-234b-11eb-adc1-0242ac120002,,EndTB-Export:rel_med_hist,"StemTB, Indicate relevant medical history, including prior diagnoses past laboratory investigations, X-ray, ECG prior to treatment, previous procedures and relevant past drugs",Relevant Medical History,,,Misc,Text,,,
-985352d0-234b-11eb-adc1-0242ac120002,,,"StemTB, Relevant Medical History",Relevant Medical History,,,Misc,N/A,"StemTB, Indicate relevant medical history, including prior diagnoses past laboratory investigations, X-ray, ECG prior to treatment, previous procedures and relevant past drugs",,
-98535dac-234b-11eb-adc1-0242ac120002,,EndTB-Export:Description of the reaction,"StemTB, Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution",Description of the reaction,,,Misc,Text,,,
-dcd36750-234b-11ab-adc1-0242ac120002,,,"StemTB, Description of the reaction","Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution",,,Misc,N/A,"StemTB, Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution",,
-dcd36c28-234b-11bb-adc1-0242ac120002,,EndTB-Export:cause_exp,"StemTB, Why do you think the drugs caused it? Other causal factors? Why is it considered unexpected?",Causality and Exceptedness,,,Misc,Text,,,
-dcd3716e-234b-11cb-adc1-0242ac120002,,,"StemTB, Explain causality and expectedness",Explain causality and expectedness,,,Misc,N/A,"StemTB, Why do you think the drugs caused it? Other causal factors? Why is it considered unexpected?",,
-dcd3729a-234b-11db-adc1-0242ac120002,,EndTB-Export:ref_range,"StemTB, Reference range",Reference range,,,Misc,Text,,,
-7075a0a0-e398-4911-975c-eb3248bff0c5,,,"SAE Form, Related tests",Related tests,,,Misc,N/A,"SAE Form, Related test; SAE form, other related test; SAE Form, Related test lab ID; SAE Form, Related test date; SAE Form, Related test value; StemTB, Reference range",,
-975343c0-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_name,"StemTB, Name of reporter",Name of reporter,,,Misc,Text,,,
-9653474e-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_role,"StemTB, Role in trial/program",Role in trial/program,,,Misc,Text,,,
-93534852-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_d_event,"StemTB, Date of event's awareness",Date of event's awareness:,,,Question,Date,,,
-925349ba-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_add,"StemTB SAE, Address",Address,,,Misc,Text,,,
-91534aa0-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_email,"StemTB SAE, Email",Email ,,,Misc,Text,,,
-90534b7c-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_phone,"StemTB SAE, Phone",Phone,,,Misc,Numeric,,,
-99534d02-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_d,"StemTB SAE, Date",Date,,,Question,Date,,,
-98334dd4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sig,"StemTB SAE, Signature",Signature,,,Misc,Text,,,
-98234ea6-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_info,"StemTB SAE, Further information on this SAE expected",Further information on this SAE expected?,,,Misc,Coded,,True; False,
-981350fe-234b-11eb-adc1-0242ac121112,,EndTB-Export:rep_sae_ann,"StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)",,,Misc,Coded,,True; False,
-985451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_listann,"StemTB SAE, If yes, list the annexes","If yes, list the annexes",,,Misc,Text,,,
+98536a40-234b-11eb-adc1-0242ac120002,,EndTB-Export:rel_med_hist,"StemTB, Indicate relevant medical history, including prior diagnoses past laboratory investigations, X-ray, ECG prior to treatment, previous procedures and relevant past drugs",Relevant Medical History,Соответствующая История Болезни,Historial médico relevante,Misc,Text,,,
+985352d0-234b-11eb-adc1-0242ac120002,,,"StemTB, Relevant Medical History",Relevant Medical History,Соответствующая История Болезни,Historial médico relevante,Misc,N/A,"StemTB, Indicate relevant medical history, including prior diagnoses past laboratory investigations, X-ray, ECG prior to treatment, previous procedures and relevant past drugs",,
+98535dac-234b-11eb-adc1-0242ac120002,,EndTB-Export:Description of the reaction,"StemTB, Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution",Description of the reaction,Описание реакции,Descripción de la reacción ,Misc,Text,,,
+dcd36750-234b-11ab-adc1-0242ac120002,,,"StemTB, Description of the reaction","Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution","Четко опишите последовательность событий, диагноз, 
+соответствующие результаты обследования (ЭКГ, КТ и т.д.), 
+корректирующее лечение и динамику изменений.","Proporcione una descripción clara de la secuencia de eventos, diagnóstico, resultados de investigación relevantes (ECG, tomografía computarizada, etc.), tratamientos correctivos y evolución.",Misc,N/A,"StemTB, Provide a clear description of the sequence of events diagnosis, relevant investigation results (ECG, CT scan, etc.) corrective treatments, and evolution",,
+dcd36c28-234b-11bb-adc1-0242ac120002,,EndTB-Export:cause_exp,"StemTB, Why do you think the drugs caused it? Other causal factors? Why is it considered unexpected?",Causality and Exceptedness,Причинно-следственная связь и Прогнозируемость,La causalidad y la expectativa ,Misc,Text,,,
+dcd3716e-234b-11cb-adc1-0242ac120002,,,"StemTB, Explain causality and expectedness",Explain causality and expectedness,Объясните причинно-следственную связь и прогнозируемость,Explique la causalidad y la expectativa ,Misc,N/A,"StemTB, Why do you think the drugs caused it? Other causal factors? Why is it considered unexpected?",,
+dcd3729a-234b-11db-adc1-0242ac120002,,EndTB-Export:ref_range,"StemTB, Reference range",Reference range,Референсные значения,Rango de referencia ,Misc,Text,,,
+7075a0a0-e398-4911-975c-eb3248bff0c5,,,"SAE Form, Related tests",Related tests,Соответствующие лабораторные тесты,Pruebas relacionadas,Misc,N/A,"SAE Form, Related test; SAE form, other related test; SAE Form, Related test lab ID; SAE Form, Related test date; SAE Form, Related test value; StemTB, Reference range",,
+975343c0-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_name,"StemTB, Name of reporter",Name of reporter,Имя составителя отчета,Nombre y apellido de quien reporta,Misc,Text,,,
+9653474e-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_role,"StemTB, Role in trial/program",Role in trial/program,Роль в исследовании/программе,Papel en el ensayo/programa,Misc,Text,,,
+93534852-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_d_event,"StemTB, Date of event's awareness",Date of event's awareness:,"Дата, когда стало известно о явлении",Fecha de conocimiento del evento,Question,Date,,,
+925349ba-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_add,"StemTB SAE, Address",Address,Адрес,Dirección,Misc,Text,,,
+91534aa0-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_email,"StemTB SAE, Email",Email ,Электронная почта,Correo electrónico,Misc,Text,,,
+90534b7c-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_phone,"StemTB SAE, Phone",Phone,Телефон,Número de teléfono,Misc,Numeric,,,
+99534d02-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_d,"StemTB SAE, Date",Date,Дата,Fecha,Question,Date,,,
+98334dd4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sig,"StemTB SAE, Signature",Signature,Подпись,Firma,Misc,Text,,,
+98234ea6-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_info,"StemTB SAE, Further information on this SAE expected",Further information on this SAE expected?,Ожидается дополнительная информация по этому СНЯ?,¿Se espera más información sobre este EAS? ,Misc,Coded,,True; False,
+981350fe-234b-11eb-adc1-0242ac121112,,EndTB-Export:rep_sae_ann,"StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results)","Any annex to this document? (e.g. discharge summary, autopsy report, lab results)",Приложения к этому документу?,¿Algún anexo a este documento? ,Misc,Coded,,True; False,
+985451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:rep_sae_listann,"StemTB SAE, If yes, list the annexes","If yes, list the annexes","Если да, перечислите приложения","Si es SÍ, enumere los anexos:",Misc,Text,,,
 2a1d1cec-5259-4154-b5d2-67104565eb39,,EndTB-Export:101,"StemTB, Not applicable",Not applicable,,,Misc,N/A,,,
-897451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_diminished,"StemTB SAE, Event diminished after drug stopped/dose reduced",Event diminished after drug stopped/dose reduced?,,,Misc,Coded,,"True; False; StemTB, Not applicable",
-895451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_reappered,"StemTB SAE, Event reappeared after drug/dose reintroduction",Event reappeared after drug/dose reintroduction?,,,Misc,Coded,,"True; False; StemTB, Not applicable",
-,,,"SAE Form, TB drug treatment",TB drug treatment (data from PV Unit summary),,,Misc,N/A,"SAE Form, TB drug name;
+897451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_diminished,"StemTB SAE, Event diminished after drug stopped/dose reduced",Event diminished after drug stopped/dose reduced?,Явление ослабилось после остановки/снижения дозы лекарства?,¿El evento disminuyó después de suspender el medicamento/ reducir la dosis?,Misc,Coded,,"True; False; StemTB, Not applicable",
+895451e4-234b-11eb-adc1-0242ac120002,,EndTB-Export:sae_event_reappered,"StemTB SAE, Event reappeared after drug/dose reintroduction",Event reappeared after drug/dose reintroduction?,Явление снова появилось после повторного введения лекарства/дозы?,¿Reapareció el evento después de la reintroducción de la droga/la dosis? ,Misc,Coded,,"True; False; StemTB, Not applicable",
+,,,"SAE Form, TB drug treatment",TB drug treatment (data from PV Unit summary),Лечение ПТП (данные из отчета Отдела ФН),Tratamiento farmacológico contra la tuberculosis (datos del resumen de la unidad PV),Misc,N/A,"SAE Form, TB drug name;
 SAE Form, TB Drug Possibly related to SAE;
 SAE Form, Final action taken related to TB drug; StemTB SAE, Event diminished after drug stopped/dose reduced;
 StemTB SAE, Event reappeared after drug/dose reintroduction",,
-985362b6-234b-11eb-adc1-0242ac120002,,,"StemTB SAE, Reporter",Reporter,,,Misc,N/A,"StemTB, Name of reporter; StemTB, Role in trial/program; StemTB, Date of event's awareness; StemTB SAE, Address; StemTB SAE, Email; StemTB SAE, Phone; StemTB SAE, Date; StemTB SAE, Signature; StemTB SAE, Further information on this SAE expected; StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results); StemTB SAE, If yes, list the annexes",,
-06b7ed24-7739-415b-bc10-0fdcab1509f8,,,Serious Adverse Events Template,Serious Adverse Events,,"
-",Misc,N/A,"StemTB, Sponsor; StemTB, Protocol/Program number; StemTB, Site number (for studies) or country; SAE Form, SAE ID number; StemTB, Type of Report; SAE Form, Date of SAE report; SAE, Is the date of SAE report estimated?; SAE, Is the day of SAE report date estimated; SAE, Is the month of SAE report date estimated; SAE, Is the year of SAE report date estimated; StemTB, SAE Serious; StemTB, SAE Related to TB drugs; StemTB, SAE Unexpected with the TB drugs; StemTB SAE, Duration if <1 day (hrs/min); Followup, Clinical Examination; SAE Form, Event onset date; SAE, Is the date of SAE onset estimated?; SAE, Is the date of SAE onset day estimated; SAE, Is the month of SAE onset date estimated; SAE, Is the year of SAE onset date estimated; SAE Form, Previously reported as AE; SAE Form, AE ID if previously reported as AE; SAE Form, Seriousness criteria; StemTB SAE, In case of death; StemTB SAE, Hospitalization required / prolonged; SAE Form, Date event became serious; SAE, Is the date when the adverse event became serious estimated?; SAE, Is the day when the event became serious estimated; SAE, Is the month when the event became serious estimated; SAE, Is the year when the event became serious estimated; SAE Form, TB drugs suspended due to this SAE; SAE Form, SAE term comprehensive AE list; SAE Form, Other SAE term; SAE Comments; SAE Form, SAE severity grade; SAE Form, SAE review log; SAE Form, SAE outcome ( from PV unit summary); SAE Form, Other causal factors (data from PV unit summary); StemTB, Relevant Medical History; StemTB, Description of the reaction; StemTB, Explain causality and expectedness; SAE Form, Related tests; StemTB SAE, Reporter
+985362b6-234b-11eb-adc1-0242ac120002,,,"StemTB SAE, Reporter",Reporter,Составитель Отчета,Reportero,Misc,N/A,"StemTB, Name of reporter; StemTB, Role in trial/program; StemTB, Date of event's awareness; StemTB SAE, Address; StemTB SAE, Email; StemTB SAE, Phone; StemTB SAE, Date; StemTB SAE, Signature; StemTB SAE, Further information on this SAE expected; StemTB SAE, Any annex to this document? (e.g discharge summary, autopsy report, lab results); StemTB SAE, If yes, list the annexes",,
+06b7ed24-7739-415b-bc10-0fdcab1509f8,,,Serious Adverse Events Template,Serious Adverse Events,Серьезные Нежелательные Явления,Eventos Adversos Serios,Misc,N/A,"StemTB, Sponsor; StemTB, Protocol/Program number; StemTB, Site number (for studies) or country; SAE Form, SAE ID number; StemTB, Type of Report; SAE Form, Date of SAE report; SAE, Is the date of SAE report estimated?; SAE, Is the day of SAE report date estimated; SAE, Is the month of SAE report date estimated; SAE, Is the year of SAE report date estimated; StemTB, SAE Serious; StemTB, SAE Related to TB drugs; StemTB, SAE Unexpected with the TB drugs; StemTB SAE, Duration if <1 day (hrs/min); Followup, Clinical Examination; SAE Form, Event onset date; SAE, Is the date of SAE onset estimated?; SAE, Is the date of SAE onset day estimated; SAE, Is the month of SAE onset date estimated; SAE, Is the year of SAE onset date estimated; SAE Form, Previously reported as AE; SAE Form, AE ID if previously reported as AE; SAE Form, Seriousness criteria; StemTB SAE, In case of death; StemTB SAE, Hospitalization required / prolonged; SAE Form, Date event became serious; SAE, Is the date when the adverse event became serious estimated?; SAE, Is the day when the event became serious estimated; SAE, Is the month when the event became serious estimated; SAE, Is the year when the event became serious estimated; SAE Form, TB drugs suspended due to this SAE; SAE Form, SAE term comprehensive AE list; SAE Form, Other SAE term; SAE Comments; SAE Form, SAE severity grade; SAE Form, SAE review log; SAE Form, SAE outcome ( from PV unit summary); SAE Form, Other causal factors (data from PV unit summary); StemTB, Relevant Medical History; StemTB, Description of the reaction; StemTB, Explain causality and expectedness; SAE Form, Related tests; StemTB SAE, Reporter
 ",,
