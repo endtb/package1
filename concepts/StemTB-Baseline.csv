@@ -1,5 +1,15 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Description:en,Allow decimals,Absolute low,Units
-c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,,,Misc,Coded,,"Nat'l Center for TB Problems (NCTP), Almaty, Kazakhstan; Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)",,,
+c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,,,Misc,Coded,,"Botsabelo MDR-TB Clinic, Maseru, Lesotho;
+Motebang Hospital, Leribe, Lesotho;
+Mokhotlong Hospital, Mokhotlong, Lesotho;
+Quthing Hospital, Quthing, Lesotho;
+Berea District Hospital, Teyateyaneng, Lesotho;
+Mafeteng District Hospital, Mafeteng, Lesotho;
+Paray Hospital, Thaba Tseka, Lesotho;
+Nstekhe Hospital, Mohale’s Hoek, Lesotho;
+Machabeng Hospital, Qacha’s Nek, Lesotho;
+Butha Buthe District Hospital, Butha Buthe, Lesotho;
+Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)",,,
 c35e226a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility_oth,"StemTB Baseline, Other treatment facility",Other treatment facility,,,Misc,Text,,,,,,
 5beaa945-62f7-4e5b-86a3-c290575d1bdd,,EndTB-Export:1,Profile unknown,Profile unknown,,,Misc,N/A,,,,,,
 41d57106-32a0-4508-89ac-623fbac45437,,EndTB-Export:dr_profile,"Baseline, Drug resistance",Drug resistance profile,,,Misc,Coded,,"Profile unknown;
@@ -87,7 +97,7 @@ bb0f6d8c-2e9e-11eb-adc1-0242ac120002,,EndTB-Export:hepc_antibody,"StemTB Baselin
 bb0f6d8c-2e9e-11eb-ddc1-0242ac120002,,EndTB-Export:hepc_antibody_date,"StemTB Baseline, Hep C Antibody Date",Hep C Antibody date,,,Misc,date,,,,,,
 bb0f6940-2e9d-11eb-adc1-0242ac120001,,,"StemTB Baseline, Baseline Past Medical History",Past Medical History / Comorbidities,,,Misc,N/A,"StemTB Baseline, Confirmed HIV serostatus;
 Date of HIV diagnosis; StemTB Baseline, Last CD4 Count;
-CD4 date; StemTB Baseline, Last RNA Viral Load; Undetectable, If viral load results are undetectable, write the result here (for example, '< 20');
+CD4 date; StemTB Baseline, Last RNA Viral Load; If viral load results are undetectable, write the result here (for example, '< 20');
 Baseline, Viral Load Date; StemTB Baseline, Currently on ARV treatment?;
 StemTB Baseline, Date of ARV initiation;
 Baseline, Drugs used in ARV treatment; StemTB Baseline, Started on CPT?; StemTB Baseline, CPT Date;
@@ -100,7 +110,7 @@ c09d663f-30cc-48df-9b44-512afb1eaec1 ,,,"StemTB Baseline, Baseline, Past TB trea
 88581f70-2f23-11eb-adc1-0242ac121002,,EndTB-Export:1,"StemTB Baseline, Accepted",Accepted,,,Misc,N/A,,,,,,
 8858222c-2f23-11eb-adc1-0242ac121002,,EndTB-Export:0,"StemTB Baseline, Refused",Refused,,,Misc,N/A,,,,,,
 885823a8-2f23-11eb-adc1-0242ac121002,,EndTB-Export:2,"StemTB Baseline, Pending to be asked",Pending to be asked,,,Misc,N/A,,,,,,
-9996070d-91a3-4f7c-84a9-d9bd8a3fdd6f,,EndTB-Export:4,"Consent, withdrawn",Withdrawn,,,Misc,N/A,,,,,,
+9996071d-91a3-4e7c-84a9-d9bd8a3fdd6d,,EndTB-Export:4,"StemTB Baseline, Consent withdrawn",Withdrawn,,,Misc,N/A,,,,,,
 9996070d-91a3-4f7c-84a9-d9bd8a3fee6f,,EndTB-Export:ti_tr_startdate_est,"StemTB Baseline, Is the treatment start date estimated",Is this treatment start date estimated?,,,Misc,Coded,,Yes; No; Unknown,,,,
 9996070d-91a3-4f7c-84a9-d9bc9a3fee6f,,EndTB-Export:tx_est,"StemTB Baseline, If treatment start date estimated",If yes,,,Misc,Coded,,"StemTB, Day estimated;
 StemTB, Month Estimated;

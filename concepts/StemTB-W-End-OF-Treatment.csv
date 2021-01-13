@@ -58,8 +58,7 @@ Not Evaluated;"
 7164a9ce-3404-11eb-adc1-0242ac120002,,EndTB-Export:reas_noout,"StemTB, Other reasons for no evaluation of outcome","If no, why does the patient have this outcome?",,,Misc,Text,,
 7164aa8c-3404-11eb-adc1-0242ac120002,,,"StemTB, Not evaluated",Not Evaluated,,,Misc,N/A,"StemTB, Did the patient transfer out; EOT, Transferred to where;
 StemTB, Other reasons for no evaluation of outcome",
-"bb80d45d-e4c5-4ce0-bb7c-0a34d2635ea5
-",,,"StemTB, Outcome End of Treatment Template",End of Treatment,,,Misc,N/A,"StemTB, Tuberculosis treatment end date;
+bb80d45d-e4c5-4be0-aa7c-0e34d2635ee5,,,"StemTB, Outcome End of Treatment Template",End of Treatment,,,Misc,N/A,"StemTB, Tuberculosis treatment end date;
 StemTB, End of Treatment Outcome date;
 StemTB EOT, Outcome;
 StemTB, Died; StemTB, Failed;
