@@ -1,15 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Members,Answers,Description:en,Allow decimals,Absolute low,Units
-c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,Лечебное учреждение на начало лечения,Establecimiento de tratamiento al inicio,Misc,Coded,,"Botsabelo MDR-TB Clinic, Maseru, Lesotho;
-Motebang Hospital, Leribe, Lesotho;
-Mokhotlong Hospital, Mokhotlong, Lesotho;
-Quthing Hospital, Quthing, Lesotho;
-Berea District Hospital, Teyateyaneng, Lesotho;
-Mafeteng District Hospital, Mafeteng, Lesotho;
-Paray Hospital, Thaba Tseka, Lesotho;
-Nstekhe Hospital, Mohale’s Hoek, Lesotho;
-Machabeng Hospital, Qacha’s Nek, Lesotho;
-Butha Buthe District Hospital, Butha Buthe, Lesotho;
-Other","In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)",,,
+c35e626a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility,"StemTB Baseline, Treatment facility at start",Treatment facility at start,Лечебное учреждение на начало лечения,Establecimiento de tratamiento al inicio,Misc,Coded,,Other,"In which facility did the patient start their treatment? (Note: where the patient is registered, not where the patient receives treatment)",,,
 c35e226a-f9eb-401c-a7a6-e8a74bbb8447,,EndTB-Export:facility_oth,"StemTB Baseline, Other treatment facility",Other treatment facility,Другое лечебное учреждение,Otro establecimiento de tratamiento,Misc,Text,,,,,,
 5beaa945-62f7-4e5b-86a3-c290575d1bdd,,EndTB-Export:1,Profile unknown,Profile unknown,Спектр неизвестен,Perfil desconocido,Misc,N/A,,,,,,
 41d57106-32a0-4508-89ac-623fbac45437,,EndTB-Export:dr_profile,"Baseline, Drug resistance",Drug resistance profile,Спектр лекарственной устойчивости,Perfil de farmacorresistencia ,Misc,Coded,,"Profile unknown;
