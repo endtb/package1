@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Members,Answers
 73766466-d0e3-427c-a38b-2a01f48aa3fe,,EndTB-Export:d_radio,"StemTB, Chest Xray Date",Date of X-ray,Дата Рентген Обледования,Fecha de la radiografía,Misc,Date,,
 73766466-d0d3-472c-a38b-2a01f48aa3fe,,EndTB-Export:fibrosis,"StemTB, Presence of Fibrosis",Presence of fibrosis,Наличие фиброза,Presencia de fibrosis,Misc,Coded,,"None;
 In 1 lobe or less;

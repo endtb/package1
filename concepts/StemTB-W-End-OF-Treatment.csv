@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Members,Answers
 ef69d778-bc5c-45ca-aa21-b234d51f5dbc,,EndTB-Export:5,"StemTB EOT, LFTU",Lost to Follow-up,Потерян для дальнейшего наблюдения,Perdida en el seguimiento,Misc,N/A,,
 ef69d778-bc5c-45ca-aa21-b234d51f5dac,,EndTB-Export:7,"StemTB EOT, Withdrawn",Withdrawal,Снятие с лечения,Retirado,Misc,N/A,,
 068d43fa-2472-11eb-adc1-0242ac120002,,EndTB-Export:1,"StemTB EOT, Shortened regimen was changed due to baseline drug resistance",Shortened regimen was changed due to baseline drug resistance,Краткосрочная схема была изменена в результате исходной лекарственной устойчивости,El régimen acortado se modificó debido a la resistencia inicial a los medicamentos,Misc,N/A,,

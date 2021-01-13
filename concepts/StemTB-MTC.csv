@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Allow decimals,Absolute low,Absolute high
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Members,Answers,Allow decimals,Absolute low,Absolute high
 200d6fc2-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:dose_tkn,"StemTB, Number of Doses taken",Number of doses taken,Число принятых доз,Número de dosis tomadas,Misc,Numeric,,,Yes,0,
 200d71de-3b0f-11eb-adc1-0242ac120002,,EndTB-Export:dose_due,"StemTB, Number of Doses due",Number of doses due,Число предписанных доз,Número de dosis prescritas,Misc,Numeric,,,Yes,0,
 200d71de-3b0f-11eb-adc1-0242ac120003,,EndTB-Export:adh_dose,"StemTB, Dose",Dose (mg),Доза,Dosis,Misc,Numeric,,,Yes,0,

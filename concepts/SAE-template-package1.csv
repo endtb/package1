@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Members,Answers,Absolute low
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Members,Answers,Absolute low
 ,,EndTB-Export:d_sae_end,"StemTB SAE, Event end date",Event end date,Дата окончания явления,Fecha de término del evento ,Misc,Date,,,
 ,,EndTB-Export:sae_dur_less1d_hr,"StemTB SAE, Duration if <1 day (hrs)",hrs,час,hrs,Misc,Numeric,,,0
 ,,EndTB-Export:sae_dur_less1d_min,"StemTB SAE, Duration if <1 day (min)",min,мин,min,Misc,Numeric,,,0

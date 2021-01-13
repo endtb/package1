@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow decimals,Units,Normal low,Normal high
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:es,Data class,Data type,Answers,Members,Allow decimals,Units,Normal low,Normal high
 ,,EndTB-Export:d_postend_cont,"StemTB Quarterly PTO, Date of contact",1. Date of contact,1. Дата оценки,1. Fecha de contacto,Question,Date,,,,,,
 d23ebc46-510b-498e-adbc-575f26930cca,,EndTB-Export:5,"StemTB Quarterly PTO, Physical meeting elsewhere",Physical meeting elsewhere,Встреча в другом месте,Reunión física en otro lugar,Misc,N/A,,,,,,
 ebc013ef-64ec-4ee5-86fa-d245db6a3b3d,,EndTB-Export:4,"StemTB Quarterly PTO, Physical meeting in health facility",Physical meeting in health facility ,Встреча в медицинском учреждении,Reunión física en el centro de salud ,Misc,N/A,,,,,,
